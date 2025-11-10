@@ -1,0 +1,10 @@
+<svg viewBox="18072 2466 9531 5751" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible"><desc>Facsimile engraved by Thulemeier 1.0.0 on 2025-11-10</desc><defs><style type="text/css">
+    /* .staff * {
+      fill: #000;
+      stroke: #000;
+    }
+
+    .deletionBack {
+      fill: #00000033;
+    } */
+  </style></defs><g class="rastrums"><g class="rastrum" data-id="r4db0d328-7c3c-484b-b821-1df74d9bbf51" style="transform: rotate(-0.05deg); transform-origin: 1863px 10962px;"><g class="rastrum bounding-box" data-id="bbox-r4db0d328-7c3c-484b-b821-1df74d9bbf51"><rect x="1863" y="10962" width="23499" height="774" fill="#ff000033"></rect></g><path d="M1863 10967 L25362 10967" stroke-width="10" stroke="black"></path><path d="M1863 11158 L25362 11158" stroke-width="10" stroke="black"></path><path d="M1863 11349 L25362 11349" stroke-width="10" stroke="black"></path><path d="M1863 11540 L25362 11540" stroke-width="10" stroke="black"></path><path d="M1863 11731 L25362 11731" stroke-width="10" stroke="black"></path></g></g><g class="draft" data-label="4" data-id="d05b38bc3-c996-4e10-9eda-bd6579ba4995"><g class="system" data-id="s3e6221f5-d4c1-4b9e-b7d5-edb3d07aba13"><g class="staff" data-n="1" data-rastrum="r4db0d328-7c3c-484b-b821-1df74d9bbf51" style="transform: rotate(-0.05deg); transform-origin: 1863px 10962px;"></g></g><g class="deletions"><g data-id="x0cbde2fe-216e-45b8-8af0-7b39f145319c" data-class="del" class="del"><path data-id="x0cbde2fe-216e-45b8-8af0-7b39f145319c" d="M20250.0,4716.0 L25803.0,4266.0 L25488.0,5913.0 L19872.0,6417.0 Z" class="deletionBack"></path><path d="M20250.0,4716.0 L25488.0,5913.0" stroke-width="9" class="deletionLine"></path><path d="M25803.0,4266.0 L19872.0,6417.0" stroke-width="9" class="deletionLine"></path></g></g></g></svg>

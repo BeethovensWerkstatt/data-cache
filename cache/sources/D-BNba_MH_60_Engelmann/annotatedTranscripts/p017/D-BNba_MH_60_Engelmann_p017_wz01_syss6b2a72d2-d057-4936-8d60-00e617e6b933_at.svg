@@ -1,0 +1,908 @@
+<svg width="824px" height="627px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="d1poinco">
+   <desc>Engraved by Verovio 5.6.0-85e7620</desc>
+   <defs>
+      <g id="E050-d1poinco">
+         <path transform="scale(1,-1)" d="M441 -245c-23 -4 -48 -6 -76 -6c-59 0 -102 7 -130 20c-88 42 -150 93 -187 154c-26 44 -43 103 -48 176c0 6 -1 13 -1 19c0 54 15 111 45 170c29 57 65 106 110 148s96 85 153 127c-3 16 -8 46 -13 92c-4 43 -5 73 -5 89c0 117 16 172 69 257c34 54 64 82 89 82 c21 0 43 -30 69 -92s39 -115 41 -159v-15c0 -109 -21 -162 -67 -241c-13 -20 -63 -90 -98 -118c-13 -9 -25 -19 -37 -29l31 -181c8 1 18 2 28 2c58 0 102 -12 133 -35c59 -43 92 -104 98 -184c1 -7 1 -15 1 -22c0 -123 -87 -209 -181 -248c8 -57 17 -110 25 -162 c5 -31 6 -58 6 -80c0 -30 -5 -53 -14 -70c-35 -64 -88 -99 -158 -103c-5 0 -11 -1 -16 -1c-37 0 -72 10 -108 27c-50 24 -77 59 -80 105v11c0 29 7 55 20 76c18 28 45 42 79 44h6c49 0 93 -42 97 -87v-9c0 -51 -34 -86 -105 -106c17 -24 51 -36 102 -36c62 0 116 43 140 85 c9 16 13 41 13 74c0 20 -1 42 -5 67c-8 53 -18 106 -26 159zM461 939c-95 0 -135 -175 -135 -286c0 -24 2 -48 5 -71c50 39 92 82 127 128c40 53 60 100 60 140v8c-4 53 -22 81 -55 81h-2zM406 119l54 -326c73 25 110 78 110 161c0 7 0 15 -1 23c-7 95 -57 142 -151 142h-12 zM382 117c-72 -2 -128 -47 -128 -120v-7c2 -46 43 -99 75 -115c-3 -2 -7 -5 -10 -10c-70 33 -116 88 -123 172v11c0 68 44 126 88 159c23 17 49 29 78 36l-29 170c-21 -13 -52 -37 -92 -73c-50 -44 -86 -84 -109 -119c-45 -69 -67 -130 -67 -182v-13c5 -68 35 -127 93 -176 s125 -73 203 -73c25 0 50 3 75 9c-19 111 -36 221 -54 331z"/>
+      </g>
+      <g id="E260-d1poinco">
+         <path transform="scale(1,-1)" d="M20 110c32 16 54 27 93 27c26 0 35 -3 54 -13c13 -7 24 -20 27 -38l4 -25c0 -28 -16 -57 -45 -89c-23 -25 -39 -44 -65 -68l-88 -79v644h20v-359zM90 106c-32 0 -48 -10 -70 -29v-194c31 31 54 59 71 84c21 32 32 59 32 84c0 9 1 16 1 20c0 14 -3 21 -11 30l-8 3z"/>
+      </g>
+      <g id="E0A4-d1poinco">
+         <path transform="scale(1,-1)" d="M0 -39c0 68 73 172 200 172c66 0 114 -37 114 -95c0 -84 -106 -171 -218 -171c-64 0 -96 30 -96 94z"/>
+      </g>
+      <g id="E062-d1poinco">
+         <path transform="scale(1,-1)" d="M582 -120c0 32 26 58 58 58s58 -26 58 -58s-26 -58 -58 -58s-58 26 -58 58zM582 120c0 32 26 58 58 58s58 -26 58 -58s-26 -58 -58 -58s-58 26 -58 58zM158 96c51 0 73 -14 88 -49l16 -39c0 -17 -2 -30 -7 -40c-3 -11 -10 -21 -19 -31c-17 -18 -49 -43 -84 -43 c-55 0 -77 13 -112 44c-24 21 -35 55 -35 100c0 46 14 81 32 112c30 52 71 79 137 93l36 6l26 2c154 0 235 -68 274 -182c11 -32 18 -68 18 -107c0 -103 -26 -182 -68 -250c-89 -145 -234 -230 -412 -288l-30 -5c-9 0 -14 3 -14 8c3 10 5 11 10 16c35 15 70 30 96 44l78 43 c96 57 162 136 197 258c9 33 17 60 22 100c3 22 5 35 6 39c-7 69 -16 115 -23 140s-4 22 -16 40c-8 12 -19 23 -31 34c-24 21 -62 44 -118 44c-48 0 -84 -8 -113 -28c-28 -19 -42 -44 -42 -73v-16c2 -5 3 -9 4 -11c24 22 52 39 84 39z"/>
+      </g>
+      <g id="E262-d1poinco">
+         <path transform="scale(1,-1)" d="M136 186v169h17v-164l44 14v-91l-44 -14v-165l44 12v-91l-44 -13v-155h-17v150l-76 -22v-155h-17v149l-43 -13v90l43 14v167l-43 -14v92l43 13v169h17v-163zM60 73v-167l76 22v168z"/>
+      </g>
+      <g id="E883-d1poinco">
+         <path transform="scale(1,-1)" d="M161 326c52 0 94 -17 94 -68c0 -50 -40 -76 -82 -94c26 -21 39 -42 39 -64c0 -52 -56 -100 -118 -100h-12c-40 0 -82 23 -82 56c0 30 12 49 37 49c17 0 31 -16 34 -31c0 -5 -4 -12 -11 -21c-7 -5 -13 -10 -13 -21l11 -9l17 -4c21 0 40 12 56 37c13 21 19 45 19 70 c-9 30 -28 35 -66 35l6 23c34 0 60 4 77 13c20 11 30 35 30 70c0 28 -12 38 -39 40l-20 -3c-8 -3 -12 -9 -12 -16c2 -7 4 -11 5 -14l4 -11l3 -10l-3 -12c-5 -6 -11 -11 -20 -13c-2 0 -4 -1 -6 -1c-16 0 -30 13 -30 28c0 39 43 71 82 71z"/>
+      </g>
+      <g id="E0A3-d1poinco">
+         <path transform="scale(1,-1)" d="M278 64c0 22 -17 39 -43 39c-12 0 -26 -3 -41 -10c-85 -43 -165 -94 -165 -156c5 -25 15 -32 49 -32c67 11 200 95 200 159zM0 -36c0 68 73 174 200 174c66 0 114 -39 114 -97c0 -84 -106 -173 -218 -173c-64 0 -96 32 -96 96z"/>
+      </g>
+      <g id="E222-d1poinco">
+         <path transform="scale(1,-1)" d="M-163 -200l326 150v-100l-326 -150v100zM-163 150l326 150v-100l-326 -150v100zM-163 -25l326 150v-100l-326 -150v100z"/>
+      </g>
+      <g id="E241-d1poinco">
+         <path transform="scale(1,-1)" d="M179 646c-4 8 -17 30 -18 33l-4 10c0 3 2 5 5 5s7 -2 13 -7c23 -33 46 -81 66 -132c22 -57 35 -125 35 -163c0 -104 -60 -183 -122 -241c-63 -59 -57 -53 -61 -56c-38 -34 -63 -95 -71 -95h-22v190c40 7 69 11 87 16c88 27 168 95 168 200c0 30 -12 89 -30 138 c-17 47 -31 73 -46 102z"/>
+      </g>
+      <g id="E500-d1poinco">
+         <path transform="scale(1,-1)" d="M508 242l-362 -484h-146l362 484h146zM52 118c0 13 4 25 13 34s19 14 32 15c14 0 26 -4 35 -12s14 -19 15 -33c0 -13 -4 -25 -13 -34s-19 -14 -32 -15c-14 0 -26 4 -35 12s-14 19 -15 33zM361 -121c0 13 4 25 13 34s19 14 32 15c14 0 26 -4 35 -12s14 -19 15 -33 c0 -13 -4 -25 -13 -34s-19 -14 -32 -15c-14 0 -26 4 -35 12s-14 19 -15 33z"/>
+      </g>
+      <g id="E4E6-d1poinco">
+         <path transform="scale(1,-1)" d="M0 123c7 34 33 56 69 60c29 -3 43 -9 53 -29c4 -8 7 -15 10 -22c0 -21 -1 -25 -11 -35c-5 -8 -18 -14 -40 -20l12 -3l15 -1c44 0 97 26 122 56c10 11 18 26 24 42c7 1 15 2 22 3l-140 -424h-36l111 330c-10 -6 -27 -12 -53 -16l-52 -8h-10l-20 1c-1 0 -8 3 -21 6 c-37 9 -55 28 -55 60z"/>
+      </g>
+      <g id="E243-d1poinco">
+         <path transform="scale(1,-1)" d="M216 730c-5 8 -10 13 -11 16l-4 10c0 3 2 5 5 5s7 -2 13 -7c35 -42 57 -101 57 -172c0 -34 -6 -65 -17 -94c10 -31 17 -64 17 -96c0 -104 -60 -183 -122 -241c-63 -59 -57 -53 -61 -56c-38 -34 -63 -95 -71 -95h-22v190v190c40 7 69 11 87 16c116 36 175 111 175 197 c0 44 -15 91 -46 137zM248 463c-23 -48 -58 -89 -94 -122c-63 -59 -57 -53 -61 -56c-30 -27 -44 -71 -53 -88c20 3 36 6 47 9c88 27 168 95 168 200c0 19 -3 39 -7 57z"/>
+      </g>
+   </defs>
+   <style type="text/css">#d1poinco g.page-margin {font-family:Times,serif;}#d1poinco g.ending, #d1poinco g.fing, #d1poinco g.reh, #d1poinco g.tempo {font-weight:bold;}#d1poinco g.dir, #d1poinco g.dynam, #d1poinco g.mNum {font-style:italic;}#d1poinco g.label {font-weight:normal;}#d1poinco path {stroke:currentColor}</style>
+   <svg class="definition-scale" color="black" viewBox="0 0 27450 20880">
+      <g class="page-margin" transform="translate(1000, 3000)">
+         <g data-id="k1ocz86u" data-class="system" class="system">
+            <g data-id="bbox-k1ocz86u" data-class="system" class="system bounding-box">
+               <rect x="-1" y="887" height="2547" width="27" fill="transparent"/>
+            </g>
+            <path d="M13 900 L13 3420" stroke-width="27"/>
+            <g data-id="sd063dc83-8651-4333-813d-a42682c3113d" data-class="pb" class="pb"/>
+            <g data-id="x0f9d75e1-bcce-4b5e-bc83-2d8aedc1301e" data-class="measure" class="measure">
+               <g data-id="bbox-x0f9d75e1-bcce-4b5e-bc83-2d8aedc1301e" data-class="measure" class="measure bounding-box"/>
+               <g data-id="bdbw22v" data-class="mNum" class="mNum autogenerated">
+                  <g data-id="bbox-bdbw22v" data-class="mNum" class="mNum bounding-box autogenerated"/>
+                  <text y="657" text-anchor="middle" font-size="0px">
+                     <tspan data-id="chpsnoh" data-class="text" class="text">
+                        <g data-id="bbox-chpsnoh" data-class="text" class="text bounding-box">
+                           <rect x="-151" y="438" height="285" width="302" fill="transparent"/>
+                        </g>
+                        <tspan font-size="324px">35</tspan>
+                     </tspan>
+                  </text>
+               </g>
+               <g data-id="x77ed0c56-f3ef-4d1e-a6da-db44aad96ae5" data-class="staff" class="staff">
+                  <g data-id="bbox-x77ed0c56-f3ef-4d1e-a6da-db44aad96ae5" data-class="staff" class="staff bounding-box">
+                     <rect x="-7" y="529" height="1098" width="3438" fill="transparent"/>
+                  </g>
+                  <path d="M0 900 L3425 900" stroke-width="13"/>
+                  <path d="M0 1080 L3425 1080" stroke-width="13"/>
+                  <path d="M0 1260 L3425 1260" stroke-width="13"/>
+                  <path d="M0 1440 L3425 1440" stroke-width="13"/>
+                  <path d="M0 1620 L3425 1620" stroke-width="13"/>
+                  <g data-id="c966632d6-ef80-48a1-a55e-2d3210daf823" data-class="clef" class="clef">
+                     <g data-id="bbox-d8nkb8g" data-class="clef" class="clef bounding-box">
+                        <rect x="117" y="660" height="1251" width="465" fill="transparent"/>
+                     </g>
+                     <use href="#E050-d1poinco" transform="translate(117, 1440) scale(0.72, 0.72)"/>
+                  </g>
+                  <g data-id="k18bbb88f-d229-41d5-9a46-111d2bdbc73e" data-class="keySig" class="keySig">
+                     <g data-id="bbox-e18pihsj" data-class="keySig" class="keySig bounding-box">
+                        <rect x="798" y="923" height="463" width="142" fill="transparent"/>
+                     </g>
+                     <g data-id="kd325034d-f7bb-430a-bb4a-b0478727762e" data-class="keyAccid" class="keyAccid">
+                        <use href="#E260-d1poinco" transform="translate(798, 1260) scale(0.72, 0.72)"/>
+                     </g>
+                  </g>
+                  <g data-class="ledgerLines" class="ledgerLines above">
+                     <g data-class="lineDash" class="lineDash" data-related="#xa966d4cc-a269-46d7-8ebf-258d31b13921">
+                        <path d="M1257 720 L1579 720" stroke-width="22"/>
+                     </g>
+                     <g data-class="lineDash" class="lineDash" data-related="#xa966d4cc-a269-46d7-8ebf-258d31b13921">
+                        <path d="M1257 540 L1579 540" stroke-width="22"/>
+                     </g>
+                  </g>
+                  <g data-id="x22fcdd06-6b7e-4acb-9121-b549d0aeba24" data-class="layer" class="layer">
+                     <g data-id="bbox-x22fcdd06-6b7e-4acb-9121-b549d0aeba24" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="xa966d4cc-a269-46d7-8ebf-258d31b13921" data-class="note" class="note">
+                        <g data-id="bbox-xa966d4cc-a269-46d7-8ebf-258d31b13921" data-class="note" class="note bounding-box">
+                           <rect x="1305" y="354" height="191" width="226" fill="transparent"/>
+                        </g>
+                        <g data-class="notehead" class="notehead">
+                           <use href="#E0A4-d1poinco" transform="translate(1305, 450) scale(0.72, 0.72)"/>
+                        </g>
+                        <g data-id="dx2p9oc" data-class="stem" class="stem">
+                           <g data-id="bbox-dx2p9oc" data-class="stem" class="stem bounding-box">
+                              <rect x="1305" y="469" height="800" width="18" fill="transparent"/>
+                           </g>
+                           <path d="M1314 478 L1314 1260" stroke-width="18"/>
+                        </g>
+                     </g>
+                     <g data-id="x55a24c87-093d-42be-8c32-93af27d38409" data-class="note" class="note">
+                        <g data-id="bbox-x55a24c87-093d-42be-8c32-93af27d38409" data-class="note" class="note bounding-box">
+                           <rect x="2359" y="804" height="191" width="226" fill="transparent"/>
+                        </g>
+                        <g data-class="notehead" class="notehead">
+                           <use href="#E0A4-d1poinco" transform="translate(2359, 900) scale(0.72, 0.72)"/>
+                        </g>
+                        <g data-id="e19hqrnm" data-class="stem" class="stem">
+                           <g data-id="bbox-e19hqrnm" data-class="stem" class="stem bounding-box">
+                              <rect x="2359" y="919" height="620" width="18" fill="transparent"/>
+                           </g>
+                           <path d="M2368 928 L2368 1530" stroke-width="18"/>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="x0d5abf98-5edc-43e9-b596-3269aa4b3610" data-class="staff" class="staff">
+                  <g data-id="bbox-x0d5abf98-5edc-43e9-b596-3269aa4b3610" data-class="staff" class="staff bounding-box">
+                     <rect x="-7" y="2694" height="733" width="3438" fill="transparent"/>
+                  </g>
+                  <path d="M0 2700 L3425 2700" stroke-width="13"/>
+                  <path d="M0 2880 L3425 2880" stroke-width="13"/>
+                  <path d="M0 3060 L3425 3060" stroke-width="13"/>
+                  <path d="M0 3240 L3425 3240" stroke-width="13"/>
+                  <path d="M0 3420 L3425 3420" stroke-width="13"/>
+                  <g data-id="c3b04c4f4-007a-4cb4-848b-ef4e5ab66254" data-class="clef" class="clef">
+                     <g data-id="bbox-gkf86cv" data-class="clef" class="clef bounding-box">
+                        <rect x="119" y="2699" height="599" width="499" fill="transparent"/>
+                     </g>
+                     <use href="#E062-d1poinco" transform="translate(117, 2880) scale(0.72, 0.72)"/>
+                  </g>
+                  <g data-id="k79002850-94f6-4859-b41e-491d1398f40c" data-class="keySig" class="keySig">
+                     <g data-id="bbox-h1p13dti" data-class="keySig" class="keySig bounding-box">
+                        <rect x="798" y="2903" height="463" width="142" fill="transparent"/>
+                     </g>
+                     <g data-id="k580cd961-370c-4e9a-be1e-bc0de131c7ea" data-class="keyAccid" class="keyAccid">
+                        <use href="#E260-d1poinco" transform="translate(798, 3240) scale(0.72, 0.72)"/>
+                     </g>
+                  </g>
+                  <g data-id="x1e05bb0f-122b-4f07-9bcc-af7e50cfd04c" data-class="layer" class="layer">
+                     <g data-id="bbox-x1e05bb0f-122b-4f07-9bcc-af7e50cfd04c" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="s3c7ac48b-cd12-4450-9a30-9fa4b2f38221" data-class="mSpace" class="mSpace">
+                        <g data-id="bbox-s3c7ac48b-cd12-4450-9a30-9fa4b2f38221" data-class="mSpace" class="mSpace bounding-box"/>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="w8ocd0t" data-class="barLine" class="barLine">
+                  <g data-id="bbox-w8ocd0t" data-class="barLine" class="barLine bounding-box">
+                     <rect x="3398" y="887" height="2547" width="27" fill="transparent"/>
+                  </g>
+                  <path d="M3412 900 L3412 1620" stroke-width="27"/>
+                  <path d="M3412 2700 L3412 3420" stroke-width="27"/>
+                  <path d="M3412 1620 L3412 2700" stroke-width="27"/>
+               </g>
+            </g>
+            <g data-id="xdad8b21d-f7fe-41ac-ab33-93206b66d4f9" data-class="measure" class="measure">
+               <g data-id="bbox-xdad8b21d-f7fe-41ac-ab33-93206b66d4f9" data-class="measure" class="measure bounding-box"/>
+               <g data-id="x7ca293fe-cdb8-4e9b-8d7c-c82f57973895" data-class="staff" class="staff">
+                  <g data-id="bbox-x7ca293fe-cdb8-4e9b-8d7c-c82f57973895" data-class="staff" class="staff bounding-box">
+                     <rect x="3418" y="709" height="918" width="7843" fill="transparent"/>
+                  </g>
+                  <path d="M3425 900 L11255 900" stroke-width="13"/>
+                  <path d="M3425 1080 L11255 1080" stroke-width="13"/>
+                  <path d="M3425 1260 L11255 1260" stroke-width="13"/>
+                  <path d="M3425 1440 L11255 1440" stroke-width="13"/>
+                  <path d="M3425 1620 L11255 1620" stroke-width="13"/>
+                  <g data-class="ledgerLines" class="ledgerLines above">
+                     <g data-class="lineDash" class="lineDash" data-related="#x2666678f-6d6a-4a34-a475-fdb99f1bd722 #x7b39ecf0-bcb3-474d-a133-73da728cc83a">
+                        <path d="M3652 720 L3974 720" stroke-width="22"/>
+                     </g>
+                     <g data-class="lineDash" class="lineDash" data-related="#x268ab049-487a-4660-92b4-ba71dd33153a">
+                        <path d="M4135 720 L4457 720" stroke-width="22"/>
+                     </g>
+                     <g data-class="lineDash" class="lineDash" data-related="#x26b20d88-6380-42b3-a6e9-f385df1e4d5b">
+                        <path d="M4617 720 L4939 720" stroke-width="22"/>
+                     </g>
+                     <g data-class="lineDash" class="lineDash" data-related="#xed033333-4c1a-4844-b7a6-8e17948e2a05">
+                        <path d="M7313 720 L7635 720" stroke-width="22"/>
+                     </g>
+                     <g data-class="lineDash" class="lineDash" data-related="#x5d70f09b-1e1a-44ae-bf82-84df0b742cfe">
+                        <path d="M10690 720 L11012 720" stroke-width="22"/>
+                     </g>
+                  </g>
+                  <g data-id="x2b9912ce-69d8-4334-a5ad-a51d4a2537e8" data-class="layer" class="layer">
+                     <g data-id="bbox-x2b9912ce-69d8-4334-a5ad-a51d4a2537e8" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="x5b2af379-c184-4685-ac04-19f0ed40d2c1" data-class="beam" class="beam">
+                        <g data-id="bbox-x5b2af379-c184-4685-ac04-19f0ed40d2c1" data-class="beam" class="beam bounding-box">
+                           <rect x="3700" y="1441" height="449" width="2913" fill="transparent"/>
+                        </g>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="3700,1710 6613,1890 6613,1800 3700,1620"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="3700,1575 4192,1606 4192,1516 3700,1485"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="4192,1606 4674,1635 4674,1545 4192,1516"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="4674,1635 5157,1666 5157,1576 4674,1545"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="5157,1666 5639,1695 5639,1605 5157,1576"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="5639,1695 6121,1725 6121,1635 5639,1605"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="6121,1725 6613,1755 6613,1665 6121,1635"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="5157,1531 5639,1560 5639,1470 5157,1441"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="5639,1560 6121,1590 6121,1500 5639,1470"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="6121,1590 6613,1620 6613,1530 6121,1500"/>
+                        <g data-id="x4e1f82b7-b823-4617-bce3-430f72fdaff9" data-class="tuplet" class="tuplet">
+                           <g data-id="bbox-x4e1f82b7-b823-4617-bce3-430f72fdaff9" data-class="tuplet" class="tuplet bounding-box"/>
+                           <g data-id="f18cz8k1" data-class="tupletNum" class="tupletNum">
+                              <use href="#E883-d1poinco" transform="translate(4203, 471) scale(0.72, 0.72)"/>
+                              <g data-id="bbox-f18cz8k1" data-class="tupletNum" class="tupletNum bounding-box">
+                                 <rect x="4203" y="237" height="234" width="183" fill="transparent"/>
+                              </g>
+                           </g>
+                           <g data-id="x2666678f-6d6a-4a34-a475-fdb99f1bd722" data-class="note" class="note">
+                              <g data-id="bbox-x2666678f-6d6a-4a34-a475-fdb99f1bd722" data-class="note" class="note bounding-box">
+                                 <rect x="3700" y="624" height="191" width="226" fill="transparent"/>
+                              </g>
+                              <g data-class="notehead" class="notehead">
+                                 <use href="#E0A4-d1poinco" transform="translate(3700, 720) scale(0.72, 0.72)"/>
+                              </g>
+                              <g data-id="g1imkxfj" data-class="stem" class="stem">
+                                 <g data-id="bbox-g1imkxfj" data-class="stem" class="stem bounding-box">
+                                    <rect x="3700" y="739" height="962" width="18" fill="transparent"/>
+                                 </g>
+                                 <path d="M3709 748 L3709 1692" stroke-width="18"/>
+                              </g>
+                           </g>
+                           <g data-id="x268ab049-487a-4660-92b4-ba71dd33153a" data-class="note" class="note">
+                              <g data-id="bbox-x268ab049-487a-4660-92b4-ba71dd33153a" data-class="note" class="note bounding-box">
+                                 <rect x="4183" y="534" height="191" width="226" fill="transparent"/>
+                              </g>
+                              <g data-class="notehead" class="notehead">
+                                 <use href="#E0A4-d1poinco" transform="translate(4183, 630) scale(0.72, 0.72)"/>
+                              </g>
+                              <g data-id="h994mqy" data-class="stem" class="stem">
+                                 <g data-id="bbox-h994mqy" data-class="stem" class="stem bounding-box">
+                                    <rect x="4183" y="649" height="1083" width="18" fill="transparent"/>
+                                 </g>
+                                 <path d="M4192 658 L4192 1723" stroke-width="18"/>
+                              </g>
+                              <g data-id="xf327b29e-9000-469f-be23-293bfe27e48b" data-class="accid" class="accid">
+                                 <g data-id="bbox-xf327b29e-9000-469f-be23-293bfe27e48b" data-class="accid" class="accid bounding-box">
+                                    <rect x="4183" y="630" height="0" width="0" fill="transparent"/>
+                                 </g>
+                              </g>
+                           </g>
+                           <g data-id="x26b20d88-6380-42b3-a6e9-f385df1e4d5b" data-class="note" class="note">
+                              <g data-id="bbox-x26b20d88-6380-42b3-a6e9-f385df1e4d5b" data-class="note" class="note bounding-box">
+                                 <rect x="4665" y="624" height="191" width="226" fill="transparent"/>
+                              </g>
+                              <g data-class="notehead" class="notehead">
+                                 <use href="#E0A4-d1poinco" transform="translate(4665, 720) scale(0.72, 0.72)"/>
+                              </g>
+                              <g data-id="i18vw6d6" data-class="stem" class="stem">
+                                 <g data-id="bbox-i18vw6d6" data-class="stem" class="stem bounding-box">
+                                    <rect x="4665" y="739" height="1022" width="18" fill="transparent"/>
+                                 </g>
+                                 <path d="M4674 748 L4674 1752" stroke-width="18"/>
+                              </g>
+                           </g>
+                        </g>
+                        <g data-id="x32494fa8-e790-40ce-9c4e-980e8edcdd43" data-class="note" class="note">
+                           <g data-id="bbox-x32494fa8-e790-40ce-9c4e-980e8edcdd43" data-class="note" class="note bounding-box">
+                              <rect x="5148" y="714" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(5148, 810) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="j1g5rng1" data-class="stem" class="stem">
+                              <g data-id="bbox-j1g5rng1" data-class="stem" class="stem bounding-box">
+                                 <rect x="5148" y="829" height="963" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M5157 838 L5157 1783" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="x4e8b7590-3d5e-4779-b887-cf6336f91138" data-class="note" class="note">
+                           <g data-id="bbox-x4e8b7590-3d5e-4779-b887-cf6336f91138" data-class="note" class="note bounding-box">
+                              <rect x="5630" y="804" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(5630, 900) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="k1wlf0qu" data-class="stem" class="stem">
+                              <g data-id="bbox-k1wlf0qu" data-class="stem" class="stem bounding-box">
+                                 <rect x="5630" y="919" height="902" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M5639 928 L5639 1812" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="x2f707689-7681-4785-8f44-1e061460c772" data-class="note" class="note">
+                           <g data-id="bbox-x2f707689-7681-4785-8f44-1e061460c772" data-class="note" class="note bounding-box">
+                              <rect x="6112" y="894" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(6112, 990) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="lv91iek" data-class="stem" class="stem">
+                              <g data-id="bbox-lv91iek" data-class="stem" class="stem bounding-box">
+                                 <rect x="6112" y="1009" height="842" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M6121 1018 L6121 1842" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="xb0d13595-c4ea-4ca5-8697-24b0ff6905c8" data-class="note" class="note">
+                           <g data-id="bbox-xb0d13595-c4ea-4ca5-8697-24b0ff6905c8" data-class="note" class="note bounding-box">
+                              <rect x="6595" y="984" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(6595, 1080) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="m1seio07" data-class="stem" class="stem">
+                              <g data-id="bbox-m1seio07" data-class="stem" class="stem bounding-box">
+                                 <rect x="6595" y="1099" height="782" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M6604 1108 L6604 1872" stroke-width="18"/>
+                           </g>
+                        </g>
+                     </g>
+                     <g data-id="x9520a528-7515-4e76-9b93-5d8a6ace99aa" data-class="beam" class="beam">
+                        <g data-id="bbox-x9520a528-7515-4e76-9b93-5d8a6ace99aa" data-class="beam" class="beam bounding-box">
+                           <rect x="7361" y="1710" height="720" width="3395" fill="transparent"/>
+                        </g>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="7361,2070 10756,2430 10756,2340 7361,1980"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="7361,1935 7852,1987 7852,1897 7361,1845"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="7852,1987 8335,2038 8335,1948 7852,1897"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="8335,2038 8817,2090 8817,2000 8335,1948"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="8817,2090 9300,2141 9300,2051 8817,2000"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="9300,2141 9782,2193 9782,2103 9300,2051"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="9782,2193 10265,2244 10265,2154 9782,2103"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="10265,2244 10756,2295 10756,2205 10265,2154"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="7361,1800 7852,1852 7852,1762 7361,1710"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="7852,1852 8335,1903 8335,1813 7852,1762"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="8335,1903 8817,1955 8817,1865 8335,1813"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="8817,1955 9300,2006 9300,1916 8817,1865"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="9300,2006 9782,2058 9782,1968 9300,1916"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="9782,2058 10265,2109 10265,2019 9782,1968"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="10265,2109 10756,2160 10756,2070 10265,2019"/>
+                        <g data-id="x02313078-0f63-40da-acbe-e8e6aceb288c" data-class="note" class="note">
+                           <g data-id="bbox-x02313078-0f63-40da-acbe-e8e6aceb288c" data-class="note" class="note bounding-box">
+                              <rect x="7361" y="1074" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(7361, 1170) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="n1vko2u0" data-class="stem" class="stem">
+                              <g data-id="bbox-n1vko2u0" data-class="stem" class="stem bounding-box">
+                                 <rect x="7361" y="1189" height="872" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M7370 1198 L7370 2052" stroke-width="18"/>
+                           </g>
+                           <g data-id="xc16008d1-bcb3-4d65-a03b-e84bb18514c0" data-class="accid" class="accid">
+                              <g data-id="bbox-xc16008d1-bcb3-4d65-a03b-e84bb18514c0" data-class="accid" class="accid bounding-box">
+                                 <rect x="7175" y="915" height="499" width="141" fill="transparent"/>
+                              </g>
+                              <use href="#E262-d1poinco" transform="translate(7175, 1170) scale(0.72, 0.72)"/>
+                           </g>
+                        </g>
+                        <g data-id="x753dd6f9-15d2-40c8-bbda-4cde95213327" data-class="note" class="note">
+                           <g data-id="bbox-x753dd6f9-15d2-40c8-bbda-4cde95213327" data-class="note" class="note bounding-box">
+                              <rect x="7843" y="984" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(7843, 1080) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="o189rqj" data-class="stem" class="stem">
+                              <g data-id="bbox-o189rqj" data-class="stem" class="stem bounding-box">
+                                 <rect x="7843" y="1099" height="1014" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M7852 1108 L7852 2104" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="x69c46805-9718-485e-87d3-682c19e590d6" data-class="note" class="note">
+                           <g data-id="bbox-x69c46805-9718-485e-87d3-682c19e590d6" data-class="note" class="note bounding-box">
+                              <rect x="8326" y="894" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(8326, 990) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="p1cg2h6m" data-class="stem" class="stem">
+                              <g data-id="bbox-p1cg2h6m" data-class="stem" class="stem bounding-box">
+                                 <rect x="8326" y="1009" height="1155" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M8335 1018 L8335 2155" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="x1464bd3b-5185-41e2-809f-98b3d62763b2" data-class="note" class="note">
+                           <g data-id="bbox-x1464bd3b-5185-41e2-809f-98b3d62763b2" data-class="note" class="note bounding-box">
+                              <rect x="8808" y="1164" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(8808, 1260) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="ql9x6an" data-class="stem" class="stem">
+                              <g data-id="bbox-ql9x6an" data-class="stem" class="stem bounding-box">
+                                 <rect x="8808" y="1279" height="937" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M8817 1288 L8817 2207" stroke-width="18"/>
+                           </g>
+                           <g data-id="xfa2fd490-8071-4a86-b415-38bdd91c7e71" data-class="accid" class="accid">
+                              <g data-id="bbox-xfa2fd490-8071-4a86-b415-38bdd91c7e71" data-class="accid" class="accid bounding-box">
+                                 <rect x="8808" y="1260" height="0" width="0" fill="transparent"/>
+                              </g>
+                           </g>
+                        </g>
+                        <g data-id="x57dd638e-9649-480a-ac3b-c44b3013f810" data-class="note" class="note">
+                           <g data-id="bbox-x57dd638e-9649-480a-ac3b-c44b3013f810" data-class="note" class="note bounding-box">
+                              <rect x="9291" y="1254" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(9291, 1350) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="r1p4wthv" data-class="stem" class="stem">
+                              <g data-id="bbox-r1p4wthv" data-class="stem" class="stem bounding-box">
+                                 <rect x="9291" y="1369" height="898" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M9300 1378 L9300 2258" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="xeeb009c5-1fdb-46a4-9b91-c5f42438724a" data-class="note" class="note">
+                           <g data-id="bbox-xeeb009c5-1fdb-46a4-9b91-c5f42438724a" data-class="note" class="note bounding-box">
+                              <rect x="9773" y="1344" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(9773, 1440) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="s1fqgoop" data-class="stem" class="stem">
+                              <g data-id="bbox-s1fqgoop" data-class="stem" class="stem bounding-box">
+                                 <rect x="9773" y="1459" height="860" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M9782 1468 L9782 2310" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="xb896210b-a4c6-4df2-81a0-21578f6b558e" data-class="note" class="note">
+                           <g data-id="bbox-xb896210b-a4c6-4df2-81a0-21578f6b558e" data-class="note" class="note bounding-box">
+                              <rect x="10256" y="1434" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(10256, 1530) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="t1v2ncve" data-class="stem" class="stem">
+                              <g data-id="bbox-t1v2ncve" data-class="stem" class="stem bounding-box">
+                                 <rect x="10256" y="1549" height="821" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M10265 1558 L10265 2361" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="x48821eec-f414-48b9-b8e9-0929be9bb878" data-class="note" class="note">
+                           <g data-id="bbox-x48821eec-f414-48b9-b8e9-0929be9bb878" data-class="note" class="note bounding-box">
+                              <rect x="10738" y="1524" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(10738, 1620) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="u8i6kra" data-class="stem" class="stem">
+                              <g data-id="bbox-u8i6kra" data-class="stem" class="stem bounding-box">
+                                 <rect x="10738" y="1639" height="782" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M10747 1648 L10747 2412" stroke-width="18"/>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+                  <g data-id="xeec7dd56-c075-433c-b148-2ca9286fa60b" data-class="layer" class="layer">
+                     <g data-id="bbox-xeec7dd56-c075-433c-b148-2ca9286fa60b" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="x7b39ecf0-bcb3-474d-a133-73da728cc83a" data-class="note" class="note">
+                        <g data-id="bbox-x7b39ecf0-bcb3-474d-a133-73da728cc83a" data-class="note" class="note bounding-box">
+                           <rect x="3700" y="624" height="191" width="226" fill="transparent"/>
+                        </g>
+                        <g data-class="notehead" class="notehead">
+                           <use href="#E0A4-d1poinco" transform="translate(3700, 720) scale(0.72, 0.72)"/>
+                        </g>
+                        <g data-id="v145smf1" data-class="stem" class="stem">
+                           <g data-id="bbox-v145smf1" data-class="stem" class="stem bounding-box">
+                              <rect x="3908" y="261" height="440" width="18" fill="transparent"/>
+                           </g>
+                           <path d="M3917 692 L3917 270" stroke-width="18"/>
+                        </g>
+                     </g>
+                     <g data-id="xd81d91a1-127b-40d3-9683-6edd132c3882" data-class="beam" class="beam">
+                        <g data-id="bbox-xd81d91a1-127b-40d3-9683-6edd132c3882" data-class="beam" class="beam bounding-box">
+                           <rect x="7569" y="0" height="360" width="3395" fill="transparent"/>
+                        </g>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="7569,0 10964,0 10964,90 7569,90"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="10738,135 10964,135 10964,225 10738,225"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="10738,270 10964,270 10964,360 10738,360"/>
+                        <g data-id="xed033333-4c1a-4844-b7a6-8e17948e2a05" data-class="note" class="note">
+                           <g data-id="bbox-xed033333-4c1a-4844-b7a6-8e17948e2a05" data-class="note" class="note bounding-box">
+                              <rect x="7361" y="624" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(7361, 720) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="x3v3ijh" data-class="dots" class="dots">
+                              <g data-id="bbox-x3v3ijh" data-class="dots" class="dots bounding-box">
+                                 <rect x="7641" y="594" height="72" width="207" fill="transparent"/>
+                              </g>
+                              <ellipse cx="7677" cy="630" rx="36" ry="36" fill-opacity="1" stroke-opacity="1"/>
+                              <ellipse cx="7812" cy="630" rx="36" ry="36" fill-opacity="1" stroke-opacity="1"/>
+                           </g>
+                           <g data-id="wqzlbvs" data-class="stem" class="stem">
+                              <g data-id="bbox-wqzlbvs" data-class="stem" class="stem bounding-box">
+                                 <rect x="7569" y="9" height="692" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M7578 692 L7578 18" stroke-width="18"/>
+                           </g>
+                        </g>
+                        <g data-id="x5d70f09b-1e1a-44ae-bf82-84df0b742cfe" data-class="note" class="note">
+                           <g data-id="bbox-x5d70f09b-1e1a-44ae-bf82-84df0b742cfe" data-class="note" class="note bounding-box">
+                              <rect x="10738" y="624" height="191" width="226" fill="transparent"/>
+                           </g>
+                           <g data-class="notehead" class="notehead">
+                              <use href="#E0A4-d1poinco" transform="translate(10738, 720) scale(0.72, 0.72)"/>
+                           </g>
+                           <g data-id="y1d73z32" data-class="stem" class="stem">
+                              <g data-id="bbox-y1d73z32" data-class="stem" class="stem bounding-box">
+                                 <rect x="10946" y="9" height="692" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M10955 692 L10955 18" stroke-width="18"/>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="x83673ecb-a74c-4eb7-9cc5-06c5ad8fb92b" data-class="staff" class="staff">
+                  <g data-id="bbox-x83673ecb-a74c-4eb7-9cc5-06c5ad8fb92b" data-class="staff" class="staff bounding-box">
+                     <rect x="3418" y="2694" height="733" width="7843" fill="transparent"/>
+                  </g>
+                  <path d="M3425 2700 L11255 2700" stroke-width="13"/>
+                  <path d="M3425 2880 L11255 2880" stroke-width="13"/>
+                  <path d="M3425 3060 L11255 3060" stroke-width="13"/>
+                  <path d="M3425 3240 L11255 3240" stroke-width="13"/>
+                  <path d="M3425 3420 L11255 3420" stroke-width="13"/>
+                  <g data-id="x9a69eb9d-8f4e-44c5-9ec0-03af4f881178" data-class="layer" class="layer">
+                     <g data-id="bbox-x9a69eb9d-8f4e-44c5-9ec0-03af4f881178" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="sdcb9c787-57f0-46d1-93be-bea120da9511" data-class="mSpace" class="mSpace">
+                        <g data-id="bbox-sdcb9c787-57f0-46d1-93be-bea120da9511" data-class="mSpace" class="mSpace bounding-box"/>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="x4d25cda4-9df2-4a4a-9652-4ab76f826450" data-class="tie" class="tie">
+                  <path d="M3971,675 C4805,522 6480,522 7316,675 C6477,570 4808,570 3971,675" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+                  <g data-id="bbox-x4d25cda4-9df2-4a4a-9652-4ab76f826450" data-class="tie" class="tie bounding-box">
+                     <rect x="3971" y="558" height="117" width="3345" fill="transparent"/>
+                  </g>
+               </g>
+               <g data-id="xb3500229-c03d-4ca2-a3f9-55099dea24b8" data-class="slur" class="slur">
+                  <path d="M3813,517 C3980,-42 4609,-41 4778,517 C4568,17 4021,16 3813,517" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+                  <g data-id="bbox-xb3500229-c03d-4ca2-a3f9-55099dea24b8" data-class="slur" class="slur bounding-box">
+                     <rect x="3813" y="98" height="419" width="965" fill="transparent"/>
+                  </g>
+               </g>
+               <g data-id="m1opxo9d" data-class="barLine" class="barLine">
+                  <g data-id="bbox-m1opxo9d" data-class="barLine" class="barLine bounding-box">
+                     <rect x="11228" y="887" height="2547" width="27" fill="transparent"/>
+                  </g>
+                  <path d="M11242 900 L11242 1620" stroke-width="27"/>
+                  <path d="M11242 2700 L11242 3420" stroke-width="27"/>
+                  <path d="M11242 1620 L11242 2700" stroke-width="27"/>
+               </g>
+            </g>
+            <g data-id="x484c324e-cd67-43b1-bd0c-91c2c67182e7" data-class="measure" class="measure">
+               <g data-id="bbox-x484c324e-cd67-43b1-bd0c-91c2c67182e7" data-class="measure" class="measure bounding-box"/>
+               <g data-id="xb27bd8b5-85b3-4d91-b7ba-249fc612a773" data-class="staff" class="staff">
+                  <g data-id="bbox-xb27bd8b5-85b3-4d91-b7ba-249fc612a773" data-class="staff" class="staff bounding-box">
+                     <rect x="11248" y="894" height="733" width="1904" fill="transparent"/>
+                  </g>
+                  <path d="M11255 900 L13146 900" stroke-width="13"/>
+                  <path d="M11255 1080 L13146 1080" stroke-width="13"/>
+                  <path d="M11255 1260 L13146 1260" stroke-width="13"/>
+                  <path d="M11255 1440 L13146 1440" stroke-width="13"/>
+                  <path d="M11255 1620 L13146 1620" stroke-width="13"/>
+                  <g data-id="xf539f529-8ed7-4e95-bb08-da5729cf5e1a" data-class="layer" class="layer">
+                     <g data-id="bbox-xf539f529-8ed7-4e95-bb08-da5729cf5e1a" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="b0ec825e2-9fb7-44ca-b793-fa207d7a2a23" data-class="bTrem" class="bTrem">
+                        <g data-id="bbox-b0ec825e2-9fb7-44ca-b793-fa207d7a2a23" data-class="bTrem" class="bTrem bounding-box">
+                           <rect x="11422" y="1890" height="432" width="234" fill="transparent"/>
+                        </g>
+                        <use href="#E222-d1poinco" transform="translate(11539, 2106) scale(0.72, 0.72)"/>
+                        <g data-id="x7d3b6247-4b24-4d8e-a25a-e4d5b07182e9" data-class="chord" class="chord" data-stem.dir="down">
+                           <g data-id="bbox-x7d3b6247-4b24-4d8e-a25a-e4d5b07182e9" data-class="chord" class="chord bounding-box" data-stem.dir="down"/>
+                           <g data-id="z1my15db" data-class="stem" class="stem">
+                              <g data-id="bbox-z1my15db" data-class="stem" class="stem bounding-box">
+                                 <rect x="11530" y="1366" height="1028" width="18" fill="transparent"/>
+                              </g>
+                              <path d="M11539 1375 L11539 2385" stroke-width="18"/>
+                           </g>
+                           <g data-id="x557e0ba2-8f6d-4b4c-8985-918cfeff8475" data-class="note" class="note">
+                              <g data-id="bbox-x557e0ba2-8f6d-4b4c-8985-918cfeff8475" data-class="note" class="note bounding-box">
+                                 <rect x="11530" y="1611" height="194" width="226" fill="transparent"/>
+                              </g>
+                              <g data-class="notehead" class="notehead">
+                                 <use href="#E0A3-d1poinco" transform="translate(11530, 1710) scale(0.72, 0.72)"/>
+                              </g>
+                           </g>
+                           <g data-id="xfbd64009-6bc0-4ac7-beec-401b79686e7a" data-class="note" class="note">
+                              <g data-id="bbox-xfbd64009-6bc0-4ac7-beec-401b79686e7a" data-class="note" class="note bounding-box">
+                                 <rect x="11530" y="1251" height="194" width="226" fill="transparent"/>
+                              </g>
+                              <g data-class="notehead" class="notehead">
+                                 <use href="#E0A3-d1poinco" transform="translate(11530, 1350) scale(0.72, 0.72)"/>
+                              </g>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="x8316fb13-6f15-4012-a41c-5d0d672bc8a1" data-class="staff" class="staff">
+                  <g data-id="bbox-x8316fb13-6f15-4012-a41c-5d0d672bc8a1" data-class="staff" class="staff bounding-box">
+                     <rect x="11248" y="2694" height="733" width="1904" fill="transparent"/>
+                  </g>
+                  <path d="M11255 2700 L13146 2700" stroke-width="13"/>
+                  <path d="M11255 2880 L13146 2880" stroke-width="13"/>
+                  <path d="M11255 3060 L13146 3060" stroke-width="13"/>
+                  <path d="M11255 3240 L13146 3240" stroke-width="13"/>
+                  <path d="M11255 3420 L13146 3420" stroke-width="13"/>
+                  <g data-id="x923d90c9-f815-4730-a820-a5cbe9b17907" data-class="layer" class="layer">
+                     <g data-id="bbox-x923d90c9-f815-4730-a820-a5cbe9b17907" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="s4830e7ed-0a73-4497-81fe-c391851159fc" data-class="mSpace" class="mSpace">
+                        <g data-id="bbox-s4830e7ed-0a73-4497-81fe-c391851159fc" data-class="mSpace" class="mSpace bounding-box"/>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="c1l3bdkc" data-class="barLine" class="barLine">
+                  <g data-id="bbox-c1l3bdkc" data-class="barLine" class="barLine bounding-box">
+                     <rect x="13119" y="887" height="2547" width="27" fill="transparent"/>
+                  </g>
+                  <path d="M13133 900 L13133 1620" stroke-width="27"/>
+                  <path d="M13133 2700 L13133 3420" stroke-width="27"/>
+                  <path d="M13133 1620 L13133 2700" stroke-width="27"/>
+               </g>
+            </g>
+            <g data-id="x24d93c37-4878-40b1-9d6f-58af76bb9744" data-class="measure" class="measure">
+               <g data-id="bbox-x24d93c37-4878-40b1-9d6f-58af76bb9744" data-class="measure" class="measure bounding-box"/>
+               <g data-id="x78eea2fd-fb0f-4b8c-9e94-b958f1ed892a" data-class="staff" class="staff">
+                  <g data-id="bbox-x78eea2fd-fb0f-4b8c-9e94-b958f1ed892a" data-class="staff" class="staff bounding-box">
+                     <rect x="13139" y="894" height="733" width="2599" fill="transparent"/>
+                  </g>
+                  <path d="M13146 900 L15732 900" stroke-width="13"/>
+                  <path d="M13146 1080 L15732 1080" stroke-width="13"/>
+                  <path d="M13146 1260 L15732 1260" stroke-width="13"/>
+                  <path d="M13146 1440 L15732 1440" stroke-width="13"/>
+                  <path d="M13146 1620 L15732 1620" stroke-width="13"/>
+                  <g data-id="x5520def1-2dd1-48fe-a1d2-8bceeedf12e6" data-class="layer" class="layer">
+                     <g data-id="bbox-x5520def1-2dd1-48fe-a1d2-8bceeedf12e6" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="x1ce6caed-66ae-4962-8c09-c6d822e5f588" data-class="space" class="space">
+                        <g data-id="bbox-x1ce6caed-66ae-4962-8c09-c6d822e5f588" data-class="space" class="space bounding-box">
+                           <rect x="13284" y="1260" height="0" width="0" fill="transparent"/>
+                        </g>
+                     </g>
+                     <g data-id="xbb791f45-a4b1-4fe1-9d20-7401ea762a23" data-class="space" class="space">
+                        <g data-id="bbox-xbb791f45-a4b1-4fe1-9d20-7401ea762a23" data-class="space" class="space bounding-box">
+                           <rect x="14337" y="1260" height="0" width="0" fill="transparent"/>
+                        </g>
+                     </g>
+                     <g data-id="x87ce5da7-bba5-4a5a-bfe3-6b588f82bf1e" data-class="note" class="note">
+                        <g data-id="bbox-x87ce5da7-bba5-4a5a-bfe3-6b588f82bf1e" data-class="note" class="note bounding-box">
+                           <rect x="15032" y="1254" height="191" width="226" fill="transparent"/>
+                        </g>
+                        <g data-class="notehead" class="notehead">
+                           <use href="#E0A4-d1poinco" transform="translate(15032, 1350) scale(0.72, 0.72)"/>
+                        </g>
+                        <g data-id="ad9ddwu" data-class="stem" class="stem">
+                           <g data-id="bbox-ad9ddwu" data-class="stem" class="stem bounding-box">
+                              <rect x="15032" y="1369" height="560" width="18" fill="transparent"/>
+                           </g>
+                           <path d="M15041 1378 L15041 1920" stroke-width="18"/>
+                           <g data-id="b1vfzpkx" data-class="flag" class="flag">
+                              <g data-id="bbox-b1vfzpkx" data-class="flag" class="flag bounding-box">
+                                 <rect x="15032" y="1421" height="499" width="198" fill="transparent"/>
+                              </g>
+                              <use href="#E241-d1poinco" transform="translate(15032, 1920) scale(0.72, 0.72)"/>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+                  <g data-id="lc2a1595d-c8cb-41c9-970d-67cb9e348a3b" data-class="layer" class="layer">
+                     <g data-id="bbox-lc2a1595d-c8cb-41c9-970d-67cb9e348a3b" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="h0558fe1f-6ee2-423c-8c2e-ddd0a6aaf376" data-class="halfmRpt" class="halfmRpt">
+                        <g data-id="bbox-h0558fe1f-6ee2-423c-8c2e-ddd0a6aaf376" data-class="halfmRpt" class="halfmRpt bounding-box">
+                           <rect x="13284" y="1086" height="348" width="365" fill="transparent"/>
+                        </g>
+                        <use href="#E500-d1poinco" transform="translate(13284, 1260) scale(0.72, 0.72)"/>
+                     </g>
+                     <g data-id="h73e38b67-93a3-43c8-925e-8e1388f374af" data-class="halfmRpt" class="halfmRpt">
+                        <g data-id="bbox-h73e38b67-93a3-43c8-925e-8e1388f374af" data-class="halfmRpt" class="halfmRpt bounding-box">
+                           <rect x="14337" y="1086" height="348" width="365" fill="transparent"/>
+                        </g>
+                        <use href="#E500-d1poinco" transform="translate(14337, 1260) scale(0.72, 0.72)"/>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="x69e4e5cf-01fa-4b9b-a69f-570a3c43c4e3" data-class="staff" class="staff">
+                  <g data-id="bbox-x69e4e5cf-01fa-4b9b-a69f-570a3c43c4e3" data-class="staff" class="staff bounding-box">
+                     <rect x="13139" y="2694" height="733" width="2599" fill="transparent"/>
+                  </g>
+                  <path d="M13146 2700 L15732 2700" stroke-width="13"/>
+                  <path d="M13146 2880 L15732 2880" stroke-width="13"/>
+                  <path d="M13146 3060 L15732 3060" stroke-width="13"/>
+                  <path d="M13146 3240 L15732 3240" stroke-width="13"/>
+                  <path d="M13146 3420 L15732 3420" stroke-width="13"/>
+                  <g data-id="x70d43172-b464-4a26-aedb-cb9033a71a22" data-class="layer" class="layer">
+                     <g data-id="bbox-x70d43172-b464-4a26-aedb-cb9033a71a22" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="s30a26157-3310-4124-9399-fc3893e89d11" data-class="mSpace" class="mSpace">
+                        <g data-id="bbox-s30a26157-3310-4124-9399-fc3893e89d11" data-class="mSpace" class="mSpace bounding-box"/>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="uh64m6t" data-class="barLine" class="barLine">
+                  <g data-id="bbox-uh64m6t" data-class="barLine" class="barLine bounding-box">
+                     <rect x="15705" y="887" height="2547" width="27" fill="transparent"/>
+                  </g>
+                  <path d="M15719 900 L15719 1620" stroke-width="27"/>
+                  <path d="M15719 2700 L15719 3420" stroke-width="27"/>
+                  <path d="M15719 1620 L15719 2700" stroke-width="27"/>
+               </g>
+            </g>
+            <g data-id="x0dc6a92b-35ee-4b16-ada9-5935cce9f91f" data-class="measure" class="measure">
+               <g data-id="bbox-x0dc6a92b-35ee-4b16-ada9-5935cce9f91f" data-class="measure" class="measure bounding-box"/>
+               <g data-id="xe6851d73-2140-4ae5-9f18-97db309b84d4" data-class="staff" class="staff">
+                  <g data-id="bbox-xe6851d73-2140-4ae5-9f18-97db309b84d4" data-class="staff" class="staff bounding-box">
+                     <rect x="15725" y="894" height="733" width="2744" fill="transparent"/>
+                  </g>
+                  <path d="M15732 900 L18463 900" stroke-width="13"/>
+                  <path d="M15732 1080 L18463 1080" stroke-width="13"/>
+                  <path d="M15732 1260 L18463 1260" stroke-width="13"/>
+                  <path d="M15732 1440 L18463 1440" stroke-width="13"/>
+                  <path d="M15732 1620 L18463 1620" stroke-width="13"/>
+                  <g data-id="xbfc4b19c-f754-4ea5-b430-410b04f9f4a0" data-class="layer" class="layer">
+                     <g data-id="bbox-xbfc4b19c-f754-4ea5-b430-410b04f9f4a0" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="xd8f7661e-0349-4f8a-ad57-b21648a03a8e" data-class="note" class="note">
+                        <g data-id="bbox-xd8f7661e-0349-4f8a-ad57-b21648a03a8e" data-class="note" class="note bounding-box">
+                           <rect x="16007" y="1614" height="191" width="226" fill="transparent"/>
+                        </g>
+                        <g data-class="notehead" class="notehead">
+                           <use href="#E0A4-d1poinco" transform="translate(16007, 1710) scale(0.72, 0.72)"/>
+                        </g>
+                        <g data-id="c1un2ott" data-class="stem" class="stem">
+                           <g data-id="bbox-c1un2ott" data-class="stem" class="stem bounding-box">
+                              <rect x="16007" y="1729" height="440" width="18" fill="transparent"/>
+                           </g>
+                           <path d="M16016 1738 L16016 2160" stroke-width="18"/>
+                        </g>
+                     </g>
+                     <g data-id="x290ea250-9d11-425e-8ad9-32f6daebcd9c" data-class="rest" class="rest">
+                        <g data-id="bbox-x290ea250-9d11-425e-8ad9-32f6daebcd9c" data-class="rest" class="rest bounding-box">
+                           <rect x="17061" y="1129" height="311" width="198" fill="transparent"/>
+                        </g>
+                        <use href="#E4E6-d1poinco" transform="translate(17061, 1260) scale(0.72, 0.72)"/>
+                        <g data-id="d19mvg99" data-class="dots" class="dots">
+                           <g data-id="bbox-d19mvg99" data-class="dots" class="dots bounding-box">
+                              <rect x="17313" y="1134" height="72" width="72" fill="transparent"/>
+                           </g>
+                           <ellipse cx="17349" cy="1170" rx="36" ry="36" fill-opacity="1" stroke-opacity="1"/>
+                        </g>
+                     </g>
+                     <g data-id="x8acbc24a-f450-417c-9441-8ecc4bc2c646" data-class="note" class="note">
+                        <g data-id="bbox-x8acbc24a-f450-417c-9441-8ecc4bc2c646" data-class="note" class="note bounding-box">
+                           <rect x="17946" y="1614" height="191" width="226" fill="transparent"/>
+                        </g>
+                        <g data-class="notehead" class="notehead">
+                           <use href="#E0A4-d1poinco" transform="translate(17946, 1710) scale(0.72, 0.72)"/>
+                        </g>
+                        <g data-id="e4ms9s1" data-class="stem" class="stem">
+                           <g data-id="bbox-e4ms9s1" data-class="stem" class="stem bounding-box">
+                              <rect x="17946" y="1729" height="530" width="18" fill="transparent"/>
+                           </g>
+                           <path d="M17955 1738 L17955 2250" stroke-width="18"/>
+                           <g data-id="f1961kib" data-class="flag" class="flag">
+                              <g data-id="bbox-f1961kib" data-class="flag" class="flag bounding-box">
+                                 <rect x="17946" y="1703" height="547" width="198" fill="transparent"/>
+                              </g>
+                              <use href="#E243-d1poinco" transform="translate(17946, 2250) scale(0.72, 0.72)"/>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="x28af7b41-affb-46e3-a2e7-2a6f2d5b78af" data-class="staff" class="staff">
+                  <g data-id="bbox-x28af7b41-affb-46e3-a2e7-2a6f2d5b78af" data-class="staff" class="staff bounding-box">
+                     <rect x="15725" y="2694" height="733" width="2744" fill="transparent"/>
+                  </g>
+                  <path d="M15732 2700 L18463 2700" stroke-width="13"/>
+                  <path d="M15732 2880 L18463 2880" stroke-width="13"/>
+                  <path d="M15732 3060 L18463 3060" stroke-width="13"/>
+                  <path d="M15732 3240 L18463 3240" stroke-width="13"/>
+                  <path d="M15732 3420 L18463 3420" stroke-width="13"/>
+                  <g data-id="x5add407b-e3e4-4e30-9c58-1061f26694df" data-class="layer" class="layer">
+                     <g data-id="bbox-x5add407b-e3e4-4e30-9c58-1061f26694df" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="s2b008518-ebcd-4336-aa5e-825db3e40708" data-class="mSpace" class="mSpace">
+                        <g data-id="bbox-s2b008518-ebcd-4336-aa5e-825db3e40708" data-class="mSpace" class="mSpace bounding-box"/>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="o1w8lavv" data-class="barLine" class="barLine">
+                  <g data-id="bbox-o1w8lavv" data-class="barLine" class="barLine bounding-box">
+                     <rect x="18436" y="887" height="2547" width="27" fill="transparent"/>
+                  </g>
+                  <path d="M18450 900 L18450 1620" stroke-width="27"/>
+                  <path d="M18450 2700 L18450 3420" stroke-width="27"/>
+                  <path d="M18450 1620 L18450 2700" stroke-width="27"/>
+               </g>
+            </g>
+            <g data-id="xe8c327d0-9b88-4a54-b1d3-356afed050f6" data-class="measure" class="measure">
+               <g data-id="bbox-xe8c327d0-9b88-4a54-b1d3-356afed050f6" data-class="measure" class="measure bounding-box"/>
+               <g data-id="x9d1f481e-35ad-437d-8422-e67909926313" data-class="staff" class="staff">
+                  <g data-id="bbox-x9d1f481e-35ad-437d-8422-e67909926313" data-class="staff" class="staff bounding-box">
+                     <rect x="18456" y="894" height="1097" width="3003" fill="transparent"/>
+                  </g>
+                  <path d="M18463 900 L21453 900" stroke-width="13"/>
+                  <path d="M18463 1080 L21453 1080" stroke-width="13"/>
+                  <path d="M18463 1260 L21453 1260" stroke-width="13"/>
+                  <path d="M18463 1440 L21453 1440" stroke-width="13"/>
+                  <path d="M18463 1620 L21453 1620" stroke-width="13"/>
+                  <g data-class="ledgerLines" class="ledgerLines below">
+                     <g data-class="lineDash" class="lineDash" data-related="#x867faacb-5eb4-43f7-8df4-bb0bbe2717f3">
+                        <path d="M18690 1800 L19012 1800" stroke-width="22"/>
+                     </g>
+                     <g data-class="lineDash" class="lineDash" data-related="#x867faacb-5eb4-43f7-8df4-bb0bbe2717f3">
+                        <path d="M18690 1980 L19012 1980" stroke-width="22"/>
+                     </g>
+                  </g>
+                  <g data-id="x8e32427d-80c1-43ef-abd8-57214eaf66be" data-class="layer" class="layer">
+                     <g data-id="bbox-x8e32427d-80c1-43ef-abd8-57214eaf66be" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="x867faacb-5eb4-43f7-8df4-bb0bbe2717f3" data-class="note" class="note">
+                        <g data-id="bbox-x867faacb-5eb4-43f7-8df4-bb0bbe2717f3" data-class="note" class="note bounding-box">
+                           <rect x="18738" y="1884" height="191" width="226" fill="transparent"/>
+                        </g>
+                        <g data-class="notehead" class="notehead">
+                           <use href="#E0A4-d1poinco" transform="translate(18738, 1980) scale(0.72, 0.72)"/>
+                        </g>
+                        <g data-id="ghshg5e" data-class="stem" class="stem">
+                           <g data-id="bbox-ghshg5e" data-class="stem" class="stem bounding-box">
+                              <rect x="18738" y="1999" height="440" width="18" fill="transparent"/>
+                           </g>
+                           <path d="M18747 2008 L18747 2430" stroke-width="18"/>
+                        </g>
+                     </g>
+                     <g data-id="x121882a3-6fa5-41a2-98d4-106adabc82f5" data-class="space" class="space">
+                        <g data-id="bbox-x121882a3-6fa5-41a2-98d4-106adabc82f5" data-class="space" class="space bounding-box">
+                           <rect x="19792" y="1260" height="0" width="0" fill="transparent"/>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="x9fccbe8c-528b-4b99-b1e5-c24be3500d28" data-class="staff" class="staff">
+                  <g data-id="bbox-x9fccbe8c-528b-4b99-b1e5-c24be3500d28" data-class="staff" class="staff bounding-box">
+                     <rect x="18456" y="2694" height="733" width="3003" fill="transparent"/>
+                  </g>
+                  <path d="M18463 2700 L21453 2700" stroke-width="13"/>
+                  <path d="M18463 2880 L21453 2880" stroke-width="13"/>
+                  <path d="M18463 3060 L21453 3060" stroke-width="13"/>
+                  <path d="M18463 3240 L21453 3240" stroke-width="13"/>
+                  <path d="M18463 3420 L21453 3420" stroke-width="13"/>
+                  <g data-id="x46f5af0f-f7e2-41d2-9ddc-d5ab018b894c" data-class="layer" class="layer">
+                     <g data-id="bbox-x46f5af0f-f7e2-41d2-9ddc-d5ab018b894c" data-class="layer" class="layer bounding-box"/>
+                     <g data-id="x21afc9b0-02a3-4f08-b874-1a45ecbdf26a" data-class="space" class="space">
+                        <g data-id="bbox-x21afc9b0-02a3-4f08-b874-1a45ecbdf26a" data-class="space" class="space bounding-box">
+                           <rect x="18738" y="3060" height="0" width="0" fill="transparent"/>
+                        </g>
+                     </g>
+                     <g data-id="xc1b6f827-1813-47be-932f-4ba093cded4c" data-class="space" class="space">
+                        <g data-id="bbox-xc1b6f827-1813-47be-932f-4ba093cded4c" data-class="space" class="space bounding-box">
+                           <rect x="19792" y="3060" height="0" width="0" fill="transparent"/>
+                        </g>
+                     </g>
+                     <g data-id="x2fbd1173-0fdc-4462-b309-7848283b31c1" data-class="space" class="space">
+                        <g data-id="bbox-x2fbd1173-0fdc-4462-b309-7848283b31c1" data-class="space" class="space bounding-box">
+                           <rect x="20479" y="3060" height="0" width="0" fill="transparent"/>
+                        </g>
+                     </g>
+                     <g data-id="x71cabf25-a053-497a-98b0-d6183b4bcf6f" data-class="note" class="note">
+                        <g data-id="bbox-x71cabf25-a053-497a-98b0-d6183b4bcf6f" data-class="note" class="note bounding-box">
+                           <rect x="20937" y="2604" height="191" width="226" fill="transparent"/>
+                        </g>
+                        <g data-class="notehead" class="notehead">
+                           <use href="#E0A4-d1poinco" transform="translate(20937, 2700) scale(0.72, 0.72)"/>
+                        </g>
+                        <g data-id="hea8wsv" data-class="stem" class="stem">
+                           <g data-id="bbox-hea8wsv" data-class="stem" class="stem bounding-box">
+                              <rect x="20937" y="2719" height="620" width="18" fill="transparent"/>
+                           </g>
+                           <path d="M20946 2728 L20946 3330" stroke-width="18"/>
+                           <g data-id="iuuoray" data-class="flag" class="flag">
+                              <g data-id="bbox-iuuoray" data-class="flag" class="flag bounding-box">
+                                 <rect x="20937" y="2783" height="547" width="198" fill="transparent"/>
+                              </g>
+                              <use href="#E243-d1poinco" transform="translate(20937, 3330) scale(0.72, 0.72)"/>
+                           </g>
+                        </g>
+                     </g>
+                  </g>
+               </g>
+               <g data-id="f87316d" data-class="barLine" class="barLine">
+                  <g data-id="bbox-f87316d" data-class="barLine" class="barLine bounding-box">
+                     <rect x="21426" y="887" height="2547" width="27" fill="transparent"/>
+                  </g>
+                  <path d="M21440 900 L21440 1620" stroke-width="27"/>
+                  <path d="M21440 2700 L21440 3420" stroke-width="27"/>
+                  <path d="M21440 1620 L21440 2700" stroke-width="27"/>
+               </g>
+            </g>
+         </g>
+      </g>
+   </svg>
+</svg>
