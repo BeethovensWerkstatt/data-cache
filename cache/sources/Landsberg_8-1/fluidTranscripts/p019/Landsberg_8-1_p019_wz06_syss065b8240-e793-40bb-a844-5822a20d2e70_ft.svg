@@ -21,7 +21,7 @@
       </g>
    </defs>
    <style type="text/css">#ev66wpv g.page-margin {font-family:Times,serif;}#ev66wpv g.ending, #ev66wpv g.fing, #ev66wpv g.reh, #ev66wpv g.tempo {font-weight:bold;}#ev66wpv g.dir, #ev66wpv g.dynam, #ev66wpv g.mNum {font-style:italic;}#ev66wpv g.label {font-weight:normal;}#ev66wpv path {stroke:currentColor}</style>
-   <svg class="definition-scale" color="black" viewBox="0 0 27360 21960">
+   <svg class="definition-scale" color="black" viewBox="-227 -408 27637 22418">
       <g class="page-margin" transform="translate(1000, 3000)">
          <g data-id="j1bylc1x" data-class="system" class="system">
             <g data-id="bbox-j1bylc1x" data-class="system" class="system bounding-box"/>
@@ -43,29 +43,29 @@
                   <g data-id="bbox-xbabfa4dc-fcbf-4198-b367-2eae0bba99fa" data-class="staff" class="staff bounding-box">
                      <rect x="-7" y="799" height="918" width="2250" fill="transparent"/>
                   </g>
-                  <path d="M0 990 L2237 990" stroke-width="13"/>
-                  <path d="M0 1170 L2237 1170" stroke-width="13"/>
-                  <path d="M0 1350 L2237 1350" stroke-width="13"/>
-                  <path d="M0 1530 L2237 1530" stroke-width="13"/>
-                  <path d="M0 1710 L2237 1710" stroke-width="13"/>
+                  <path d="M0 990 L10065 990" stroke-width="13" class="rastrum"><animate id="s12a9c341-ff26-4294-aacc-5814325ddd11" attributeName="d" values="M455 995 L21722 995;M455 995 L21722 995;M0 990 L10065 990;M0 990 L10065 990;M0 990 L10065 990;M0 990 L10065 990" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 1170 L10065 1170" stroke-width="13" class="rastrum"><animate id="sb0d877e9-3889-4001-9bec-866c50cb2871" attributeName="d" values="M455 1172 L21722 1172;M455 1172 L21722 1172;M0 1170 L10065 1170;M0 1170 L10065 1170;M0 1170 L10065 1170;M0 1170 L10065 1170" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 1350 L10065 1350" stroke-width="13" class="rastrum"><animate id="s16b2a147-b579-4863-aed3-cdd77e720e09" attributeName="d" values="M455 1350 L21722 1350;M455 1350 L21722 1350;M0 1350 L10065 1350;M0 1350 L10065 1350;M0 1350 L10065 1350;M0 1350 L10065 1350" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 1530 L10065 1530" stroke-width="13" class="rastrum"><animate id="s4624e7a5-934b-459a-a6db-104f53b428bc" attributeName="d" values="M455 1528 L21722 1528;M455 1528 L21722 1528;M0 1530 L10065 1530;M0 1530 L10065 1530;M0 1530 L10065 1530;M0 1530 L10065 1530" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 1710 L10065 1710" stroke-width="13" class="rastrum"><animate id="se7bb8176-7e54-4b28-b1b9-7531d690edf8" attributeName="d" values="M455 1705 L21722 1705;M455 1705 L21722 1705;M0 1710 L10065 1710;M0 1710 L10065 1710;M0 1710 L10065 1710;M0 1710 L10065 1710" repeatCount="indefinite" dur="5s"/></path>
                   <g data-id="c6c9679d4-299f-4763-844b-c5f642ec81dd" data-class="clef" class="clef" data-corresp="../diplomaticTranscripts/Landsberg_8-1_p019_wz06_dt.xml#d9a037ac0-a764-464c-8875-bbd535836c6f">
                      <g data-id="bbox-i19k93zj" data-class="clef" class="clef bounding-box">
                         <rect x="117" y="750" height="1251" width="465" fill="transparent"/>
                      </g>
                      <use href="#E050-ev66wpv" transform="translate(117, 1530) scale(0.72, 0.72)"/>
-                  </g>
+                  <animateTransform id="s9e8a039e-bd3c-42b1-821f-e85d967821a3" attributeName="transform" attributeType="XML" type="translate" values="9966 -358;9966 -358;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                   <g data-id="k8f52754b-31fe-4904-8818-3c212907670d" data-class="keySig" class="keySig">
                      <g data-id="bbox-j6miw8z" data-class="keySig" class="keySig bounding-box">
                         <rect x="762" y="1013" height="463" width="142" fill="transparent"/>
                      </g>
-                     <g data-id="k3627d3f7-4e45-418d-b429-c20f33208713" data-class="keyAccid" class="keyAccid">
+                     <g data-id="k3627d3f7-4e45-418d-b429-c20f33208713" data-class="keyAccid" class="keyAccid supplied" fill="#009900" stroke="#009900">
                         <use href="#E260-ev66wpv" transform="translate(762, 1350) scale(0.72, 0.72)"/>
-                     </g>
+                     <animate id="s397050a2-8f4a-4063-85f3-76e33843e3c0" attributeName="opacity" values="0;0;0;1;1;1" repeatCount="indefinite" dur="5s"/><animateTransform id="s416c8b0c-7d85-4054-84b1-078c40ac84c5" attributeName="transform" attributeType="XML" type="translate" values="0 0;0 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                   </g>
                   <g data-class="ledgerLines" class="ledgerLines above">
                      <g data-class="lineDash" class="lineDash" data-related="#xe88ca04a-8918-4ff7-a674-48a69b7e0cc5">
                         <path d="M1126 810 L1448 810" stroke-width="22"/>
-                     </g>
+                     <animateTransform id="s6d286eca-0587-406a-873c-269b0d35a906" attributeName="transform" attributeType="XML" type="translate" values="537 8;537 8;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                   </g>
                   <g data-id="xbd78a512-5e2b-4cb6-abbf-9d6ad07d8c27" data-class="layer" class="layer">
                      <g data-id="bbox-xbd78a512-5e2b-4cb6-abbf-9d6ad07d8c27" data-class="layer" class="layer bounding-box"/>
@@ -80,18 +80,18 @@
                            <g data-id="bbox-v1uz2u7l" data-class="stem" class="stem bounding-box">
                               <rect x="1382" y="261" height="440" width="18" fill="transparent"/>
                            </g>
-                           <path d="M1391 692 L1391 270" stroke-width="18"/>
+                           <path d="M1391 692 L1391 270" stroke-width="18"><animate id="s416f2964-60d0-48a4-8ba1-5f1f6c39fed1" attributeName="d" values="M1391 692 L1391 247.81395348837208;M1391 692 L1391 270;M1391 692 L1391 270;M1391 692 L1391 270;M1391 692 L1391 270;M1391 692 L1391 270" repeatCount="indefinite" dur="5s"/></path>
                         </g>
-                        <g data-id="xc61f9ae4-6bb8-47e8-8d2c-d37716857ca5" data-class="accid" class="accid">
+                        <g data-id="xc61f9ae4-6bb8-47e8-8d2c-d37716857ca5" data-class="accid" class="accid supplied" fill="#009900" stroke="#009900">
                            <g data-id="bbox-xc61f9ae4-6bb8-47e8-8d2c-d37716857ca5" data-class="accid" class="accid bounding-box">
                               <rect x="1174" y="720" height="0" width="0" fill="transparent"/>
                            </g>
-                        </g>
-                     </g>
+                        <animate id="sbe4583ab-84b6-4998-9e65-2da9dec5d7ef" attributeName="opacity" values="0;0;0;1;1;1" repeatCount="indefinite" dur="5s"/><animateTransform id="s3bd3c41a-3b11-49ad-abb1-2e454dbc4da1" attributeName="transform" attributeType="XML" type="translate" values="0 0;0 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                     <animateTransform id="sb004e41f-0b24-4a8e-9604-37831c56e00e" attributeName="transform" attributeType="XML" type="translate" values="537 8;537 8;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                   </g>
                </g>
                <g data-id="xb249ce45-7ab4-445f-976d-e622bfcb80e3" data-class="tie" class="tie">
-                  <path d="M1445,675 C1669,522 2144,522 2372,675 C2131,570 1682,570 1445,675" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+                  <path d="M1445,675 C1669,522 2144,522 2372,675 C2131,570 1682,570 1445,675" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"><animate id="s369f2429-9f3d-4a01-acfe-4eb913bb27e1" attributeName="d" values="M2207 810 C2332 499 2375 374 2499 393 C2407 423 2387 520 2207 810;M2207 810 C2332 499 2375 374 2499 393 C2407 423 2387 520 2207 810;M1445,675 C1669,522 2144,522 2372,675 C2131,570 1682,570 1445,675;M1445,675 C1669,522 2144,522 2372,675 C2131,570 1682,570 1445,675;M1445,675 C1669,522 2144,522 2372,675 C2131,570 1682,570 1445,675;M1445,675 C1669,522 2144,522 2372,675 C2131,570 1682,570 1445,675" repeatCount="indefinite" dur="5s"/></path>
                   <g data-id="bbox-xb249ce45-7ab4-445f-976d-e622bfcb80e3" data-class="tie" class="tie bounding-box">
                      <rect x="1445" y="558" height="117" width="927" fill="transparent"/>
                   </g>
@@ -100,8 +100,8 @@
                   <g data-id="bbox-cgw3i8w" data-class="barLine" class="barLine bounding-box">
                      <rect x="2210" y="977" height="747" width="27" fill="transparent"/>
                   </g>
-                  <path d="M2224 990 L2224 1710" stroke-width="27"/>
-               </g>
+                  
+               <path d="M2224 990 L2224 1710" stroke-width="27"><animate id="scbe88611-ff27-4b0c-a9e3-5451b1306ecd" attributeName="d" values="M2390 833 L2412 2354;M2390 833 L2412 2354;M2224 990 L2224 1710;M2224 990 L2224 1710;M2224 990 L2224 1710;M2224 990 L2224 1710" repeatCount="indefinite" dur="5s"/></path></g>
             </g>
             <g data-id="x89815c3e-cd0e-468a-ae3d-1470c876dec3" data-class="measure" class="measure">
                <g data-id="bbox-x89815c3e-cd0e-468a-ae3d-1470c876dec3" data-class="measure" class="measure bounding-box"/>
@@ -109,24 +109,24 @@
                   <g data-id="bbox-x11597557-0da0-4c20-b3d2-caadcd8df543" data-class="staff" class="staff bounding-box">
                      <rect x="2230" y="799" height="918" width="2317" fill="transparent"/>
                   </g>
-                  <path d="M2237 990 L4541 990" stroke-width="13"/>
-                  <path d="M2237 1170 L4541 1170" stroke-width="13"/>
-                  <path d="M2237 1350 L4541 1350" stroke-width="13"/>
-                  <path d="M2237 1530 L4541 1530" stroke-width="13"/>
-                  <path d="M2237 1710 L4541 1710" stroke-width="13"/>
+                  
+                  
+                  
+                  
+                  
                   <g data-class="ledgerLines" class="ledgerLines above">
                      <g data-class="lineDash" class="lineDash" data-related="#xe7b49695-110d-4ba1-b32c-5e167745db3b">
                         <path d="M2369 810 L2691 810" stroke-width="22"/>
-                     </g>
+                     <animateTransform id="s072de35d-7854-4d60-8521-0b85fef680e3" attributeName="transform" attributeType="XML" type="translate" values="541 8;541 8;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      <g data-class="lineDash" class="lineDash" data-related="#x31a96e95-b8b2-4eb8-9a6c-0f09d39ba1c1">
                         <path d="M2819 810 L3141 810" stroke-width="22"/>
-                     </g>
+                     <animateTransform id="sdda60fe4-7bd7-4cbd-9e91-7aa8cc22813f" attributeName="transform" attributeType="XML" type="translate" values="702 8;702 8;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      <g data-class="lineDash" class="lineDash" data-related="#x3d67a572-db70-4a04-8df6-c632cea1a786">
                         <path d="M3492 810 L3778 810" stroke-width="22"/>
-                     </g>
+                     <animateTransform id="s59078da6-f37c-4719-bd71-9eb51aae4cbb" attributeName="transform" attributeType="XML" type="translate" values="700 7;700 7;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      <g data-class="lineDash" class="lineDash" data-related="#x27ef92b0-4067-4b25-9d9a-6a6070527952">
                         <path d="M3808 810 L4094 810" stroke-width="22"/>
-                     </g>
+                     <animateTransform id="s2d3eae7f-1234-4f0b-a807-208cb2ac6132" attributeName="transform" attributeType="XML" type="translate" values="995 7;995 7;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                   </g>
                   <g data-id="xd1e3da50-213b-4249-bc39-02c567c24cee" data-class="layer" class="layer">
                      <g data-id="bbox-xd1e3da50-213b-4249-bc39-02c567c24cee" data-class="layer" class="layer bounding-box"/>
@@ -134,9 +134,9 @@
                         <g data-id="bbox-x5760177a-1eae-4d8c-84f3-8db775dd6ab8" data-class="beam" class="beam bounding-box">
                            <rect x="2625" y="0" height="360" width="1123" fill="transparent"/>
                         </g>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="2625,0 3748,0 3748,90 2625,90"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="3084,135 3748,135 3748,225 3084,225"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="3522,270 3748,270 3748,360 3522,360"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="2625,90 3748,90 3748,0 2625,0"><animate id="s4321b508-5392-4974-a6d9-d4d17d0ef630" attributeName="points" values="3837,-324 3837,-324 3837,-241 3837,-241;3175,26 4439,25 4439,-65 3175,-64;2625,90 3748,90 3748,0 2625,0;2625,90 3748,90 3748,0 2625,0;2625,90 3748,90 3748,0 2625,0;2625,90 3748,90 3748,0 2625,0" repeatCount="indefinite" dur="5s"/></polygon>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="3084,225 3748,225 3748,135 3084,135"><animate id="s13d17af8-5625-4b02-9f32-b94d6309d88d" attributeName="points" values="3971,77 3971,77 3971,161 3971,161;3175,-109 4439,-110 4439,-200 3175,-199;3084,225 3748,225 3748,135 3084,135;3084,225 3748,225 3748,135 3084,135;3084,225 3748,225 3748,135 3084,135;3084,225 3748,225 3748,135 3084,135" repeatCount="indefinite" dur="5s"/></polygon>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="3522,360 3748,360 3748,270 3522,270"><animate id="s47515fec-fea6-476a-a4c2-dd3e0705896d" attributeName="points" values="4298,337 4298,337 4298,421 4298,421;3175,-244 4439,-245 4439,-335 3175,-334;3522,360 3748,360 3748,270 3522,270;3522,360 3748,360 3748,270 3522,270;3522,360 3748,360 3748,270 3522,270;3522,360 3748,360 3748,270 3522,270" repeatCount="indefinite" dur="5s"/></polygon>
                         <g data-id="xe7b49695-110d-4ba1-b32c-5e167745db3b" data-class="note" class="note">
                            <g data-id="bbox-xe7b49695-110d-4ba1-b32c-5e167745db3b" data-class="note" class="note bounding-box">
                               <rect x="2417" y="624" height="191" width="226" fill="transparent"/>
@@ -148,14 +148,14 @@
                               <g data-id="bbox-w2dxlfg" data-class="stem" class="stem bounding-box">
                                  <rect x="2625" y="9" height="692" width="18" fill="transparent"/>
                               </g>
-                              <path d="M2634 692 L2634 18" stroke-width="18"/>
+                              <path d="M2634 692 L2634 18" stroke-width="18"><animate id="s7e4f8cd3-3d68-41e2-8d5f-4e2302424785" attributeName="d" values="M2634 692 L2634 336.6511627906977;M2634 692 L2634 18;M2634 692 L2634 18;M2634 692 L2634 18;M2634 692 L2634 18;M2634 692 L2634 18" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                           <g data-id="xd4a5520a-6a32-46b3-95d2-c3e177877609" data-class="accid" class="accid">
+                           <g data-id="xd4a5520a-6a32-46b3-95d2-c3e177877609" data-class="accid" class="accid supplied" fill="#009900" stroke="#009900">
                               <g data-id="bbox-xd4a5520a-6a32-46b3-95d2-c3e177877609" data-class="accid" class="accid bounding-box">
                                  <rect x="2417" y="720" height="0" width="0" fill="transparent"/>
                               </g>
-                           </g>
-                        </g>
+                           <animate id="s1b65afae-79b7-4b3b-8a5f-dd182dc5861f" attributeName="opacity" values="0;0;0;1;1;1" repeatCount="indefinite" dur="5s"/><animateTransform id="sdf9d7567-58b7-46e2-a84a-36811bb3f3dd" attributeName="transform" attributeType="XML" type="translate" values="0 0;0 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                        <animateTransform id="s9504c24b-b70c-48cf-9ad5-eb30f46950e3" attributeName="transform" attributeType="XML" type="translate" values="541 8;541 8;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="x31a96e95-b8b2-4eb8-9a6c-0f09d39ba1c1" data-class="note" class="note">
                            <g data-id="bbox-x31a96e95-b8b2-4eb8-9a6c-0f09d39ba1c1" data-class="note" class="note bounding-box">
                               <rect x="2867" y="624" height="191" width="226" fill="transparent"/>
@@ -173,14 +173,14 @@
                               <g data-id="bbox-x4n7s6r" data-class="stem" class="stem bounding-box">
                                  <rect x="3075" y="9" height="692" width="18" fill="transparent"/>
                               </g>
-                              <path d="M3084 692 L3084 18" stroke-width="18"/>
+                              <path d="M3084 692 L3084 18" stroke-width="18"><animate id="s7ffe8dd7-0ebb-49cd-a051-cab03acd9450" attributeName="d" values="M3084 692 L3084 247.81395348837208;M3084 692 L3084 18;M3084 692 L3084 18;M3084 692 L3084 18;M3084 692 L3084 18;M3084 692 L3084 18" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                           <g data-id="x519d9937-e092-4ec9-ab94-742db880f6d2" data-class="accid" class="accid">
+                           <g data-id="x519d9937-e092-4ec9-ab94-742db880f6d2" data-class="accid" class="accid supplied" fill="#009900" stroke="#009900">
                               <g data-id="bbox-x519d9937-e092-4ec9-ab94-742db880f6d2" data-class="accid" class="accid bounding-box">
                                  <rect x="2867" y="720" height="0" width="0" fill="transparent"/>
                               </g>
-                           </g>
-                        </g>
+                           <animate id="s6e2b573d-30e7-4cd7-87c9-a64ffe155d96" attributeName="opacity" values="0;0;0;1;1;1" repeatCount="indefinite" dur="5s"/><animateTransform id="s34bf1415-5f90-4eed-b1d4-c4b1dbd12328" attributeName="transform" attributeType="XML" type="translate" values="0 0;0 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                        <animateTransform id="s1361d624-55f1-48f5-bf34-6dc3755f6819" attributeName="transform" attributeType="XML" type="translate" values="702 8;702 8;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="x3d67a572-db70-4a04-8df6-c632cea1a786" data-class="note" class="note">
                            <g data-id="bbox-x3d67a572-db70-4a04-8df6-c632cea1a786" data-class="note" class="note bounding-box">
                               <rect x="3522" y="714" height="191" width="226" fill="transparent"/>
@@ -192,15 +192,15 @@
                               <g data-id="bbox-z1h2ti8z" data-class="stem" class="stem bounding-box">
                                  <rect x="3730" y="9" height="782" width="18" fill="transparent"/>
                               </g>
-                              <path d="M3739 782 L3739 18" stroke-width="18"/>
+                              <path d="M3739 782 L3739 18" stroke-width="18"><animate id="s61c8b484-bf58-4c76-ad9b-3245b093793b" attributeName="d" values="M3739 782 L3739 -284.04651162790697;M3739 782 L3739 18;M3739 782 L3739 18;M3739 782 L3739 18;M3739 782 L3739 18;M3739 782 L3739 18" repeatCount="indefinite" dur="5s"/></path>
                            </g>
                            <g data-id="x2bbdf602-2989-406c-ab17-0b5e2b2a1b4b" data-class="accid" class="accid">
                               <g data-id="bbox-x2bbdf602-2989-406c-ab17-0b5e2b2a1b4b" data-class="accid" class="accid bounding-box">
                                  <rect x="3309" y="473" height="463" width="142" fill="transparent"/>
                               </g>
                               <use href="#E260-ev66wpv" transform="translate(3309, 810) scale(0.72, 0.72)"/>
-                           </g>
-                        </g>
+                           <animateTransform id="sb3312b8b-7bd8-473e-ae10-89532c8df904" attributeName="transform" attributeType="XML" type="translate" values="12 0;12 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                        <animateTransform id="sd900680c-b30e-4960-af24-b416bdab0343" attributeName="transform" attributeType="XML" type="translate" values="700 7;700 7;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      </g>
                      <g data-id="x27ef92b0-4067-4b25-9d9a-6a6070527952" data-class="note" class="note">
                         <g data-id="bbox-x27ef92b0-4067-4b25-9d9a-6a6070527952" data-class="note" class="note bounding-box">
@@ -213,22 +213,22 @@
                            <g data-id="bbox-abi5kgu" data-class="stem" class="stem bounding-box">
                               <rect x="4046" y="351" height="440" width="18" fill="transparent"/>
                            </g>
-                           <path d="M4055 782 L4055 360" stroke-width="18"/>
+                           <path d="M4055 782 L4055 360" stroke-width="18"><animate id="sdff5ace9-cc9c-4a0a-a162-464fa3f9deeb" attributeName="d" values="M4055 782 L4055 337.8139534883721;M4055 782 L4055 360;M4055 782 L4055 360;M4055 782 L4055 360;M4055 782 L4055 360;M4055 782 L4055 360" repeatCount="indefinite" dur="5s"/></path>
                         </g>
-                        <g data-id="x944627d4-145f-4551-b94f-372554ccdd33" data-class="accid" class="accid">
+                        <g data-id="x944627d4-145f-4551-b94f-372554ccdd33" data-class="accid" class="accid supplied" fill="#009900" stroke="#009900">
                            <g data-id="bbox-x944627d4-145f-4551-b94f-372554ccdd33" data-class="accid" class="accid bounding-box">
                               <rect x="3838" y="810" height="0" width="0" fill="transparent"/>
                            </g>
-                        </g>
-                     </g>
+                        <animate id="s957f76f1-2bed-4fb4-a5e1-54df12b8ac13" attributeName="opacity" values="0;0;0;1;1;1" repeatCount="indefinite" dur="5s"/><animateTransform id="s70f5e39d-9e2a-4d43-ad1e-d3a693fc623a" attributeName="transform" attributeType="XML" type="translate" values="0 0;0 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                     <animateTransform id="s234b8fd6-ce90-4851-92f5-0d1d38554f3d" attributeName="transform" attributeType="XML" type="translate" values="995 7;995 7;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                   </g>
                </g>
                <g data-id="q1n5lo88" data-class="barLine" class="barLine">
                   <g data-id="bbox-q1n5lo88" data-class="barLine" class="barLine bounding-box">
                      <rect x="4514" y="977" height="747" width="27" fill="transparent"/>
                   </g>
-                  <path d="M4528 990 L4528 1710" stroke-width="27"/>
-               </g>
+                  
+               <path d="M4528 990 L4528 1710" stroke-width="27"><animate id="s4045a89e-76b0-4b06-82bb-d7fc47451eb5" attributeName="d" values="M5724 894 L5864 2659;M5724 894 L5864 2659;M4528 990 L4528 1710;M4528 990 L4528 1710;M4528 990 L4528 1710;M4528 990 L4528 1710" repeatCount="indefinite" dur="5s"/></path></g>
             </g>
             <g data-id="x22775fa9-6983-44b3-8ba4-5d4a21b92f54" data-class="measure" class="measure">
                <g data-id="bbox-x22775fa9-6983-44b3-8ba4-5d4a21b92f54" data-class="measure" class="measure bounding-box"/>
@@ -236,11 +236,11 @@
                   <g data-id="bbox-x3a9fe945-108d-4d58-8437-e694295c9b94" data-class="staff" class="staff bounding-box">
                      <rect x="4534" y="984" height="733" width="2387" fill="transparent"/>
                   </g>
-                  <path d="M4541 990 L6915 990" stroke-width="13"/>
-                  <path d="M4541 1170 L6915 1170" stroke-width="13"/>
-                  <path d="M4541 1350 L6915 1350" stroke-width="13"/>
-                  <path d="M4541 1530 L6915 1530" stroke-width="13"/>
-                  <path d="M4541 1710 L6915 1710" stroke-width="13"/>
+                  
+                  
+                  
+                  
+                  
                   <g data-id="x79cc1c51-95e7-4756-89d9-b2b81281c783" data-class="layer" class="layer">
                      <g data-id="bbox-x79cc1c51-95e7-4756-89d9-b2b81281c783" data-class="layer" class="layer bounding-box"/>
                      <g data-id="xce1f6748-eded-485d-953b-1d87700b4f0d" data-class="note" class="note">
@@ -254,9 +254,9 @@
                            <g data-id="bbox-b1wh0uyv" data-class="stem" class="stem bounding-box">
                               <rect x="4929" y="441" height="440" width="18" fill="transparent"/>
                            </g>
-                           <path d="M4938 872 L4938 450" stroke-width="18"/>
+                           <path d="M4938 872 L4938 450" stroke-width="18"><animate id="s552ee371-2260-4e88-97a1-eb19d7f3f8fc" attributeName="d" values="M4938 872 L4938 694.3255813953489;M4938 872 L4938 450;M4938 872 L4938 450;M4938 872 L4938 450;M4938 872 L4938 450;M4938 872 L4938 450" repeatCount="indefinite" dur="5s"/></path>
                         </g>
-                     </g>
+                     <animateTransform id="s7f27d0fb-0fbb-433d-b157-4f1d7e1c8f24" attributeName="transform" attributeType="XML" type="translate" values="1385 6;1385 6;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                   </g>
                   <g data-id="xbbf60e35-9a7f-400a-b3fa-7277f64d3040" data-class="layer" class="layer">
                      <g data-id="bbox-xbbf60e35-9a7f-400a-b3fa-7277f64d3040" data-class="layer" class="layer bounding-box"/>
@@ -265,14 +265,14 @@
                            <rect x="4721" y="1405" height="479" width="233" fill="transparent"/>
                         </g>
                         <use href="#E4E7-ev66wpv" transform="translate(4721, 1530) scale(0.72, 0.72)"/>
-                     </g>
+                     <animateTransform id="sbc275b79-97ec-492e-8fc0-1a142287a36d" attributeName="transform" attributeType="XML" type="translate" values="1511 -269;1511 -269;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      <g data-id="x23a8a970-b6f7-47a5-a80a-b662edbb343d" data-class="beam" class="beam">
                         <g data-id="bbox-x23a8a970-b6f7-47a5-a80a-b662edbb343d" data-class="beam" class="beam bounding-box">
                            <rect x="5044" y="1575" height="405" width="650" fill="transparent"/>
                         </g>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="5044,1980 5694,1800 5694,1710 5044,1890"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="5044,1845 5369,1755 5369,1665 5044,1755"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="5369,1755 5694,1665 5694,1575 5369,1665"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="5044,1890 5694,1710 5694,1800 5044,1980"><animate id="s856cd1da-0b0f-47f6-8356-efdbc4e99943" attributeName="points" values="6751,1559 6751,1559 6751,1643 6751,1643;6576,2097 6877,2008 6877,2098 6576,2187;5044,1890 5694,1710 5694,1800 5044,1980;5044,1890 5694,1710 5694,1800 5044,1980;5044,1890 5694,1710 5694,1800 5044,1980;5044,1890 5694,1710 5694,1800 5044,1980" repeatCount="indefinite" dur="5s"/></polygon>
+                        <polygon points="5044,1755 5694,1575 5694,1665 5044,1845" stroke-opacity="1" fill-opacity="1"><animate id="s98921167-e25b-435a-9c69-d8c1a232af2a" attributeName="points" values="7178,1375 7178,1375 7178,1459 7178,1459;6576,1962 6877,1873 6877,1963 6576,2052;5044,1755 5694,1575 5694,1665 5044,1845;5044,1755 5694,1575 5694,1665 5044,1845;5044,1755 5694,1575 5694,1665 5044,1845;5044,1755 5694,1575 5694,1665 5044,1845" repeatCount="indefinite" dur="5s"/></polygon>
+                        
                         <g data-id="x6c610cde-3469-4da9-bbe7-c166963c09de" data-class="note" class="note">
                            <g data-id="bbox-x6c610cde-3469-4da9-bbe7-c166963c09de" data-class="note" class="note bounding-box">
                               <rect x="5044" y="1254" height="191" width="226" fill="transparent"/>
@@ -284,14 +284,14 @@
                               <g data-id="bbox-cqw8wo8" data-class="stem" class="stem bounding-box">
                                  <rect x="5044" y="1369" height="602" width="18" fill="transparent"/>
                               </g>
-                              <path d="M5053 1378 L5053 1962" stroke-width="18"/>
+                              <path d="M5053 1378 L5053 1962" stroke-width="18"><animate id="s638ebb73-8df3-4977-a5f6-c529861d60f0" attributeName="d" values="M5053 1378 L5053 1466.8372093023256;M5053 1378 L5053 1962;M5053 1378 L5053 1962;M5053 1378 L5053 1962;M5053 1378 L5053 1962;M5053 1378 L5053 1962" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                           <g data-id="x0abf59ae-bef8-4df7-af9e-a80729d48a46" data-class="accid" class="accid">
+                           <g data-id="x0abf59ae-bef8-4df7-af9e-a80729d48a46" data-class="accid" class="accid supplied" fill="#009900" stroke="#009900">
                               <g data-id="bbox-x0abf59ae-bef8-4df7-af9e-a80729d48a46" data-class="accid" class="accid bounding-box">
                                  <rect x="5044" y="1350" height="0" width="0" fill="transparent"/>
                               </g>
-                           </g>
-                        </g>
+                           <animate id="s0218226a-8f1f-4352-a120-9c5c5ae1a996" attributeName="opacity" values="0;0;0;1;1;1" repeatCount="indefinite" dur="5s"/><animateTransform id="sb734adc4-44db-467c-a225-ff1723dcb218" attributeName="transform" attributeType="XML" type="translate" values="0 0;0 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                        <animateTransform id="sc2afedf3-8c80-41ba-8e30-b925e7334fac" attributeName="transform" attributeType="XML" type="translate" values="1523 0;1523 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="x5c7c0905-d152-4a6c-a9e2-22ed1f600826" data-class="note" class="note">
                            <g data-id="bbox-x5c7c0905-d152-4a6c-a9e2-22ed1f600826" data-class="note" class="note bounding-box">
                               <rect x="5360" y="984" height="191" width="226" fill="transparent"/>
@@ -303,15 +303,15 @@
                               <g data-id="bbox-d1cu92kj" data-class="stem" class="stem bounding-box">
                                  <rect x="5360" y="1099" height="782" width="18" fill="transparent"/>
                               </g>
-                              <path d="M5369 1108 L5369 1872" stroke-width="18"/>
+                              <path d="M5369 1108 L5369 1872" stroke-width="18"><animate id="sa72c225c-96ad-499b-b075-dc1973c5d383" attributeName="d" values="M5369 1108 L5369 1196.8372093023256;M5369 1108 L5369 1872;M5369 1108 L5369 1872;M5369 1108 L5369 1872;M5369 1108 L5369 1872;M5369 1108 L5369 1872" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                           <g data-id="x10a467e8-2085-420d-92e7-da91355dffd9" data-class="accid" class="accid">
+                           <g data-id="x10a467e8-2085-420d-92e7-da91355dffd9" data-class="accid" class="accid supplied" fill="#009900" stroke="#009900">
                               <g data-id="bbox-x10a467e8-2085-420d-92e7-da91355dffd9" data-class="accid" class="accid bounding-box">
                                  <rect x="5173" y="743" height="463" width="142" fill="transparent"/>
                               </g>
                               <use href="#E260-ev66wpv" transform="translate(5173, 1080) scale(0.72, 0.72)"/>
-                           </g>
-                        </g>
+                           <animate id="s3ed7630e-2285-457c-9bbc-d9ed544f6990" attributeName="opacity" values="0;0;0;1;1;1" repeatCount="indefinite" dur="5s"/><animateTransform id="sf6fd65c6-eb3b-440b-ac50-913129e4d7f2" attributeName="transform" attributeType="XML" type="translate" values="0 0;0 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                        <animateTransform id="s569a522e-0720-449c-8d1a-849519b7a662" attributeName="transform" attributeType="XML" type="translate" values="1416 92;1416 92;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="x65a9cecf-3503-4071-b7a8-9e6fa31ca83c" data-class="note" class="note">
                            <g data-id="bbox-x65a9cecf-3503-4071-b7a8-9e6fa31ca83c" data-class="note" class="note bounding-box">
                               <rect x="5676" y="1074" height="191" width="226" fill="transparent"/>
@@ -323,16 +323,16 @@
                               <g data-id="bbox-e1dirscn" data-class="stem" class="stem bounding-box">
                                  <rect x="5676" y="1189" height="602" width="18" fill="transparent"/>
                               </g>
-                              <path d="M5685 1198 L5685 1782" stroke-width="18"/>
+                              <path d="M5685 1198 L5685 1782" stroke-width="18"><animate id="se7c8e64d-77f7-49fb-8771-53dc1b67dc55" attributeName="d" values="M5685 1198 L5685 1286.8372093023256;M5685 1198 L5685 1782;M5685 1198 L5685 1782;M5685 1198 L5685 1782;M5685 1198 L5685 1782;M5685 1198 L5685 1782" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="sb8746143-9647-43c2-8fcc-08596aa7a59f" attributeName="transform" attributeType="XML" type="translate" values="1192 91;1192 91;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      </g>
                      <g data-id="x866fda68-843b-4c97-89f2-4a2313c7b1c5" data-class="beam" class="beam">
                         <g data-id="bbox-x866fda68-843b-4c97-89f2-4a2313c7b1c5" data-class="beam" class="beam bounding-box">
                            <rect x="5992" y="1575" height="315" width="598" fill="transparent"/>
                         </g>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="5992,1890 6590,1800 6590,1710 5992,1800"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="6364,1698 6590,1665 6590,1575 6364,1608"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="5992,1800 6590,1710 6590,1800 5992,1890"><animate id="sa28bc769-b517-454e-954a-00e3e55c5683" attributeName="points" values="7647,1584 7647,1584 7647,1668 7647,1668;7162,2154 7496,1976 7496,2066 7162,2244;5992,1800 6590,1710 6590,1800 5992,1890;5992,1800 6590,1710 6590,1800 5992,1890;5992,1800 6590,1710 6590,1800 5992,1890;5992,1800 6590,1710 6590,1800 5992,1890" repeatCount="indefinite" dur="5s"/></polygon>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="6364,1608 6590,1575 6590,1665 6364,1698"><animate id="s3c2392a9-2319-4e07-9ccb-2547375eab30" attributeName="points" values="7487,1383 7487,1383 7487,1467 7487,1467;7162,1962 7496,1784 7496,1874 7162,2052;6364,1608 6590,1575 6590,1665 6364,1698;6364,1608 6590,1575 6590,1665 6364,1698;6364,1608 6590,1575 6590,1665 6364,1698;6364,1608 6590,1575 6590,1665 6364,1698" repeatCount="indefinite" dur="5s"/></polygon>
                         <g data-id="xda5bc19e-4aea-4c3e-a57e-3cadd828e247" data-class="note" class="note">
                            <g data-id="bbox-xda5bc19e-4aea-4c3e-a57e-3cadd828e247" data-class="note" class="note bounding-box">
                               <rect x="5992" y="1164" height="191" width="226" fill="transparent"/>
@@ -350,9 +350,9 @@
                               <g data-id="bbox-f1bfy5c3" data-class="stem" class="stem bounding-box">
                                  <rect x="5992" y="1279" height="602" width="18" fill="transparent"/>
                               </g>
-                              <path d="M6001 1288 L6001 1872" stroke-width="18"/>
+                              <path d="M6001 1288 L6001 1872" stroke-width="18"><animate id="s4bef8072-3aad-42d5-bb82-6025838436cf" attributeName="d" values="M6001 1288 L6001 1376.8372093023256;M6001 1288 L6001 1872;M6001 1288 L6001 1872;M6001 1288 L6001 1872;M6001 1288 L6001 1872;M6001 1288 L6001 1872" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="s67a3895b-e052-4707-abc0-1dd4c0e02287" attributeName="transform" attributeType="XML" type="translate" values="1161 90;1161 90;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="x8a6f4cce-1a2d-40b1-8acd-7a71103eef28" data-class="note" class="note">
                            <g data-id="bbox-x8a6f4cce-1a2d-40b1-8acd-7a71103eef28" data-class="note" class="note bounding-box">
                               <rect x="6572" y="1074" height="191" width="226" fill="transparent"/>
@@ -364,14 +364,14 @@
                               <g data-id="bbox-hh85nfp" data-class="stem" class="stem bounding-box">
                                  <rect x="6572" y="1189" height="602" width="18" fill="transparent"/>
                               </g>
-                              <path d="M6581 1198 L6581 1782" stroke-width="18"/>
+                              <path d="M6581 1198 L6581 1782" stroke-width="18"><animate id="s6f949e8f-d83a-4cc5-a54d-034ab14f86af" attributeName="d" values="M6581 1198 L6581 1286.8372093023256;M6581 1198 L6581 1782;M6581 1198 L6581 1782;M6581 1198 L6581 1782;M6581 1198 L6581 1782;M6581 1198 L6581 1782" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="sa3cc0171-3df2-4ca5-b63e-8093c2072b91" attributeName="transform" attributeType="XML" type="translate" values="915 2;915 2;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      </g>
                   </g>
                </g>
                <g data-id="x811bc495-c199-48af-b375-5422e6db324d" data-class="tie" class="tie">
-                  <path d="M4992,855 C5543,702 6656,702 7208,855 C6651,750 5548,750 4992,855" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+                  <path d="M4992,855 C5543,702 6656,702 7208,855 C6651,750 5548,750 4992,855" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"><animate id="sfe4cf888-6705-4f8c-a31a-6f7df228010b" attributeName="d" values="M6810 961 C6680 625 7221 195 7265 874 C7198 249 6731 653 6810 961;M6810 961 C6680 625 7221 195 7265 874 C7198 249 6731 653 6810 961;M4992,855 C5543,702 6656,702 7208,855 C6651,750 5548,750 4992,855;M4992,855 C5543,702 6656,702 7208,855 C6651,750 5548,750 4992,855;M4992,855 C5543,702 6656,702 7208,855 C6651,750 5548,750 4992,855;M4992,855 C5543,702 6656,702 7208,855 C6651,750 5548,750 4992,855" repeatCount="indefinite" dur="5s"/></path>
                   <g data-id="bbox-x811bc495-c199-48af-b375-5422e6db324d" data-class="tie" class="tie bounding-box">
                      <rect x="4992" y="738" height="117" width="2216" fill="transparent"/>
                   </g>
@@ -380,8 +380,8 @@
                   <g data-id="bbox-k1gj8m0d" data-class="barLine" class="barLine bounding-box">
                      <rect x="6888" y="977" height="747" width="27" fill="transparent"/>
                   </g>
-                  <path d="M6902 990 L6902 1710" stroke-width="27"/>
-               </g>
+                  
+               <path d="M6902 990 L6902 1710" stroke-width="27"><animate id="s4a66fb35-c3cb-4c9f-9a3e-0148b05827ee" attributeName="d" values="M7747 898 L7732 2406;M7747 898 L7732 2406;M6902 990 L6902 1710;M6902 990 L6902 1710;M6902 990 L6902 1710;M6902 990 L6902 1710" repeatCount="indefinite" dur="5s"/></path></g>
             </g>
             <g data-id="x37b0cab7-960e-49e7-9ef4-1f05a67d90da" data-class="measure" class="measure">
                <g data-id="bbox-x37b0cab7-960e-49e7-9ef4-1f05a67d90da" data-class="measure" class="measure bounding-box"/>
@@ -389,21 +389,21 @@
                   <g data-id="bbox-xd7b2cb50-a619-4e90-be4d-23c44ca03f51" data-class="staff" class="staff bounding-box">
                      <rect x="6908" y="984" height="733" width="3163" fill="transparent"/>
                   </g>
-                  <path d="M6915 990 L10065 990" stroke-width="13"/>
-                  <path d="M6915 1170 L10065 1170" stroke-width="13"/>
-                  <path d="M6915 1350 L10065 1350" stroke-width="13"/>
-                  <path d="M6915 1530 L10065 1530" stroke-width="13"/>
-                  <path d="M6915 1710 L10065 1710" stroke-width="13"/>
+                  
+                  
+                  
+                  
+                  
                   <g data-id="xb2dd6ed8-83c1-4c3f-8fee-9c365b61bdad" data-class="layer" class="layer">
                      <g data-id="bbox-xb2dd6ed8-83c1-4c3f-8fee-9c365b61bdad" data-class="layer" class="layer bounding-box"/>
                      <g data-id="xfe7ab585-7753-4893-93bc-0cdb45ec5c0a" data-class="beam" class="beam">
                         <g data-id="bbox-xfe7ab585-7753-4893-93bc-0cdb45ec5c0a" data-class="beam" class="beam bounding-box">
                            <rect x="7461" y="315" height="225" width="1124" fill="transparent"/>
                         </g>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7461,315 8585,315 8585,405 7461,405"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7461,450 7944,450 7944,540 7461,540"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="7944,450 8260,450 8260,540 7944,540"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8260,450 8585,450 8585,540 8260,540"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="7461,405 8585,405 8585,315 7461,315"><animate id="s7f2a5ace-72d1-4454-ab89-0d3068dd7cba" attributeName="points" values="8492,52 8492,52 8492,136 8492,136;7956,339 8793,336 8793,246 7956,249;7461,405 8585,405 8585,315 7461,315;7461,405 8585,405 8585,315 7461,315;7461,405 8585,405 8585,315 7461,315;7461,405 8585,405 8585,315 7461,315" repeatCount="indefinite" dur="5s"/></polygon>
+                        <polygon points="7461,540 8585,540 8585,450 7461,450" stroke-opacity="1" fill-opacity="1"><animate id="s719a903b-bf19-47a4-a87a-6756906049f2" attributeName="points" values="8551,555 8551,555 8551,638 8551,638;7956,204 8793,201 8793,111 7956,114;7461,540 8585,540 8585,450 7461,450;7461,540 8585,540 8585,450 7461,450;7461,540 8585,540 8585,450 7461,450;7461,540 8585,540 8585,450 7461,450" repeatCount="indefinite" dur="5s"/></polygon>
+                        
+                        
                         <g data-id="x21c4a3c3-fbdf-436a-b774-004f640babc5" data-class="note" class="note">
                            <g data-id="bbox-x21c4a3c3-fbdf-436a-b774-004f640babc5" data-class="note" class="note bounding-box">
                               <rect x="7253" y="804" height="191" width="226" fill="transparent"/>
@@ -415,9 +415,9 @@
                               <g data-id="bbox-i1jzc6lx" data-class="stem" class="stem bounding-box">
                                  <rect x="7461" y="324" height="557" width="18" fill="transparent"/>
                               </g>
-                              <path d="M7470 872 L7470 333" stroke-width="18"/>
+                              <path d="M7470 872 L7470 333" stroke-width="18"><animate id="s9bce8019-155d-4821-b59d-878673210096" attributeName="d" values="M7470 872 L7470 516.6511627906978;M7470 872 L7470 333;M7470 872 L7470 333;M7470 872 L7470 333;M7470 872 L7470 333;M7470 872 L7470 333" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="s106e257e-072e-4343-9d87-75e2184804a1" attributeName="transform" attributeType="XML" type="translate" values="486 6;486 6;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="x305dee85-6597-43db-ba59-f54d3ee357be" data-class="note" class="note">
                            <g data-id="bbox-x305dee85-6597-43db-ba59-f54d3ee357be" data-class="note" class="note bounding-box">
                               <rect x="7727" y="984" height="191" width="226" fill="transparent"/>
@@ -429,15 +429,15 @@
                               <g data-id="bbox-j8ds36n" data-class="stem" class="stem bounding-box">
                                  <rect x="7935" y="324" height="737" width="18" fill="transparent"/>
                               </g>
-                              <path d="M7944 1052 L7944 333" stroke-width="18"/>
+                              <path d="M7944 1052 L7944 333" stroke-width="18"><animate id="sc5ffa569-17f4-40a3-b5dd-cc901e856325" attributeName="d" values="M7944 1052 L7944 518.9767441860465;M7944 1052 L7944 333;M7944 1052 L7944 333;M7944 1052 L7944 333;M7944 1052 L7944 333;M7944 1052 L7944 333" repeatCount="indefinite" dur="5s"/></path>
                            </g>
                            <g data-id="x9946be64-ef84-4209-8b6f-aad634747b3d" data-class="accid" class="accid">
                               <g data-id="bbox-x9946be64-ef84-4209-8b6f-aad634747b3d" data-class="accid" class="accid bounding-box">
                                  <rect x="7569" y="827" height="505" width="113" fill="transparent"/>
                               </g>
                               <use href="#E261-ev66wpv" transform="translate(7569, 1080) scale(0.72, 0.72)"/>
-                           </g>
-                        </g>
+                           <animateTransform id="s328053fa-3c0c-4c9d-bdb9-bea611362884" attributeName="transform" attributeType="XML" type="translate" values="32 0;32 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                        <animateTransform id="scba099de-5867-43c5-acc9-aeebb6b3cfa1" attributeName="transform" attributeType="XML" type="translate" values="514 3;514 3;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="x3638bc9c-5eca-4988-87ba-d72dfb31ac33" data-class="note" class="note">
                            <g data-id="bbox-x3638bc9c-5eca-4988-87ba-d72dfb31ac33" data-class="note" class="note bounding-box">
                               <rect x="8043" y="804" height="191" width="226" fill="transparent"/>
@@ -449,9 +449,9 @@
                               <g data-id="bbox-k1qqmkwo" data-class="stem" class="stem bounding-box">
                                  <rect x="8251" y="324" height="557" width="18" fill="transparent"/>
                               </g>
-                              <path d="M8260 872 L8260 333" stroke-width="18"/>
+                              <path d="M8260 872 L8260 333" stroke-width="18"><animate id="s0c6cbd07-c8ab-45f8-97bf-debca369b1d7" attributeName="d" values="M8260 872 L8260 516.6511627906978;M8260 872 L8260 333;M8260 872 L8260 333;M8260 872 L8260 333;M8260 872 L8260 333;M8260 872 L8260 333" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="s8bab3728-446b-464b-a8f6-729d2ac42c6b" attributeName="transform" attributeType="XML" type="translate" values="407 6;407 6;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="xa1ce4f45-ee5b-452e-ad1a-48e9c5c5e553" data-class="note" class="note">
                            <g data-id="bbox-xa1ce4f45-ee5b-452e-ad1a-48e9c5c5e553" data-class="note" class="note bounding-box">
                               <rect x="8359" y="984" height="191" width="226" fill="transparent"/>
@@ -463,18 +463,18 @@
                               <g data-id="bbox-l4bj4x4" data-class="stem" class="stem bounding-box">
                                  <rect x="8567" y="324" height="737" width="18" fill="transparent"/>
                               </g>
-                              <path d="M8576 1052 L8576 333" stroke-width="18"/>
+                              <path d="M8576 1052 L8576 333" stroke-width="18"><animate id="s0b75e38b-a3a3-46c2-83b4-a428fac0a624" attributeName="d" values="M8576 1052 L8576 518.9767441860465;M8576 1052 L8576 333;M8576 1052 L8576 333;M8576 1052 L8576 333;M8576 1052 L8576 333;M8576 1052 L8576 333" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="s003f93d3-7067-4bb0-b501-99d9192d02d1" attributeName="transform" attributeType="XML" type="translate" values="217 3;217 3;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      </g>
                      <g data-id="xecc6e041-ccf0-4c32-afee-89f5a3390412" data-class="beam" class="beam">
                         <g data-id="bbox-xecc6e041-ccf0-4c32-afee-89f5a3390412" data-class="beam" class="beam bounding-box">
                            <rect x="8883" y="315" height="225" width="966" fill="transparent"/>
                         </g>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8883,315 9849,315 9849,405 8883,405"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="8883,450 9208,450 9208,540 8883,540"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="9208,450 9524,450 9524,540 9208,540"/>
-                        <polygon stroke-opacity="1" fill-opacity="1" points="9524,450 9849,450 9849,540 9524,540"/>
+                        <polygon stroke-opacity="1" fill-opacity="1" points="8883,405 9849,405 9849,315 8883,315"><animate id="s765d51ea-54e7-457c-902f-8c532bd09a3b" attributeName="points" values="9262,454 9262,454 9262,538 9262,538;9220,336 9881,338 9881,248 9220,246;8883,405 9849,405 9849,315 8883,315;8883,405 9849,405 9849,315 8883,315;8883,405 9849,405 9849,315 8883,315;8883,405 9849,405 9849,315 8883,315" repeatCount="indefinite" dur="5s"/></polygon>
+                        <polygon points="8883,540 9849,540 9849,450 8883,450" stroke-opacity="1" fill-opacity="1"><animate id="s7e702a91-9943-4965-89fe-f4f77e36d012" attributeName="points" values="9714,538 9714,538 9714,622 9714,622;9220,201 9881,203 9881,113 9220,111;8883,540 9849,540 9849,450 8883,450;8883,540 9849,540 9849,450 8883,450;8883,540 9849,540 9849,450 8883,450;8883,540 9849,540 9849,450 8883,450" repeatCount="indefinite" dur="5s"/></polygon>
+                        
+                        
                         <g data-id="x9fd84301-d6c5-4ca3-8262-63e689a267d8" data-class="note" class="note">
                            <g data-id="bbox-x9fd84301-d6c5-4ca3-8262-63e689a267d8" data-class="note" class="note bounding-box">
                               <rect x="8675" y="984" height="191" width="226" fill="transparent"/>
@@ -486,9 +486,9 @@
                               <g data-id="bbox-m198zml5" data-class="stem" class="stem bounding-box">
                                  <rect x="8883" y="324" height="737" width="18" fill="transparent"/>
                               </g>
-                              <path d="M8892 1052 L8892 333" stroke-width="18"/>
+                              <path d="M8892 1052 L8892 333" stroke-width="18"><animate id="s05ad947e-5c74-47b8-a857-c2af04255a5d" attributeName="d" values="M8892 1052 L8892 607.8139534883721;M8892 1052 L8892 333;M8892 1052 L8892 333;M8892 1052 L8892 333;M8892 1052 L8892 333;M8892 1052 L8892 333" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="s06459b82-83af-4d9c-9c45-d57a03779431" attributeName="transform" attributeType="XML" type="translate" values="328 3;328 3;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="xc7919e81-7553-4ac1-96aa-d51875b54bfe" data-class="note" class="note">
                            <g data-id="bbox-xc7919e81-7553-4ac1-96aa-d51875b54bfe" data-class="note" class="note bounding-box">
                               <rect x="8991" y="894" height="191" width="226" fill="transparent"/>
@@ -500,9 +500,9 @@
                               <g data-id="bbox-n1vea1ua" data-class="stem" class="stem bounding-box">
                                  <rect x="9199" y="324" height="647" width="18" fill="transparent"/>
                               </g>
-                              <path d="M9208 962 L9208 333" stroke-width="18"/>
+                              <path d="M9208 962 L9208 333" stroke-width="18"><animate id="s8f256dff-a738-4201-b8bb-9228423f1db3" attributeName="d" values="M9208 962 L9208 606.6511627906978;M9208 962 L9208 333;M9208 962 L9208 333;M9208 962 L9208 333;M9208 962 L9208 333;M9208 962 L9208 333" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="s0c9d92f4-7d6d-411a-9b4c-95cca7a37af9" attributeName="transform" attributeType="XML" type="translate" values="246 5;246 5;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="x31951947-dc12-4779-9d32-0767a47142b1" data-class="note" class="note">
                            <g data-id="bbox-x31951947-dc12-4779-9d32-0767a47142b1" data-class="note" class="note bounding-box">
                               <rect x="9307" y="804" height="191" width="226" fill="transparent"/>
@@ -514,9 +514,9 @@
                               <g data-id="bbox-o1ymvd28" data-class="stem" class="stem bounding-box">
                                  <rect x="9515" y="324" height="557" width="18" fill="transparent"/>
                               </g>
-                              <path d="M9524 872 L9524 333" stroke-width="18"/>
+                              <path d="M9524 872 L9524 333" stroke-width="18"><animate id="s6ef48711-1610-4aca-a49b-a9c8f9785ac9" attributeName="d" values="M9524 872 L9524 783.1627906976744;M9524 872 L9524 333;M9524 872 L9524 333;M9524 872 L9524 333;M9524 872 L9524 333;M9524 872 L9524 333" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="s7c06096f-e65c-41ba-81a2-75d8e6639116" attributeName="transform" attributeType="XML" type="translate" values="190 6;190 6;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                         <g data-id="xe0315659-9e1d-4eae-9846-bc11f3ef3103" data-class="note" class="note">
                            <g data-id="bbox-xe0315659-9e1d-4eae-9846-bc11f3ef3103" data-class="note" class="note bounding-box">
                               <rect x="9623" y="894" height="191" width="226" fill="transparent"/>
@@ -528,9 +528,9 @@
                               <g data-id="bbox-pt637pd" data-class="stem" class="stem bounding-box">
                                  <rect x="9831" y="324" height="647" width="18" fill="transparent"/>
                               </g>
-                              <path d="M9840 962 L9840 333" stroke-width="18"/>
+                              <path d="M9840 962 L9840 333" stroke-width="18"><animate id="scfc0ed39-6e46-427d-9938-e3378f55f06a" attributeName="d" values="M9840 962 L9840 251.3023255813954;M9840 962 L9840 333;M9840 962 L9840 333;M9840 962 L9840 333;M9840 962 L9840 333;M9840 962 L9840 333" repeatCount="indefinite" dur="5s"/></path>
                            </g>
-                        </g>
+                        <animateTransform id="s44f58ba3-a8de-4ac8-8def-7faab1e45053" attributeName="transform" attributeType="XML" type="translate" values="41 5;41 5;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                      </g>
                   </g>
                   <g data-id="xdb48635b-d849-45c0-82a9-8e4f5c5e732c" data-class="layer" class="layer">
@@ -546,24 +546,24 @@
                            <g data-id="bbox-q4ne1ac" data-class="stem" class="stem bounding-box">
                               <rect x="7253" y="1366" height="593" width="18" fill="transparent"/>
                            </g>
-                           <path d="M7262 1375 L7262 1950" stroke-width="18"/>
+                           <path d="M7262 1375 L7262 1950" stroke-width="18"><animate id="sd82ca652-4076-4291-9ea8-2d29b7420016" attributeName="d" values="M7262 1375 L7262 1908.0232558139535;M7262 1375 L7262 1950;M7262 1375 L7262 1950;M7262 1375 L7262 1950;M7262 1375 L7262 1950;M7262 1375 L7262 1950" repeatCount="indefinite" dur="5s"/></path>
                         </g>
                         <g data-id="x8ad6b347-4acb-4279-90df-86a7562eddef" data-class="accid" class="accid">
                            <g data-id="bbox-x8ad6b347-4acb-4279-90df-86a7562eddef" data-class="accid" class="accid bounding-box">
                               <rect x="7095" y="1097" height="505" width="113" fill="transparent"/>
                            </g>
                            <use href="#E261-ev66wpv" transform="translate(7095, 1350) scale(0.72, 0.72)"/>
-                        </g>
-                     </g>
+                        <animateTransform id="s9717db7c-fe26-4ff0-8f55-1517d945bc04" attributeName="transform" attributeType="XML" type="translate" values="-177 0;-177 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+                     <animateTransform id="s696b08cd-2e5b-4b62-b3f1-de271de55c06" attributeName="transform" attributeType="XML" type="translate" values="1825 0;1825 0;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
                   </g>
                </g>
                <g data-id="i1w8th8t" data-class="barLine" class="barLine">
                   <g data-id="bbox-i1w8th8t" data-class="barLine" class="barLine bounding-box">
                      <rect x="9939" y="977" height="747" width="126" fill="transparent"/>
                   </g>
-                  <path d="M9953 990 L9953 1710" stroke-width="27"/>
-                  <path d="M10052 990 L10052 1710" stroke-width="27"/>
-               </g>
+                  
+                  
+               <path d="M9953 990 L9953 1710" stroke-width="27"><animate id="se0799ab1-4138-4b6f-b0f7-d9f2c43aaab7" attributeName="d" values="M9840 948 L9693 1898;M9840 948 L9693 1898;M9953 990 L9953 1710;M9953 990 L9953 1710;M9953 990 L9953 1710;M9953 990 L9953 1710" repeatCount="indefinite" dur="5s"/></path><path d="M9953 990 L9953 1710" stroke-width="27"><animate id="se444f646-20d0-4c0e-8cf8-10bed80550ff" attributeName="d" values="M9865 1124 L9800 2043;M9865 1124 L9800 2043;M9953 990 L9953 1710;M9953 990 L9953 1710;M9953 990 L9953 1710;M9953 990 L9953 1710" repeatCount="indefinite" dur="5s"/></path><path d="M10052 990 L10052 1710" stroke-width="27"/></g>
             </g>
             <g data-id="h1qb09uq" data-class="systemMilestoneEnd" class="systemMilestoneEnd x68595164-4a44-48ed-bcd1-e44b4d174ae5"/>
          </g>
