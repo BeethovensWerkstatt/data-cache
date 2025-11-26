@@ -1,7 +1,7 @@
-<svg width="821px" height="659px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="l1x98pf">
+<svg width="821px" height="659px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="lo5iblm">
    <desc>Engraved by Verovio 5.6.0-85e7620</desc>
-   <style type="text/css">#l1x98pf g.page-margin {font-family:Times,serif;}#l1x98pf g.ending, #l1x98pf g.fing, #l1x98pf g.reh, #l1x98pf g.tempo {font-weight:bold;}#l1x98pf g.dir, #l1x98pf g.dynam, #l1x98pf g.mNum {font-style:italic;}#l1x98pf g.label {font-weight:normal;}#l1x98pf path {stroke:currentColor}</style>
-   <svg class="definition-scale" color="black" viewBox="0 0 27360 21960">
+   <style type="text/css">#lo5iblm g.page-margin {font-family:Times,serif;}#lo5iblm g.ending, #lo5iblm g.fing, #lo5iblm g.reh, #lo5iblm g.tempo {font-weight:bold;}#lo5iblm g.dir, #lo5iblm g.dynam, #lo5iblm g.mNum {font-style:italic;}#lo5iblm g.label {font-weight:normal;}#lo5iblm path {stroke:currentColor}</style>
+   <svg class="definition-scale" color="black" viewBox="-50 -50 27460 22060">
       <g class="page-margin" transform="translate(1000, 3000)">
          <g data-id="x87725c37-5e61-4593-81aa-20b916268a49" data-class="mdiv" class="mdiv pageMilestone">
             <g data-id="bbox-x87725c37-5e61-4593-81aa-20b916268a49" data-class="mdiv" class="mdiv bounding-box"/>
@@ -9,8 +9,8 @@
          <g data-id="s045334c1-6d2a-4ffe-a733-92cb07a42d75" data-class="score" class="score pageMilestone">
             <g data-id="bbox-s045334c1-6d2a-4ffe-a733-92cb07a42d75" data-class="score" class="score bounding-box"/>
          </g>
-         <g data-id="u1ipoqle" data-class="system" class="system">
-            <g data-id="bbox-u1ipoqle" data-class="system" class="system bounding-box">
+         <g data-id="u1rquech" data-class="system" class="system">
+            <g data-id="bbox-u1rquech" data-class="system" class="system bounding-box">
                <rect x="-1" y="527" height="2547" width="27" fill="transparent"/>
             </g>
             <path d="M13 540 L13 3060" stroke-width="27"/>
@@ -19,7 +19,7 @@
                <g data-id="bbox-bea4ba2e4-ce0d-4c98-ac8e-4f392f80b631" data-class="annot" class="annot bounding-box"/>
                <desc/>
             </g>
-            <g data-id="k1de4kii" data-class="systemMilestoneEnd" class="systemMilestoneEnd bea4ba2e4-ce0d-4c98-ac8e-4f392f80b631"/>
+            <g data-id="k92q9fb" data-class="systemMilestoneEnd" class="systemMilestoneEnd bea4ba2e4-ce0d-4c98-ac8e-4f392f80b631"/>
             <g data-id="sb38c8c3d-9f1b-4784-a2b3-33e168a17651" data-class="pb" class="pb"/>
             <g data-id="x6fd8b779-ae19-494c-aa38-84accf48acdb" data-class="measure" class="measure">
                <g data-id="bbox-x6fd8b779-ae19-494c-aa38-84accf48acdb" data-class="measure" class="measure bounding-box"/>
@@ -27,13 +27,13 @@
                   <g data-id="bbox-xb280f0c2-1a7f-42d3-8080-6bdf9b80b2a4" data-class="staff" class="staff bounding-box">
                      <rect x="-7" y="534" height="733" width="15587" fill="transparent"/>
                   </g>
-                  <path d="M0 540 L15574 540" stroke-width="13" class="rastrum"><animate id="s015b8a15-fde4-467a-b66c-6b6a96831c84" attributeName="d" values="M3503 777 L24808 777;M3503 777 L24808 777;M0 540 L15574 540;M0 540 L15574 540;M0 540 L15574 540;M0 540 L15574 540" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 720 L15574 720" stroke-width="13" class="rastrum"><animate id="sa8169a11-3690-4bf1-ba5d-2ee4c750eaae" attributeName="d" values="M3503 954 L24808 954;M3503 954 L24808 954;M0 720 L15574 720;M0 720 L15574 720;M0 720 L15574 720;M0 720 L15574 720" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 900 L15574 900" stroke-width="13" class="rastrum"><animate id="sc2dcf78f-2189-46c8-970a-2345ee5e613e" attributeName="d" values="M3503 1131 L24808 1131;M3503 1131 L24808 1131;M0 900 L15574 900;M0 900 L15574 900;M0 900 L15574 900;M0 900 L15574 900" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 1080 L15574 1080" stroke-width="13" class="rastrum"><animate id="s47c7e0d1-17f9-427f-8cc4-5387d1ec0a6b" attributeName="d" values="M3503 1307 L24808 1307;M3503 1307 L24808 1307;M0 1080 L15574 1080;M0 1080 L15574 1080;M0 1080 L15574 1080;M0 1080 L15574 1080" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 1260 L15574 1260" stroke-width="13" class="rastrum"><animate id="s1a36b296-0281-45ce-b2d7-99430f971fdf" attributeName="d" values="M3503 1484 L24808 1484;M3503 1484 L24808 1484;M0 1260 L15574 1260;M0 1260 L15574 1260;M0 1260 L15574 1260;M0 1260 L15574 1260" repeatCount="indefinite" dur="5s"/></path>
-                  <g data-id="c1ksvyik" data-class="keySig" class="keySig">
-                     <g data-id="bbox-c1ksvyik" data-class="keySig" class="keySig bounding-box">
+                  <path d="M0 540 L15574 540" stroke-width="13" class="rastrum"><animate id="sc2c67f10-c717-4852-8eac-45b13cb614be" attributeName="d" values="M3503 777 L24808 777;M3503 777 L24808 777;M0 540 L15574 540;M0 540 L15574 540;M0 540 L15574 540;M0 540 L15574 540" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 720 L15574 720" stroke-width="13" class="rastrum"><animate id="s0215a72f-86a5-4b2e-b69e-41f0387c95e3" attributeName="d" values="M3503 954 L24808 954;M3503 954 L24808 954;M0 720 L15574 720;M0 720 L15574 720;M0 720 L15574 720;M0 720 L15574 720" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 900 L15574 900" stroke-width="13" class="rastrum"><animate id="s9eb50c91-0f70-4ebc-b598-2b208d4f5354" attributeName="d" values="M3503 1131 L24808 1131;M3503 1131 L24808 1131;M0 900 L15574 900;M0 900 L15574 900;M0 900 L15574 900;M0 900 L15574 900" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 1080 L15574 1080" stroke-width="13" class="rastrum"><animate id="sebf5c819-1e41-4bc6-9e11-5f98fe7bbf0c" attributeName="d" values="M3503 1307 L24808 1307;M3503 1307 L24808 1307;M0 1080 L15574 1080;M0 1080 L15574 1080;M0 1080 L15574 1080;M0 1080 L15574 1080" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 1260 L15574 1260" stroke-width="13" class="rastrum"><animate id="se006b674-b9a9-41e1-88fb-c7bf644a8580" attributeName="d" values="M3503 1484 L24808 1484;M3503 1484 L24808 1484;M0 1260 L15574 1260;M0 1260 L15574 1260;M0 1260 L15574 1260;M0 1260 L15574 1260" repeatCount="indefinite" dur="5s"/></path>
+                  <g data-id="c1h3o16l" data-class="keySig" class="keySig">
+                     <g data-id="bbox-c1h3o16l" data-class="keySig" class="keySig bounding-box">
                         <rect x="27" y="540" height="0" width="0" fill="transparent"/>
                      </g>
                   </g>
@@ -55,13 +55,13 @@
                   <g data-id="bbox-x5382e477-cc85-4258-995d-fe73b785c0e7" data-class="staff" class="staff bounding-box">
                      <rect x="-7" y="2334" height="733" width="15587" fill="transparent"/>
                   </g>
-                  <path d="M0 2340 L15574 2340" stroke-width="13" class="rastrum"><animate id="saabf75f0-75f8-490e-a151-41b48df68f89" attributeName="d" values="M3537 2108 L24834 2108;M3537 2108 L24834 2108;M0 2340 L15574 2340;M0 2340 L15574 2340;M0 2340 L15574 2340;M0 2340 L15574 2340" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 2520 L15574 2520" stroke-width="13" class="rastrum"><animate id="s06ac6ef5-998d-4474-b139-11cfe59eb10a" attributeName="d" values="M3537 2287 L24834 2287;M3537 2287 L24834 2287;M0 2520 L15574 2520;M0 2520 L15574 2520;M0 2520 L15574 2520;M0 2520 L15574 2520" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 2700 L15574 2700" stroke-width="13" class="rastrum"><animate id="s1d0f2ad8-993b-4ff5-85a2-93d10aebe546" attributeName="d" values="M3537 2465 L24834 2465;M3537 2465 L24834 2465;M0 2700 L15574 2700;M0 2700 L15574 2700;M0 2700 L15574 2700;M0 2700 L15574 2700" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 2880 L15574 2880" stroke-width="13" class="rastrum"><animate id="sd8c0302a-662d-4566-9c0a-adfaccdfc890" attributeName="d" values="M3537 2644 L24834 2644;M3537 2644 L24834 2644;M0 2880 L15574 2880;M0 2880 L15574 2880;M0 2880 L15574 2880;M0 2880 L15574 2880" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 3060 L15574 3060" stroke-width="13" class="rastrum"><animate id="s9cf6b2c4-c126-4042-9579-85333ae38b90" attributeName="d" values="M3537 2823 L24834 2823;M3537 2823 L24834 2823;M0 3060 L15574 3060;M0 3060 L15574 3060;M0 3060 L15574 3060;M0 3060 L15574 3060" repeatCount="indefinite" dur="5s"/></path>
-                  <g data-id="dc4i32n" data-class="keySig" class="keySig">
-                     <g data-id="bbox-dc4i32n" data-class="keySig" class="keySig bounding-box">
+                  <path d="M0 2340 L15574 2340" stroke-width="13" class="rastrum"><animate id="s88791fe9-4aef-4f36-9e7a-059c9b238829" attributeName="d" values="M3537 2108 L24834 2108;M3537 2108 L24834 2108;M0 2340 L15574 2340;M0 2340 L15574 2340;M0 2340 L15574 2340;M0 2340 L15574 2340" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 2520 L15574 2520" stroke-width="13" class="rastrum"><animate id="s9bfd4902-b23e-4511-8d8e-1472a3cbeb9c" attributeName="d" values="M3537 2287 L24834 2287;M3537 2287 L24834 2287;M0 2520 L15574 2520;M0 2520 L15574 2520;M0 2520 L15574 2520;M0 2520 L15574 2520" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 2700 L15574 2700" stroke-width="13" class="rastrum"><animate id="sbdc91a36-9eae-4c6d-aabe-c864b062a5c0" attributeName="d" values="M3537 2465 L24834 2465;M3537 2465 L24834 2465;M0 2700 L15574 2700;M0 2700 L15574 2700;M0 2700 L15574 2700;M0 2700 L15574 2700" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 2880 L15574 2880" stroke-width="13" class="rastrum"><animate id="s247c7e92-8f37-45b6-8888-fb331e74295d" attributeName="d" values="M3537 2644 L24834 2644;M3537 2644 L24834 2644;M0 2880 L15574 2880;M0 2880 L15574 2880;M0 2880 L15574 2880;M0 2880 L15574 2880" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 3060 L15574 3060" stroke-width="13" class="rastrum"><animate id="s6a30c0bb-5143-4e8e-99bc-f804415dfab2" attributeName="d" values="M3537 2823 L24834 2823;M3537 2823 L24834 2823;M0 3060 L15574 3060;M0 3060 L15574 3060;M0 3060 L15574 3060;M0 3060 L15574 3060" repeatCount="indefinite" dur="5s"/></path>
+                  <g data-id="d1i7ep2n" data-class="keySig" class="keySig">
+                     <g data-id="bbox-d1i7ep2n" data-class="keySig" class="keySig bounding-box">
                         <rect x="27" y="2340" height="0" width="0" fill="transparent"/>
                      </g>
                   </g>
@@ -76,23 +76,23 @@
                </g>
                <g data-id="xc9d6aa51-694b-43b8-8ea7-bba63d3bce00" data-class="dir" class="dir">
                   <g data-id="bbox-xc9d6aa51-694b-43b8-8ea7-bba63d3bce00" data-class="dir" class="dir bounding-box"/>
-                  <text x="728" y="1695" font-size="0px"><tspan x="728" y="1695" data-class="text" class="text"><tspan font-size="405px">der chor vom opferlied könnte auch früher<animate id="sbaf9685f-55e3-43fd-9bd0-ffebed1f8953" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px" class="supplied">
-                       <animate id="sd985005d-f441-460a-8566-7f9d31981dfd" attributeName="opacity" values="0;0;1;1;1;1" repeatCount="indefinite" dur="5s"/><animate id="s9a976d3e-24b7-46e6-9a99-0fd57d192484" attributeName="display" values="none;none;inline;inline;inline;inline" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px"> in der Scene<animate id="s465f9dca-6514-4d67-a046-8632961f2e7a" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan></tspan><tspan data-class="lb" class="lb"/><tspan x="728" y="2085" data-class="text" class="text"><tspan font-size="405px">gesungen<animate id="s0d035ec7-8898-47a0-91f3-ed66870dba8c" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px" class="supplied">
-                       <animate id="s27abf26f-45a7-42be-8dd3-5607589853fe" attributeName="opacity" values="0;0;1;1;1;1" repeatCount="indefinite" dur="5s"/><animate id="sbcd8cab6-32f1-4bb8-90e2-2731b2f8e5fc" attributeName="display" values="none;none;inline;inline;inline;inline" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px"> werden.<animate id="s6ac81d91-1a4d-46cc-9cc6-006a36621a5b" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan></tspan></text>
-               <animateTransform id="sd79082df-7afa-40a4-bffc-0c60852684af" attributeName="transform" attributeType="XML" type="translate" values="5697 981;5697 981;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
-               <g data-id="r1k3arta" data-class="barLine" class="barLine">
-                  <g data-id="bbox-r1k3arta" data-class="barLine" class="barLine bounding-box">
+                  <text x="728" y="1695" font-size="0px"><tspan x="728" y="1695" data-class="text" class="text"><tspan font-size="405px">der chor vom opferlied könnte auch früher<animate id="s1ac91c3c-c3e4-4738-a1d7-f30add2aa65a" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px" class="supplied">
+                       <animate id="s3c6234c7-0b3d-4d15-950e-8e22c412ac7b" attributeName="opacity" values="0;0;1;1;1;1" repeatCount="indefinite" dur="5s"/><animate id="s95c9584d-dd20-4e0e-aa87-6886a33cd0d7" attributeName="display" values="none;none;inline;inline;inline;inline" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px"> in der Scene<animate id="sf84562d6-8b3d-4960-8950-64be9826687b" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan></tspan><tspan data-class="lb" class="lb"/><tspan x="728" y="2085" data-class="text" class="text"><tspan font-size="405px">gesungen<animate id="s0617b6af-7e6a-418d-bdae-21c0f1778edd" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px" class="supplied">
+                       <animate id="scfecb35d-d475-420c-a415-9e1a0fe2cf77" attributeName="opacity" values="0;0;1;1;1;1" repeatCount="indefinite" dur="5s"/><animate id="sb8748145-cc89-466a-b14a-34d9c272d56a" attributeName="display" values="none;none;inline;inline;inline;inline" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px"> werden.<animate id="sea8011e4-e6aa-45ea-9472-6fa08bc313a2" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan></tspan></text>
+               <animateTransform id="s0412c187-55a8-4b4a-af05-af51877e8e76" attributeName="transform" attributeType="XML" type="translate" values="5697 981;5697 981;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+               <g data-id="r1q7rtig" data-class="barLine" class="barLine">
+                  <g data-id="bbox-r1q7rtig" data-class="barLine" class="barLine bounding-box">
                      <rect x="15574" y="0" height="0" width="0" fill="transparent"/>
                   </g>
                </g>
             </g>
-            <g data-id="l1onhwdr" data-class="systemMilestoneEnd" class="systemMilestoneEnd x486cb11e-69b3-4c3a-b508-f87f638f82bb"/>
+            <g data-id="lgknbaq" data-class="systemMilestoneEnd" class="systemMilestoneEnd x486cb11e-69b3-4c3a-b508-f87f638f82bb"/>
          </g>
-         <g data-id="mcwranr" data-class="pageMilestoneEnd" class="pageMilestoneEnd s045334c1-6d2a-4ffe-a733-92cb07a42d75">
-            <g data-id="bbox-mcwranr" data-class="pageMilestoneEnd" class="pageMilestoneEnd bounding-box"/>
+         <g data-id="m3dnlu4" data-class="pageMilestoneEnd" class="pageMilestoneEnd s045334c1-6d2a-4ffe-a733-92cb07a42d75">
+            <g data-id="bbox-m3dnlu4" data-class="pageMilestoneEnd" class="pageMilestoneEnd bounding-box"/>
          </g>
-         <g data-id="n1lft0bf" data-class="pageMilestoneEnd" class="pageMilestoneEnd x87725c37-5e61-4593-81aa-20b916268a49">
-            <g data-id="bbox-n1lft0bf" data-class="pageMilestoneEnd" class="pageMilestoneEnd bounding-box"/>
+         <g data-id="n1tqvt6y" data-class="pageMilestoneEnd" class="pageMilestoneEnd x87725c37-5e61-4593-81aa-20b916268a49">
+            <g data-id="bbox-n1tqvt6y" data-class="pageMilestoneEnd" class="pageMilestoneEnd bounding-box"/>
          </g>
       </g>
    </svg>
