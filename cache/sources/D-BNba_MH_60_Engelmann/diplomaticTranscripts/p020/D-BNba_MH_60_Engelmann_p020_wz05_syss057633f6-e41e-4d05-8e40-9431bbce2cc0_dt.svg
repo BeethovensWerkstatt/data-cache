@@ -1,0 +1,10 @@
+<svg viewBox="22407 -1501.5 3828 4627.5" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible"><desc>Facsimile engraved by Thulemeier 1.0.0 on 2025-12-04</desc><defs><style type="text/css">
+    /* .staff * {
+      fill: #000;
+      stroke: #000;
+    }
+
+    .deletionBack {
+      fill: #00000033;
+    } */
+  </style><symbol id="sym_notehead_quarter" viewBox="0 0 1000 1000" overflow="inherit"><path transform="scale(1,-1)" d="M0 -39c0 68 73 172 200 172c66 0 114 -37 114 -95c0 -84 -106 -171 -218 -171c-64 0 -96 30 -96 94z"></path></symbol></defs><g class="rastrums"><g class="rastrum" data-id="r69304837-7800-4666-93d4-de258f8f5f44" style="transform: rotate(0.24deg); transform-origin: 2781px 1458px;"><g class="rastrum bounding-box" data-id="bbox-r69304837-7800-4666-93d4-de258f8f5f44"><rect x="2781" y="1458" width="22338" height="558" fill="#ff000033"></rect></g><path d="M2781 1463 L25119 1463" stroke-width="10" stroke="black"></path><path d="M2781 1600 L25119 1600" stroke-width="10" stroke="black"></path><path d="M2781 1737 L25119 1737" stroke-width="10" stroke="black"></path><path d="M2781 1874 L25119 1874" stroke-width="10" stroke="black"></path><path d="M2781 2011 L25119 2011" stroke-width="10" stroke="black"></path></g></g><g class="draft" data-label="5" data-id="d7967d463-2700-42b0-81a1-0db9e859f51d"><g class="system" data-id="s057633f6-e41e-4d05-8e40-9431bbce2cc0"><g class="staff" data-n="1" data-rastrum="r69304837-7800-4666-93d4-de258f8f5f44" style="transform: rotate(0.24deg); transform-origin: 2781px 1458px;"><g class="note" data-id="dc2ae6a91-b2d0-4054-b33c-59215053388e" data-stem.dir="up"><g class="notehead"><use href="#sym_notehead_quarter" height="480px" width="480px" x="24246" y="983.5"></use></g><g class="ledgerLines above"><path d="M24207 1326 L24435 1326" stroke-width="18"></path><path d="M24207 1189 L24435 1189" stroke-width="18"></path><path d="M24207 1052 L24435 1052" stroke-width="18"></path></g><g class="stem"><path d="M24396 298.5 L24396 983.5" stroke-width="14"></path></g></g></g></g><g class="deletions"></g></g></svg>
