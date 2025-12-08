@@ -1,22 +1,22 @@
-<svg width="824px" height="638px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="hs1zl8l">
+<svg width="824px" height="638px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="jmqlzjx">
    <desc>Engraved by Verovio 5.6.0-85e7620</desc>
-   <style type="text/css">#hs1zl8l g.page-margin {font-family:Times,serif;}#hs1zl8l g.ending, #hs1zl8l g.fing, #hs1zl8l g.reh, #hs1zl8l g.tempo {font-weight:bold;}#hs1zl8l g.dir, #hs1zl8l g.dynam, #hs1zl8l g.mNum {font-style:italic;}#hs1zl8l g.label {font-weight:normal;}#hs1zl8l path {stroke:currentColor}</style>
+   <style type="text/css">#jmqlzjx g.page-margin {font-family:Times,serif;}#jmqlzjx g.ending, #jmqlzjx g.fing, #jmqlzjx g.reh, #jmqlzjx g.tempo {font-weight:bold;}#jmqlzjx g.dir, #jmqlzjx g.dynam, #jmqlzjx g.mNum {font-style:italic;}#jmqlzjx g.label {font-weight:normal;}#jmqlzjx path {stroke:currentColor}</style>
    <svg class="definition-scale" color="black" viewBox="-50 -50 32230 21340">
       <g class="page-margin" transform="translate(1000, 3000)">
          <g data-id="xa45c9532-9d25-4c5f-9503-c215c63bf434" data-class="mdiv" class="mdiv pageMilestone">
             <g data-id="bbox-xa45c9532-9d25-4c5f-9503-c215c63bf434" data-class="mdiv" class="mdiv bounding-box"/>
          </g>
-         <g data-id="j19sv0e4" data-class="score" class="score pageMilestone">
-            <g data-id="bbox-j19sv0e4" data-class="score" class="score bounding-box"/>
+         <g data-id="l18vbgt8" data-class="score" class="score pageMilestone">
+            <g data-id="bbox-l18vbgt8" data-class="score" class="score bounding-box"/>
          </g>
-         <g data-id="o1k2fv7a" data-class="system" class="system">
-            <g data-id="bbox-o1k2fv7a" data-class="system" class="system bounding-box"/>
+         <g data-id="q13gqybz" data-class="system" class="system">
+            <g data-id="bbox-q13gqybz" data-class="system" class="system bounding-box"/>
             <g data-id="x57478827-8730-4bcb-bd45-6d73bfd348af" data-class="section" class="section systemMilestone"/>
             <g data-id="a9a6e9b81-41c6-4d6c-bebe-a1f4d2555a33" data-class="annot" class="annot">
                <g data-id="bbox-a9a6e9b81-41c6-4d6c-bebe-a1f4d2555a33" data-class="annot" class="annot bounding-box"/>
                <desc/>
             </g>
-            <g data-id="wa8ufpx" data-class="systemMilestoneEnd" class="systemMilestoneEnd a9a6e9b81-41c6-4d6c-bebe-a1f4d2555a33"/>
+            <g data-id="ypeze72" data-class="systemMilestoneEnd" class="systemMilestoneEnd a9a6e9b81-41c6-4d6c-bebe-a1f4d2555a33"/>
             <g data-id="sb92498fd-585f-4216-998c-cee45a64aeea" data-class="pb" class="pb"/>
             <g data-id="x90ec6422-cdde-4a5a-b98d-91ba838d1341" data-class="measure" class="measure">
                <g data-id="bbox-x90ec6422-cdde-4a5a-b98d-91ba838d1341" data-class="measure" class="measure bounding-box"/>
@@ -24,13 +24,13 @@
                   <g data-id="bbox-x093dfc7e-9c69-4cb1-a53b-62bea4c778f3" data-class="staff" class="staff bounding-box">
                      <rect x="-7" y="534" height="733" width="2027" fill="transparent"/>
                   </g>
-                  <path d="M0 540 L2014 540" stroke-width="13" class="rastrum"><animate id="s9083d718-6552-417f-9f6c-379c419fc8fb" attributeName="d" values="M4489 546 L32130 546;M4489 546 L32130 546;M0 540 L2014 540;M0 540 L2014 540;M0 540 L2014 540;M0 540 L2014 540" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 720 L2014 720" stroke-width="13" class="rastrum"><animate id="s814f5dda-03c1-4e09-87f4-55c513ef703a" attributeName="d" values="M4489 723 L32130 723;M4489 723 L32130 723;M0 720 L2014 720;M0 720 L2014 720;M0 720 L2014 720;M0 720 L2014 720" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 900 L2014 900" stroke-width="13" class="rastrum"><animate id="sa248da9b-d549-4bf0-86c4-1eb7911dd395" attributeName="d" values="M4489 900 L32130 900;M4489 900 L32130 900;M0 900 L2014 900;M0 900 L2014 900;M0 900 L2014 900;M0 900 L2014 900" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 1080 L2014 1080" stroke-width="13" class="rastrum"><animate id="s9ec3188e-e5da-4558-8f00-2869baef0ec2" attributeName="d" values="M4489 1077 L32130 1077;M4489 1077 L32130 1077;M0 1080 L2014 1080;M0 1080 L2014 1080;M0 1080 L2014 1080;M0 1080 L2014 1080" repeatCount="indefinite" dur="5s"/></path>
-                  <path d="M0 1260 L2014 1260" stroke-width="13" class="rastrum"><animate id="s042b76a4-6071-4a84-827c-2c84a7580706" attributeName="d" values="M4489 1254 L32130 1254;M4489 1254 L32130 1254;M0 1260 L2014 1260;M0 1260 L2014 1260;M0 1260 L2014 1260;M0 1260 L2014 1260" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 540 L2014 540" stroke-width="13" class="rastrum"><animate id="s4e8d9bba-c9f6-4906-92cb-c430ba908acf" attributeName="d" values="M4489 546 L32130 546;M4489 546 L32130 546;M0 540 L2014 540;M0 540 L2014 540;M0 540 L2014 540;M0 540 L2014 540" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 720 L2014 720" stroke-width="13" class="rastrum"><animate id="s0a6a1bb2-c9da-4add-a734-c7c982a1b380" attributeName="d" values="M4489 723 L32130 723;M4489 723 L32130 723;M0 720 L2014 720;M0 720 L2014 720;M0 720 L2014 720;M0 720 L2014 720" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 900 L2014 900" stroke-width="13" class="rastrum"><animate id="seab40e7c-d56a-4971-a854-f6d49c5aac1a" attributeName="d" values="M4489 900 L32130 900;M4489 900 L32130 900;M0 900 L2014 900;M0 900 L2014 900;M0 900 L2014 900;M0 900 L2014 900" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 1080 L2014 1080" stroke-width="13" class="rastrum"><animate id="s3d583e9e-2074-48d1-9947-514f8a27f2bd" attributeName="d" values="M4489 1077 L32130 1077;M4489 1077 L32130 1077;M0 1080 L2014 1080;M0 1080 L2014 1080;M0 1080 L2014 1080;M0 1080 L2014 1080" repeatCount="indefinite" dur="5s"/></path>
+                  <path d="M0 1260 L2014 1260" stroke-width="13" class="rastrum"><animate id="se676dece-71e2-4fe4-80a7-712cff26a2a7" attributeName="d" values="M4489 1254 L32130 1254;M4489 1254 L32130 1254;M0 1260 L2014 1260;M0 1260 L2014 1260;M0 1260 L2014 1260;M0 1260 L2014 1260" repeatCount="indefinite" dur="5s"/></path>
                   <g data-id="kf7577005-bd29-4925-8f72-7a1727ab3917" data-class="keySig" class="keySig">
-                     <g data-id="bbox-k1po8c4o" data-class="keySig" class="keySig bounding-box">
+                     <g data-id="bbox-m6kmmmq" data-class="keySig" class="keySig bounding-box">
                         <rect x="0" y="540" height="0" width="0" fill="transparent"/>
                      </g>
                   </g>
@@ -41,30 +41,23 @@
                      </g>
                   </g>
                </g>
-               <g data-id="x2bb9dbc2-2642-408a-87bf-d66369c7d070" data-class="dir" class="dir supplied">
+               <g data-id="x2bb9dbc2-2642-408a-87bf-d66369c7d070" data-class="dir" class="dir">
                   <g data-id="bbox-x2bb9dbc2-2642-408a-87bf-d66369c7d070" data-class="dir" class="dir bounding-box"/>
-                  <text y="990" font-size="0px">
-                     <tspan data-id="o1xzb1de" data-class="text" class="text supplied">
-                        <g data-id="bbox-o1xzb1de" data-class="text" class="text bounding-box">
-                           <rect x="0" y="715" height="358" width="1924" fill="transparent"/>
-                        </g>
-                        <tspan font-size="405px">Variation 19</tspan>
-                     <animate id="scd3416a5-fb27-495b-aa6b-9e9cdc1f959d" attributeName="opacity" values="0;0;1;1;1;1" repeatCount="indefinite" dur="5s"/><animate id="s42e63564-e0ed-4ead-91fe-e8217a5d5abf" attributeName="display" values="none;none;inline;inline;inline;inline" repeatCount="indefinite" dur="5s"/></tspan>
-                  </text>
-               </g>
-               <g data-id="jmitz3n" data-class="barLine" class="barLine">
-                  <g data-id="bbox-jmitz3n" data-class="barLine" class="barLine bounding-box">
+                  <text y="990" font-size="0px"><tspan x="0" y="990" data-class="text" class="text"><tspan font-size="405px">Var<animate id="s85f7d1eb-2ded-47a5-aee4-23a6d639e942" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px">.<animate id="s232fb3bb-b829-482a-8185-27a3e58b7e4b" attributeName="opacity" values="1;1;0;0;0;0" repeatCount="indefinite" dur="5s"/><animate id="s47efbbd5-1641-4927-b872-97471cd63946" attributeName="display" values="inline;inline;none;none;none;none" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px" class="supplied">iation<animate id="s0e2a9735-0818-4404-8e0a-8b6f7773fc42" attributeName="opacity" values="0;0;1;1;1;1" repeatCount="indefinite" dur="5s"/><animate id="s1d3ab26c-8984-4af1-8f86-84354bb354a9" attributeName="display" values="none;none;inline;inline;inline;inline" repeatCount="indefinite" dur="5s"/></tspan><tspan font-size="405px"> 19<animate id="sed7733c7-f9be-47e4-838d-face4a630345" attributeName="opacity" values="1;1;1;1;1;1" repeatCount="indefinite" dur="5s"/></tspan></tspan></text>
+               <animateTransform id="saf88a0a2-e74e-483a-9eff-1e2081f3bce1" attributeName="transform" attributeType="XML" type="translate" values="15683 1463;15683 1463;0 0;0 0;0 0;0 0" repeatCount="indefinite" dur="5s"/></g>
+               <g data-id="lkzwi9a" data-class="barLine" class="barLine">
+                  <g data-id="bbox-lkzwi9a" data-class="barLine" class="barLine bounding-box">
                      <rect x="2014" y="0" height="0" width="0" fill="transparent"/>
                   </g>
                </g>
             </g>
-            <g data-id="x1fq2s8b" data-class="systemMilestoneEnd" class="systemMilestoneEnd x57478827-8730-4bcb-bd45-6d73bfd348af"/>
+            <g data-id="z1ija9zr" data-class="systemMilestoneEnd" class="systemMilestoneEnd x57478827-8730-4bcb-bd45-6d73bfd348af"/>
          </g>
-         <g data-id="y1xnuz7r" data-class="pageMilestoneEnd" class="pageMilestoneEnd j19sv0e4">
-            <g data-id="bbox-y1xnuz7r" data-class="pageMilestoneEnd" class="pageMilestoneEnd bounding-box"/>
+         <g data-id="alm40pe" data-class="pageMilestoneEnd" class="pageMilestoneEnd l18vbgt8">
+            <g data-id="bbox-alm40pe" data-class="pageMilestoneEnd" class="pageMilestoneEnd bounding-box"/>
          </g>
-         <g data-id="zj1btzl" data-class="pageMilestoneEnd" class="pageMilestoneEnd xa45c9532-9d25-4c5f-9503-c215c63bf434">
-            <g data-id="bbox-zj1btzl" data-class="pageMilestoneEnd" class="pageMilestoneEnd bounding-box"/>
+         <g data-id="b1bcx7s3" data-class="pageMilestoneEnd" class="pageMilestoneEnd xa45c9532-9d25-4c5f-9503-c215c63bf434">
+            <g data-id="bbox-b1bcx7s3" data-class="pageMilestoneEnd" class="pageMilestoneEnd bounding-box"/>
          </g>
       </g>
    </svg>
