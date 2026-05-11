@@ -1,0 +1,7 @@
+timestamp=2026-05-11T11:26:33.006Z
+type=fluidSystems
+severity=error
+inputDt=data/sources/D-BNba_MH_60_Engelmann/diplomaticTranscripts/D-BNba_MH_60_Engelmann_p021_wz01_dt.xml
+inputAt=data/sources/D-BNba_MH_60_Engelmann/annotatedTranscripts/D-BNba_MH_60_Engelmann_p021_wz01_at.xml
+outputFs=cache/sources/D-BNba_MH_60_Engelmann/fluidSystems/p021/D-BNba_MH_60_Engelmann_p021_wz01_fs.svg
+reason=[renderFluidSystemsSvg] Missing AT sb@corresp DT system mapping for matched blocks: 1.
