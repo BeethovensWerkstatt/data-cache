@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xc6d70088-1fe3-4e5c-bf90-83b5c253e6f9">
           <name xml:id="x051bb019-473e-4aae-a6ff-a2478f12bb68">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="489645bc855f30a6ca441834a343eef93709fdaa" xml:id="bw_liquifier">
+        <application version="cc7c13976efa062ffe10bd49b4949028628ac6ff" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -220,7 +220,7 @@
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p037_wz11_dt.xml#b5d94056e-0fde-4ad2-a360-f009b85e77b0" xml:id="x8deb357c-12a7-4638-a235-c1a8780ba4fc">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p037_wz11_dt.xml#d87b9600b-f31b-4cad-a793-a70dd86666b9" dur="8" oct="4" pname="f" stem.dir="down" xml:id="o1cea1411-a346-49da-bf36-1422f6a7f9ae"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p037_wz11_dt.xml#d87b9600b-f31b-4cad-a793-a70dd86666b9" dur="8" oct="4" pname="f" stem.dir="down" xml:id="o52d1fcbc-8220-42c1-a2f8-e420ace62504"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p037_wz11_dt.xml#d87b9600b-f31b-4cad-a793-a70dd86666b9" dur="8" oct="4" pname="e" stem.dir="down" xml:id="x367a1861-8490-41fa-bae8-a6dbaa361c78"/>
@@ -330,9 +330,7 @@
                   <mSpace xml:id="x111094b3-2d30-4b8f-a281-c967d3f35cfa"/>
                 </layer>
               </staff>
-              <supplied resp="#bw">
-                <trill layer="1" place="above" staff="1" startid="#xe9f78f23-8a20-4c7b-99a7-3bae148cba35" xml:id="xb87b26a7-4e40-4517-8339-bf2df02b5dc9"/>
-              </supplied>
+              <trill corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p037_wz11_dt.xml#dd2ec98db-6741-455e-8772-9d82b142c5d7" layer="1" place="above" staff="1" startid="#xe9f78f23-8a20-4c7b-99a7-3bae148cba35" xml:id="xb87b26a7-4e40-4517-8339-bf2df02b5dc9"/>
             </measure>
           </section>
         </score>
