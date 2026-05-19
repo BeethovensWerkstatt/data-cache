@@ -1,0 +1,9 @@
+timestamp=2026-05-19T10:56:41.783Z
+type=fluidSystems
+severity=warning
+inputDt=data/sources/D-BNba_BSk_21-69/diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz03_dt.xml
+inputAt=data/sources/D-BNba_BSk_21-69/annotatedTranscripts/D-BNba_BSk_21-69_p001_wz03_at.xml
+outputFs=cache/sources/D-BNba_BSk_21-69/fluidSystems/p001/D-BNba_BSk_21-69_p001_wz03_fs.svg
+reason=[renderFluidSystemsSvg] Non-fatal system label issues detected (1); see fluid systems error log for details.
+issueCount=1
+issue.1=code=page-dimensions-unresolved;surfaceId=x731b0f02-032a-49d6-a417-d16500bea745;currentDtReference=data/sources/D-BNba_BSk_21-69/diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz03_dt.xml;reason=Could not resolve surface width/height from context foliation metadata.
