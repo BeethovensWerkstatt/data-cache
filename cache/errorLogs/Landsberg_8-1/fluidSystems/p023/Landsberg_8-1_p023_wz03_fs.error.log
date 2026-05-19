@@ -1,0 +1,9 @@
+timestamp=2026-05-19T11:46:49.565Z
+type=fluidSystems
+severity=warning
+inputDt=data/sources/Landsberg_8-1/diplomaticTranscripts/Landsberg_8-1_p023_wz03_dt.xml
+inputAt=data/sources/Landsberg_8-1/annotatedTranscripts/Landsberg_8-1_p023_wz03_at.xml
+outputFs=cache/sources/Landsberg_8-1/fluidSystems/p023/Landsberg_8-1_p023_wz03_fs.svg
+reason=[renderFluidSystemsSvg] Non-fatal system label issues detected (1); see fluid systems error log for details.
+issueCount=1
+issue.1=code=page-dimensions-unresolved;surfaceId=s9833ac8c-ccb1-4fce-90e2-e19bd3099738;currentDtReference=data/sources/Landsberg_8-1/diplomaticTranscripts/Landsberg_8-1_p023_wz03_dt.xml;reason=Could not resolve surface width/height from context foliation metadata.
