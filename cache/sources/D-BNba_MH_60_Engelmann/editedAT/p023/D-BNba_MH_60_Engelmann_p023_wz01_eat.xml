@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="x87b90f36-3bba-4a24-aa01-8d7b52ed8953">
           <name xml:id="x265693aa-ce77-431d-9260-9d325d4b08ab">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="463c191820ad841f4c5378d941a9d3029f84ea4f" xml:id="bw_liquifier">
+        <application version="290fa0a54b36e8e7900987ef8f92e214e6f6975e" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -329,28 +329,110 @@
               <measure join="#xfd3dc7ff-8a1a-46d1-9a07-da28b86fdf3f" label="2b alt" left="invis" metcon="false" n="2" xml:id="x9db71869-5145-4501-b75f-3e8510b594ba">
                 <staff n="1" xml:id="xdda472ad-2151-485a-99a1-797f41a1a8bf">
                   <layer n="1" xml:id="x9ccfc2e7-fe93-4133-a1a4-f439f2f71bd4">
-                    <mSpace xml:id="x448ec3b7-4c8f-4189-a357-0d7337fb55ca"/>
+                    <beam>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p023_wz01_dt.xml#de693635c-b6fd-41ca-b7ae-7d35918757c7" dur="16" oct="4" pname="a" stem.dir="up" xml:id="xe29842e0-4ac0-4034-9750-0fe8af65ef49"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p023_wz01_dt.xml#d3bec89d8-bd00-4455-aa59-75acbe07630c" dur="8" oct="4" pname="g" stem.dir="up" xml:id="x2377b7a0-ba53-4f55-becd-43fb1ea8a744">
+                        <supplied resp="#bw">
+                          <accid accid.ges="s" xml:id="xe050711c-7e41-4a4a-8fdb-a0759a7d1318"/>
+                        </supplied>
+                      </note>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p023_wz01_dt.xml#de79ea16f-3fec-4155-8254-2cf5937c24d8" dur="16" oct="4" pname="a" stem.dir="up" xml:id="xa7110df7-cb6c-4343-9dc2-7e0de42ca4e1">
+                        <accid accid="s" corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p023_wz01_dt.xml#d341a0e13-a5af-4a32-b5c0-f638b8b80ed2" xml:id="x90be76e5-f627-47d1-99db-467a5d26a303"/>
+                      </note>
+                    </beam>
+                  </layer>
+                  <layer n="2" xml:id="x3cb564d5-b3ec-494a-bf31-af7f1620f7d0">
+                    <supplied resp="#bw">
+                      <beam xml:id="x8d740072-65ef-48ae-ba2b-bfbb1a03d2ee">
+                        <note dur="8" oct="4" pname="e" stem.dir="down" xml:id="xb8ab5746-2ba0-47a3-bab5-841792a8f94e">
+                          <dot xml:id="x075c34bc-cafc-4e4f-8ccd-305931c9c8be"/>
+                        </note>
+                        <note dur="16" oct="4" pname="f" stem.dir="down" xml:id="xdfffaa7d-f1ed-4da2-8188-973c7d4f2652">
+                          <accid accid.ges="s" xml:id="xd738a97e-403a-44e7-88fa-19b579e79379"/>
+                        </note>
+                      </beam>
+                    </supplied>
                   </layer>
                 </staff>
                 <staff n="2" xml:id="xd5ff7539-527b-43ca-af26-8e474bf0fc91">
                   <layer n="1" xml:id="x74fe8fa0-e662-4ee1-8941-dc243672dc66">
-                    <mSpace xml:id="x6c9952d6-e3ce-4e6f-bb0d-4cd390fcbb16"/>
+                    <supplied resp="#bw">
+                      <beam xml:id="x7e36f55a-8069-435a-99f3-a521051e43d0">
+                        <note dur="8" oct="3" pname="e" stem.dir="down" xml:id="x8c7947ec-28c1-4dee-a406-0f93ff98a38c"/>
+                        <note dur="8" oct="3" pname="d" stem.dir="down" xml:id="x24f85882-8de8-41d9-b6b5-14560c547cc9"/>
+                        <note dur="8" oct="3" pname="c" stem.dir="down" xml:id="x888968a0-3593-4877-a9ab-97e29a0a8927">
+                          <accid accid.ges="s" xml:id="x92417374-4b58-4afd-a478-7043eb46e7f2"/>
+                        </note>
+                      </beam>
+                    </supplied>
                   </layer>
                 </staff>
+                <supplied resp="#bw">
+                  <tie curvedir="above" endid="#x145be16f-8304-4463-b5d5-7f6c4fc2a8b4" startid="#x888968a0-3593-4877-a9ab-97e29a0a8927" xml:id="x629c9543-9a5e-497d-935f-c9fc8ca2c9fa"/>
+                </supplied>
               </measure>
             </add>
             <add label="nk23 base layer 3" state="../D-BNba_MH_60_Engelmann.xml#g772b6a5e-f426-45ed-9e44-e2d723aebc36" xml:id="acbd29237-8653-44db-8176-2ceea7648526">
-              <measure join="#x498bb2b3-1a18-47bb-801d-9a20ca295278" label="3a alt" left="invis" metcon="false" n="3" xml:id="x33da2d8e-5105-407b-ba0c-b917c11ef74c">
+              <measure join="#x498bb2b3-1a18-47bb-801d-9a20ca295278" label="3a alt" metcon="false" n="3" right="invis" xml:id="x33da2d8e-5105-407b-ba0c-b917c11ef74c">
                 <staff n="1" xml:id="x0f6678bc-6907-41d9-8f2d-ea8e2acff1a1">
                   <layer n="1" xml:id="xb5596a48-84f6-4859-9548-568d2aa745de">
-                    <mSpace xml:id="xd6acd09a-90bf-4fb4-b296-8a6aa9618f32"/>
+                    <supplied resp="#bw">
+                      <note dur="8" oct="4" pname="b" stem.dir="up" xml:id="xb848f4ae-dcb8-4942-95c6-7cc916dc6a42"/>
+                    </supplied>
+                    <supplied resp="#bw">
+                      <beam xml:id="x8bae7fea-2132-4264-9807-c404503dfcc1">
+                        <note dur="16" oct="4" pname="e" stem.dir="up" xml:id="xcf9cf48f-d7c2-48d1-b55c-666074d04099"/>
+                        <note dur="16" oct="4" pname="f" stem.dir="up" xml:id="xf2d43936-c80f-4bd3-ac25-0d63434829cc">
+                          <accid accid.ges="s" xml:id="xa9854a0f-89e9-4a8b-b037-0c647097d6a5"/>
+                        </note>
+                      </beam>
+                    </supplied>
+                  </layer>
+                  <layer n="2" xml:id="xb5e8f7ed-04c0-47ef-9511-bafcd0de33c6">
+                    <supplied resp="#bw">
+                      <beam xml:id="xdecfaa63-d93e-427f-a870-8d20c3a4cdb6">
+                        <note dur="16" oct="4" pname="e" stem.dir="down" xml:id="xf9992218-2619-4b12-9ff9-66eafd901e45"/>
+                        <note dur="16" oct="4" pname="d" stem.dir="down" xml:id="x7c5ed2fe-4346-4432-9a08-8de317e105fc">
+                          <accid accid.ges="s" xml:id="x54bb3ad8-dd69-4ce7-aa67-29112635c754"/>
+                        </note>
+                      </beam>
+                    </supplied>
+                    <supplied resp="#bw">
+                      <note dur="8" oct="4" pname="c" stem.dir="down" xml:id="x3586b15d-f7be-4035-b877-005a3037f237"/>
+                    </supplied>
+                    <supplied resp="#bw">
+                      <beam xml:id="xcdce0d81-5695-4af5-807e-378ae1825133">
+                        <note dur="16" oct="4" pname="c" stem.dir="down" xml:id="x66aa44ae-5c70-4899-9f12-9e522fe751f8">
+                          <accid accid.ges="s" xml:id="xc8d92dc4-34a8-4981-812a-08427680964a"/>
+                        </note>
+                        <note dur="16" oct="4" pname="d" stem.dir="down" xml:id="xbfeadf78-e954-474a-8f66-57e8d523f484">
+                          <accid accid.ges="s" xml:id="xff692dcf-c421-45a6-95fb-720ae5479044"/>
+                        </note>
+                      </beam>
+                    </supplied>
                   </layer>
                 </staff>
                 <staff n="2" xml:id="x2bb49615-c3fc-4ccf-a6e6-5ac6801997a3">
                   <layer n="1" xml:id="x5565f477-f3bd-4853-9320-c0c7e4c52d7e">
-                    <mSpace xml:id="xf881e57b-4171-4032-9f27-b5394733b95b"/>
+                    <supplied resp="#bw">
+                      <beam xml:id="x2877af99-6791-412a-a272-9e3bd315d74e">
+                        <note dur="16" oct="3" pname="c" stem.dir="down" xml:id="x145be16f-8304-4463-b5d5-7f6c4fc2a8b4">
+                          <accid accid.ges="s" xml:id="xd98e6f2b-3164-4a5e-842d-402767425b73"/>
+                        </note>
+                        <note dur="16" oct="2" pname="b" stem.dir="down" xml:id="x00aca5d8-0268-4c0c-9a54-c442cadb148d"/>
+                      </beam>
+                    </supplied>
+                    <supplied resp="#bw">
+                      <note dur="8" oct="2" pname="a" stem.dir="down" xml:id="xea4e73cd-dbff-4d65-8580-7a48ddf28c9f"/>
+                    </supplied>
                   </layer>
                 </staff>
+                <supplied resp="#bw">
+                  <tie curvedir="below" endid="#x66aa44ae-5c70-4899-9f12-9e522fe751f8" startid="#x3586b15d-f7be-4035-b877-005a3037f237" xml:id="xaef4c1fb-5f01-4cf1-ac2d-cda7c90cb69d"/>
+                </supplied>
+                <supplied resp="#bw">
+                  <tie curvedir="above" endid="#x916ebc24-0f21-465a-b8a3-84a5fe1eaa63" startid="#xea4e73cd-dbff-4d65-8580-7a48ddf28c9f" xml:id="xf428ac9a-39a8-4d02-aa10-59f762216d59"/>
+                </supplied>
               </measure>
             </add>
             <!-- Variante T. 2b/3a -->
