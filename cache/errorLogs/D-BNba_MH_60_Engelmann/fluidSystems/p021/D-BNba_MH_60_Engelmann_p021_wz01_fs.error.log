@@ -1,9 +1,0 @@
-timestamp=2026-05-11T12:10:36.489Z
-type=fluidSystems
-severity=warning
-inputDt=data/sources/D-BNba_MH_60_Engelmann/diplomaticTranscripts/D-BNba_MH_60_Engelmann_p021_wz01_dt.xml
-inputAt=data/sources/D-BNba_MH_60_Engelmann/annotatedTranscripts/D-BNba_MH_60_Engelmann_p021_wz01_at.xml
-outputFs=cache/sources/D-BNba_MH_60_Engelmann/fluidSystems/p021/D-BNba_MH_60_Engelmann_p021_wz01_fs.svg
-reason=[renderFluidSystemsSvg] Non-fatal system label issues detected (1); see fluid systems error log for details.
-issueCount=1
-issue.1=code=page-dimensions-unresolved;surfaceId=x6e6bb355-b7bb-4d8f-b8ea-d23d9e9ae795;currentDtReference=data/sources/D-BNba_MH_60_Engelmann/diplomaticTranscripts/D-BNba_MH_60_Engelmann_p021_wz01_dt.xml;reason=Could not resolve surface width/height from context foliation metadata.
