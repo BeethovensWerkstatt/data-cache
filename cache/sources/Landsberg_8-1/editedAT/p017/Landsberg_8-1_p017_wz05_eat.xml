@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xa8569528-7ae7-4e03-aa80-e9342278e532">
           <name xml:id="x092a1bdc-8309-4d68-8646-47dee8233c21">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="9ab5b39667985b1849081881193023bb8f847a72" xml:id="bw_liquifier">
+        <application version="0c0dbccadb13ece32bb264638bb843d6646fcd3e" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x705c18de-2ad3-4b8b-aa36-66ca8ec76ff8">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-06-08" n="2" resp="#bw">
+      <change isodate="2026-07-19" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -197,7 +197,7 @@
             <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d4f292a64-55df-4313-8e96-119bf8b03a3d" n="1" xml:id="xb4fe1745-70dc-487e-95e0-c2d2284f373f">
               <staff n="1" xml:id="x3f788863-f69c-44d4-a221-5cf389760f4f">
                 <layer n="1" xml:id="xe053674e-a571-405c-bf9a-f6e12e0096b2">
-                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d19147d26-1118-4fab-a9ba-a498fb41159f" dot-corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#dc43dc41d-7163-41af-8e35-5ae25ad62fd0" dur="4" oct="4" pname="g" stem.dir="down" xml:id="xe6b5b5ed-f8c7-4bed-aa8d-c8d1edd665eb">
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d19147d26-1118-4fab-a9ba-a498fb41159f" dur="4" oct="4" pname="g" stem.dir="down" xml:id="xe6b5b5ed-f8c7-4bed-aa8d-c8d1edd665eb">
                     <accid accid="s" corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#de2612c82-d2e2-46fe-afa2-cf432e7ff8c2" xml:id="xdc8bbc2e-a912-4530-82cd-a6cb5d636434"/>
                     <dot corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d3a6bb4d3-80d6-4d6a-8ce2-0852f10f5718" xml:id="daa74051b-612a-43bd-8598-2f5a20e3a54a"/>
                   </note>
@@ -214,7 +214,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#b981c4ebd-8459-4ebf-8afe-f5f85eb2fe6c ../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#bc3e72594-b873-4e9e-a419-0d7359d6f312" xml:id="xd2b67d95-0238-46e5-89c5-f72579952324">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d5bbb8797-616b-4f1f-b0a7-cc5dbb6ff170" dur="16" oct="3" pname="b" stem.dir="up" xml:id="ode0293a9-c0a8-4f6e-a678-8e5f02f4dbee"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d5bbb8797-616b-4f1f-b0a7-cc5dbb6ff170" dur="16" oct="3" pname="b" stem.dir="up" xml:id="off613d59-ff71-4486-9d8b-4fd0d0465dd0"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d5bbb8797-616b-4f1f-b0a7-cc5dbb6ff170" dur="16" oct="3" pname="e" stem.dir="up" xml:id="x86b4feed-62c7-49cb-b8e2-9c959f4a2531"/>
@@ -222,7 +222,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#dbe4bcee2-7f44-4615-ba59-8536f2c8bee2" dur="16" oct="3" pname="a" stem.dir="up" xml:id="o66ad5081-5b13-4bc3-ae7c-1c5e4cc60575">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#dbe4bcee2-7f44-4615-ba59-8536f2c8bee2" dur="16" oct="3" pname="a" stem.dir="up" xml:id="o66a0ac8d-4b11-4fa5-b29a-a6f025e29072">
                           <accid accid="s" corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d9830d341-dcd2-4fdb-a6b2-6bd09ba42516" xml:id="x81123cb7-b629-4a61-899f-9683ad382008"/>
                         </note>
                       </orig>

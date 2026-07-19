@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x95f35e80-a0f4-4e16-82ef-62b9885b19b4">
           <name xml:id="xafb863fc-c591-4d9b-a885-60603f14da8d">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="7a85bacb155da8d9fbfc51c592c8b3082b47ffee" xml:id="bw_liquifier">
+        <application version="0c0dbccadb13ece32bb264638bb843d6646fcd3e" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="xc46bc3e6-5c8c-4fa3-9c64-93636d3a928e">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-06-01" n="2" resp="#bw">
+      <change isodate="2026-07-19" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -220,11 +220,15 @@
               <staff n="1" xml:id="x3ce28366-9fec-42f5-a5a7-e7dadd3f1ef2">
                 <layer n="1" xml:id="x11f655de-adc3-481f-8b87-206af90cb102">
                   <beam corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#bdcab683b-872a-4895-a87b-1e8704a40297 ../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#bd601626a-ec56-438f-85ff-a210edf3a4de ../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#bddf92371-6c90-4d4d-ba63-cd19d481ce4e" xml:id="xa2e2cc81-ced0-43e7-9806-1594ab574411">
-                    <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#d29421f0a-a4e0-4f5f-ab18-f05c619fa453" dot-corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#d3711bf9a-1ed0-470f-809e-a9da108c4d4c" dots="1" dur="8" oct="5" pname="f" stem.dir="down" xml:id="xd9687957-04f8-4b07-8990-f690e263b106"/>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#d29421f0a-a4e0-4f5f-ab18-f05c619fa453" dur="8" oct="5" pname="f" stem.dir="down" xml:id="xd9687957-04f8-4b07-8990-f690e263b106">
+                      <dot corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#d3711bf9a-1ed0-470f-809e-a9da108c4d4c" xml:id="da919e776-2752-4023-b185-23e8f91cda14"/>
+                    </note>
                     <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#d8ec9b900-c01b-4ef2-a589-d58f9f56c052" dur="16" oct="5" pname="d" stem.dir="down" xml:id="x864917c6-149e-4d7f-a1ca-92ced463e395"/>
                   </beam>
                   <beam corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#be16c3441-760a-41ce-9135-7ce21de4c82c" xml:id="xcbc5c7e2-15ca-470b-9bb1-edde9bd80123">
-                    <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#dbac15e6d-7e33-41e6-8592-3ec2b39437e3" dot-corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#df334f5b7-68d6-41a7-a580-844cda1bba00" dots="1" dur="8" oct="4" pname="a" stem.dir="down" xml:id="xb21db8d4-a792-4f31-961d-c16d27ddadc1"/>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#dbac15e6d-7e33-41e6-8592-3ec2b39437e3" dur="8" oct="4" pname="a" stem.dir="down" xml:id="xb21db8d4-a792-4f31-961d-c16d27ddadc1">
+                      <dot corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz06_dt.xml#df334f5b7-68d6-41a7-a580-844cda1bba00" xml:id="dd1a18709-133d-481c-bc7a-71440ee7f8bf"/>
+                    </note>
                     <supplied resp="#bw">
                       <note dur="16" oct="4" pname="f" stem.dir="down" xml:id="xbb71d707-28c0-4368-876d-6984abc040ab"/>
                     </supplied>

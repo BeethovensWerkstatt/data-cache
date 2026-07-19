@@ -1,0 +1,400 @@
+<?xml-model href="../../../../rng/bw_annotatedTranscriptions.odd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../../rng/bw_annotatedTranscriptions.odd.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei meiversion="6.0+beethovensWerkstatt" xml:id="a239236aa-e42c-48a9-b908-6061ab31299c" xmlns="http://www.music-encoding.org/ns/mei" xmlns:svg="http://www.w3.org/2000/svg">
+  <meiHead meiversion="6.0+beethovensWerkstatt" xml:id="xfbcb54ba-d615-4463-b75a-3017a16017be">
+    <fileDesc xml:id="ha0f112e3-b71b-45af-b4b9-e5a1ab24c7d9">
+      <titleStmt xml:id="h3745f6c4-6abe-4b1f-83c9-53bbc9f00503">
+        <title xml:id="hac441280-c38d-4dc4-9ce5-d1ed7abc4e4a">Beethoven, Ludwig van: Sinfonien. Skizzen; d-Moll; op. 125[cover title, by Anton Gräffer:] Notirungsbuch | O | 36 – auto-generated Annotated Transcription with explicit editorial markup</title>
+        <composer xml:id="h58edc35a-a0cc-407c-b368-399f7eda05c6">
+          <persName xml:id="hcbf96124-c1f9-4daa-a3b7-3d3273c2dc4f">Beethoven, Ludwig van</persName>
+        </composer>
+        <editor xml:id="hd1a3a8cc-aaf0-4e68-93c1-d7e6b0627df0">
+          <corpName auth.uri="https://beethovens-werkstatt.de" xml:id="xb656c547-e776-4e3a-854d-7d56462e6935">Beethovens Werkstatt</corpName>
+        </editor>
+        <funder xml:id="hcedd0c48-3c43-4aa0-9c3f-725a4a7f6794">
+          <corpName auth.uri="http://www.adwmainz.de/" xml:id="x61e120ae-a6f9-4ca1-83c0-393a69b67de2">Akademie der Wissenschaften und der Literatur Mainz</corpName>
+        </funder>
+      </titleStmt>
+      <pubStmt xml:id="hddff7159-ecea-470a-8c6e-4af3065ccc2e"/>
+      <seriesStmt xml:id="h125a03c8-e130-4c36-aa1a-d216f5e3a69e">
+        <title level="s" xml:id="h1f8a7305-d023-409a-ac6f-dadbed700c39" xml:lang="de">Skizzenbuchedition</title>
+        <identifier auth.uri="https://beethovens-werkstatt.de/modul-4/" xml:id="h20be8996-ad48-43fa-bb6e-461af4216747">sk</identifier>
+      </seriesStmt>
+      <sourceDesc xml:id="ha8eb3d2d-84a0-4ad6-92fe-9f5bf4afbd9d">
+        <source n="1" target="../Landsberg_8-1.xml#g96e4161b-9d21-4b24-91b5-c02202ae7140" xml:id="x7f3ae61b-1558-40ab-bca8-05883bdb9ecd"/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc class="#bw_annotated_transcript #bw_module4" xml:id="h15b55819-1ec3-4d8d-9918-5220facc5ebd">
+      <appInfo xml:id="x727b6347-6856-495e-b583-b8cfbb220f4b" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <application isodate="2024-8-5T14:34:46Z" version="20210200" xml:id="x52530c90-d84b-44bb-8a66-12d49b574fec">
+          <name type="operating-system" xml:id="x52de0347-d58d-4404-a633-ffc58b21afd7">Mac OS X Mountain Lion</name>
+        </application>
+        <application type="plugin" version="4.1.0" xml:id="x53598df9-e9e3-4dcc-a78d-f794cb9afc60">
+          <name xml:id="x890696ec-c292-4ab1-b599-6fb0efc2454c">Sibelius to MEI 4 Exporter (4.1.0)</name>
+        </application>
+        <application version="0c0dbccadb13ece32bb264638bb843d6646fcd3e" xml:id="bw_liquifier">
+          <name>Liquifier</name>
+          <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
+        </application>
+      </appInfo>
+      <classDecls xml:id="h9481da12-bc4c-42fa-b2e9-9ecd3325c3a8">
+        <taxonomy label="availableTaxonomies" xml:id="h1f1eeefe-96f6-4367-aa17-7d58ae21f64a">
+          <category xml:id="document_type"/>
+          <category xml:id="bw_observation_type"/>
+          <category xml:id="bw_implementation_completeness"/>
+          <!--<category xml:id="bw_monitum_category"/>
+                    -->
+          <category xml:id="bw_file_type"/>
+          <category xml:id="bw_monitum_comment"/>
+          <category xml:id="bw_monitum_classification"/>
+          <category xml:id="bw_monitum_textoperation"/>
+          <category xml:id="bw_monitum_object"/>
+          <category xml:id="bw_monitum_kontext"/>
+          <category xml:id="bw_monitum_konkordanz"/>
+          <category xml:id="bw_transcription_type"/>
+          <category xml:id="bw_module"/>
+          <category xml:id="bw_geneticOrder"/>
+        </taxonomy>
+        <taxonomy xml:id="hb44a4ec8-c8ea-4d6d-81f9-9ec0ffc995b0">
+          <category class="#bw_geneticOrder" xml:id="geneticOrder_documentLevel"/>
+          <category class="#bw_geneticOrder" xml:id="geneticOrder_pageLevel"/>
+          <category class="#bw_geneticOrder" xml:id="geneticOrder_writingZoneLevel"/>
+          <category class="#bw_geneticOrder" xml:id="geneticOrder_writingLayerLevel"/>
+          <category class="#bw_geneticOrder" xml:id="geneticOrder_finalState"/>
+        </taxonomy>
+        <taxonomy xml:id="hde26d729-891c-4862-9282-10277b510773">
+          <category class="#document_type" xml:id="music.print"/>
+          <category class="#document_type" xml:id="music.manuscript"/>
+          <category class="#document_type" xml:id="letter.manuscript"/>
+          <category class="#document_type" xml:id="music.sketchbook"/>
+        </taxonomy>
+        <taxonomy xml:id="h18523bc5-5802-4c31-b82f-ebb7190fcdce">
+          <category class="#bw_observation_type" xml:id="bw_monitum"/>
+          <category class="#bw_observation_type" xml:id="bw_monitum_context"/>
+          <category class="#bw_observation_type" xml:id="bw_monitum_effect"/>
+        </taxonomy>
+        <taxonomy xml:id="h553ca8a6-defa-4cfc-9b20-db731334722c">
+          <category class="#bw_implementation_completeness" xml:id="bw_fully_implemented"/>
+          <category class="#bw_implementation_completeness" xml:id="bw_partially_implemented"/>
+          <category class="#bw_implementation_completeness" xml:id="bw_not_implemented"/>
+        </taxonomy>
+        <taxonomy xml:id="hdb2e3baf-1672-497c-ae0d-43157374e7fb">
+          <!-- Klassifizierung -->
+          <category class="#bw_monitum_classification" label="Korrektur" xml:id="bw_classification_korrektur"/>
+          <category class="#bw_monitum_classification" label="Variante" xml:id="bw_classification_variante"/>
+          <category class="#bw_monitum_classification" label="Textpräzisierung" xml:id="bw_classification_textpraezisierung"/>
+          <category class="#bw_monitum_classification" label="Schriftbildliche Verbesserung" xml:id="bw_classification_schriftbildliche_verbesserung"/>
+          <category class="#bw_monitum_classification" label="Paratextliche Eingriffe" xml:id="bw_classification_paratextliche_eingriffe"/>
+        </taxonomy>
+        <taxonomy xml:id="hbc52095a-aed7-41ba-8e06-075d9f720db3">
+          <!-- Textoperation -->
+          <category class="#bw_monitum_textoperation" label="Einfuegung" xml:id="bw_textoperation_einfuegung"/>
+          <!--oder erweiterung-->
+          <category class="#bw_monitum_textoperation" label="Tilgung" xml:id="bw_textoperation_tilgung"/>
+          <category class="#bw_monitum_textoperation" label="Ersetzung" xml:id="bw_textoperation_ersetzung"/>
+          <category class="#bw_monitum_textoperation" label="Umstellung" xml:id="bw_textoperation_umstellung"/>
+        </taxonomy>
+        <taxonomy xml:id="he89ebc67-b476-4a4f-8867-4e6920ac08d8">
+          <!-- Revisionsobjekt -->
+          <category class="#bw_monitum_object" label="Dynamik" xml:id="bw_object_dynamic"/>
+          <category class="#bw_monitum_object" label="Tonbuchstabe" xml:id="bw_object_pitch"/>
+          <category class="#bw_monitum_object" label="Bogensetzung" xml:id="bw_object_bogensetzung"/>
+          <category class="#bw_monitum_object" label="Rhythmus" xml:id="bw_object_rhythm"/>
+          <category class="#bw_monitum_object" label="Verzierung" xml:id="bw_object_ornament"/>
+          <category class="#bw_monitum_object" label="Oktavierung" xml:id="bw_object_octave"/>
+          <category class="#bw_monitum_object" label="Pedal" xml:id="bw_object_pedal"/>
+          <category class="#bw_monitum_object" label="Artikulation" xml:id="bw_object_articulation"/>
+          <category class="#bw_monitum_object" label="Notenschlüssel" xml:id="bw_object_clef"/>
+          <category class="#bw_monitum_object" label="Arpeggiozeichen" xml:id="bw_object_arpeggio"/>
+          <category class="#bw_monitum_object" label="Pause" xml:id="bw_object_rest"/>
+          <category class="#bw_monitum_object" label="Fingersatz" xml:id="bw_object_fingering"/>
+        </taxonomy>
+        <taxonomy xml:id="hde304446-f7d1-4e42-a524-93d3cc9feb50">
+          <!-- kontextzitat -->
+          <category class="#bw_monitum_kontext" label="korrekt" xml:id="bw_kontext_korrekt"/>
+          <category class="#bw_monitum_kontext" label="unvollständig" xml:id="bw_kontext_unvollstaendig"/>
+          <category class="#bw_monitum_kontext" label="korrumpiert" xml:id="bw_kontext_korrumpiert"/>
+        </taxonomy>
+        <taxonomy xml:id="h8972f55e-e5b0-4109-a309-fc0bcb157b1a">
+          <!-- konkordanz -->
+          <category class="#bw_monitum_konkordanz" label="konkordanz" xml:id="bw_konkordanz"/>
+        </taxonomy>
+        <taxonomy xml:id="hb14dfd76-dbe2-49c6-92fc-7baf211e73b7">
+          <category class="#bw_file_type" xml:id="bw_module3_corpusFile"/>
+          <category class="#bw_file_type" xml:id="bw_module3_textFile"/>
+          <category class="#bw_file_type" xml:id="bw_module3_linkingFile"/>
+          <category class="#bw_file_type" xml:id="bw_module3_documentFile"/>
+          <category class="#bw_file_type" xml:id="bw_document_file"/>
+          <category class="#bw_file_type" xml:id="bw_work_file"/>
+          <category class="#bw_file_type" xml:id="bw_document_reconstruction"/>
+        </taxonomy>
+        <taxonomy xml:id="h08fe92ac-28a5-413f-9ab1-ef45e7e00716">
+          <category class="#bw_module" xml:id="bw_module4"/>
+        </taxonomy>
+        <taxonomy xml:id="h3904d303-e13c-4d2c-bbd5-300036536d6d">
+          <category class="#bw_transcription_type" xml:id="bw_diplomatic_transcript"/>
+          <category class="#bw_transcription_type" xml:id="bw_annotated_transcript"/>
+          <category xml:id="bw_writingZoneBegin"/>
+        </taxonomy>
+      </classDecls>
+    </encodingDesc>
+    <revisionDesc xml:id="x25841ce0-aecc-440c-a327-b46c2a2e4f19">
+      <change isodate="2024-08-05" n="1" resp="#bw_jk" xml:id="cb40e9871-6a94-4db9-9862-3c66a91b92e2">
+        <changeDesc xml:id="x7431f698-de89-4601-ae61-f71fba6a5118">
+          <p xml:id="xcd80d71c-026e-4f2c-850a-b2d3db135885">Imported file into data structure using XSLT.</p>
+        </changeDesc>
+      </change>
+      <change isodate="2026-07-19" n="2" resp="#bw">
+        <changeDesc>
+          <p>
+            File auto-generated using
+            <ptr target="#bw_liquifier"/>
+          </p>
+        </changeDesc>
+      </change>
+    </revisionDesc>
+  </meiHead>
+  <music xml:id="x3e9f7ec1-d25c-427f-bfc6-6dc840179eee" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <body xml:id="x3086bd56-c8b7-46f5-9664-5ed0735d7504">
+      <mdiv xml:id="x1356d013-65ca-4b09-bfd2-75f983499a28">
+        <!--<drafts xml:id="s9f388df1-2c44-4423-97ab-fdebfc77a42d">
+                    <draft xml:id="dd85cfddf-8f54-44dc-95e7-2f634cda8f00" class="#bw_annotated_transcript">
+                        move content of score here when finished with data cleanup
+                    </draft>
+                </drafts>
+                -->
+        <score xml:id="s93e2b99a-9154-4423-be60-e8e6e310f7f1">
+          <scoreDef xml:id="xa19749b5-2719-43b4-ac12-7f81d8b94dcc">
+            <staffGrp bar.thru="true" xml:id="x49b98f5e-fc66-489a-b9db-d468b1677a36">
+              <staffDef lines="5" n="1" xml:id="x614e31a8-1ff5-4cfe-b86d-4704bdf0d653">
+                <keySig xml:id="kf5a15379-e040-49ec-965b-f753aa640fde">
+                  <supplied resp="#bw">
+                    <keyAccid accid="f" pname="b" xml:id="k8d845a48-c98d-46fe-aeb6-868eeec5fce2"/>
+                  </supplied>
+                </keySig>
+                <supplied resp="#bw">
+                  <clef line="2" shape="G" xml:id="cf490f2f5-93d0-4fde-9386-152c464f7c7d"/>
+                </supplied>
+                <supplied resp="#bw">
+                  <meterSig count="2" unit="4" xml:id="m0b03b2b3-38fc-4aa1-8853-23e8d619b641"/>
+                </supplied>
+              </staffDef>
+              <staffDef lines="5" n="2" xml:id="x242558bb-7329-444e-9ddf-cbac92e655be">
+                <keySig xml:id="ke046ed5e-2980-4bfa-9cd4-7303da37b208">
+                  <supplied resp="#bw">
+                    <keyAccid accid="f" pname="b" xml:id="k2a834a3a-df4c-431b-98a9-53a129e3f452"/>
+                  </supplied>
+                </keySig>
+                <supplied resp="#bw">
+                  <clef line="2" shape="G" xml:id="c231dd39b-bea3-48a7-8df5-5e1b553ba777"/>
+                </supplied>
+                <supplied resp="#bw">
+                  <meterSig count="2" unit="4" xml:id="k0b03b2b3-38fc-4aa1-8853-23e8d619b641"/>
+                </supplied>
+              </staffDef>
+            </staffGrp>
+          </scoreDef>
+          <section xml:id="x87cf7e0d-aba9-405b-8a2e-5bf7728691e4">
+            <pb corresp="../Landsberg_8-1.xml#se98e6201-c288-4bdb-a617-d4799e0ee6ae" xml:id="peefb064e-fdec-4bd4-8af9-2e3fbfa6d466"/>
+            <annot class="#bw_writingZoneBegin" corresp="../Landsberg_8-1.xml#g96e4161b-9d21-4b24-91b5-c02202ae7140" xml:id="bd17c9ca2-35ee-4155-a381-38e7f5f53b87"/>
+            <sb corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#sb277e022-ed48-4869-8308-beee72b2fda7" xml:id="sf18d1f3c-9f64-418c-9cec-69f5fd6a4ec9"/>
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d03c446af-c642-4658-9fca-4b472e9888f0" n="1" xml:id="x21261c8c-f1cd-477a-96e6-d8bfd9292377">
+              <staff n="1" xml:id="x4e737273-007e-48a5-a630-e7483cc7e98b">
+                <layer n="1" xml:id="xc9b574fe-eb55-4891-8676-6e751b64df96">
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d30ed9627-7c7b-4527-8107-559173be735a" dur="2" oct="5" pname="a" stem.dir="down" xml:id="x9869432e-07a7-49ea-89e7-e5d199971a2e"/>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="x82e89946-5081-4c35-a767-b4c5de03f4f0">
+                <layer n="1" xml:id="xed16c1d6-fd89-46af-8e4c-db5f6715089b">
+                  <mSpace xml:id="s9185fc19-18c1-4af8-8a94-362f32bac61f"/>
+                </layer>
+              </staff>
+              <tie corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#da6f37929-d8a6-46cf-9627-6cb438a225c8" curvedir="above" endid="#x6eff23dd-9fa8-41a2-b049-0a44954f6e47" startid="#x9869432e-07a7-49ea-89e7-e5d199971a2e" xml:id="xaea5e609-68a5-40a1-9f99-215dff744b6b"/>
+            </measure>
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d9a155445-715e-4861-8749-355b01e1c8e9" n="2" xml:id="x94f1ccd4-ce2f-4efa-b7d3-f41f2a528bda">
+              <staff n="1" xml:id="x5033fcb6-3720-4946-bbd2-dba8bb45bbfd">
+                <layer n="1" xml:id="x091aac77-fce2-42df-9d10-784a1a48662d">
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b4247a5c9-7157-422d-b260-66768e1d83d0 ../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b0f6b2836-90b8-434b-8ab0-66c7c1f1f027" xml:id="x02bd3a93-e3fd-4dd1-8009-1bb26c34b88d">
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#dda567f13-6808-478c-9cf6-5d23e9ca14bc" dur="8" oct="5" pname="a" stem.dir="down" xml:id="x6eff23dd-9fa8-41a2-b049-0a44954f6e47"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d396dff26-8265-4f10-a01b-17d5efce5733" dur="16" oct="5" pname="a" stem.dir="down" xml:id="x558a07ac-d52f-4334-a744-5ae40de6c679">
+                      <dot corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d33284118-f9fb-4979-965d-f0deb6096630" xml:id="d37473457-f0f0-4cc8-9ac9-0155991df081"/>
+                    </note>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#dc197d50c-312c-4d62-86d3-35737c1f7688" dur="32" oct="5" pname="g" stem.dir="down" xml:id="xd07e27ed-e8db-48a3-9e60-36058d9002ee"/>
+                  </beam>
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b47aa2ad4-8ae4-4892-9820-89fadf8e6e29" xml:id="x5dc13c7c-3f4e-49e0-b8dc-b50e478b9e2c">
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d0c601f5f-4778-49f6-83e8-b4f55d935341" dur="8" oct="5" pname="g" stem.dir="down" xml:id="x775a470d-be86-47ab-81cd-0153bb144aa9"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#db54ee57b-9da8-4e26-be1e-5331af51da27" dur="8" oct="5" pname="g" stem.dir="down" xml:id="xb08ba577-9f82-4bf0-b545-20706dfbee73"/>
+                  </beam>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="x211bbfa4-2824-4100-b2bd-462e568f597c">
+                <layer n="1" xml:id="x110c1c60-b24c-4abb-9050-5255cfca102d">
+                  <mSpace xml:id="s7d1507d9-66e1-4292-9e8d-d89e4d945fc5"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#dcd48bc4e-d596-4015-a103-28e2648baf8d" n="3" xml:id="x32c1d199-0109-4bf2-8fa1-724b9a028ce6">
+              <staff n="1" xml:id="xde8ae0a9-d889-41c5-8d7c-cdeec034cbd1">
+                <layer n="1" xml:id="xbf01fac2-c73a-4375-ada1-1fd629a3fd22">
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#dedd74702-58f0-4c9b-9d02-d82b85e52eff" dur="2" oct="5" pname="f" stem.dir="down" xml:id="x5b120e33-46d8-4dba-9bd8-9de42f82da1a"/>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="x0c83bf9b-0945-4be4-ad22-06f4e161c895">
+                <layer n="1" xml:id="x4283dcc2-1425-4175-a0d5-db07b1c4ccbf">
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d7bd17352-44b3-49df-a3a2-a279b34f219b" dur="4" oct="5" pname="d" stem.dir="down" xml:id="xcc7212f6-1c34-4711-ba24-944d8570e800"/>
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#db7d55bc5-df2f-48f0-8470-7f8c5499baae" dur="4" oct="4" pname="a" stem.dir="down" xml:id="x1397a544-d533-4756-8d92-bd796736af79"/>
+                </layer>
+              </staff>
+              <tie corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d500f8c9b-8837-40da-b993-623cd39d840c" curvedir="above" endid="#x85b1071d-2c37-4dba-98b8-5e5b6ac090ee" startid="#x5b120e33-46d8-4dba-9bd8-9de42f82da1a" xml:id="xd3a0d9e7-3d34-4739-bb16-a2f644a3dbd5"/>
+            </measure>
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d77307f68-1a8c-4afd-945f-4039d3bf664d" n="4" xml:id="xc0839bae-9251-45db-a2b5-01a49f2583c4">
+              <staff n="1" xml:id="x88896157-74a3-4779-a8fe-8bf4114d3b24">
+                <layer n="1" xml:id="xa5a0dba4-2633-45fe-b009-65b2ed5e8d95">
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#ba75a70f4-218e-484e-9da0-7a866a66f3f2 ../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b1c5ca53c-0f54-4a72-9223-b70d21195e5a" xml:id="xcba543ad-9fa3-4633-a7fc-0b1f9b40eacb">
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#db1fad09f-0e44-4f3f-b7e5-5d496404b4ae" dur="8" oct="5" pname="f" stem.dir="down" xml:id="x85b1071d-2c37-4dba-98b8-5e5b6ac090ee"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d59866ea5-1c59-482c-841c-3dfe0c002694" dur="16" oct="5" pname="f" stem.dir="down" xml:id="x7f3c55d5-afa5-460c-b6f7-b99ab3b0b90a"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d5f9f2441-8f75-4eb7-8d39-2d5d99e9e614" dur="16" oct="5" pname="e" stem.dir="down" xml:id="x84f10ed8-2517-4748-ac78-5e38614e8e26">
+                      <accid accid="f" corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d7b2007cd-7141-4073-9fc9-a618e7bba136" xml:id="xd252d0f1-93d1-4c2e-8a41-c70a97342b0a"/>
+                    </note>
+                  </beam>
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b23499527-00a9-40b7-b8f8-bb37db2774cf" xml:id="x7f35a7f7-853c-4057-b81c-c059b51a87f3">
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d8a389793-94c7-42f4-9155-6f3b031d68fc" dur="8" oct="5" pname="e" stem.dir="down" xml:id="x98e7a144-708f-46c1-a8b5-fd10d232e1a2">
+                      <supplied resp="#bw">
+                        <accid accid.ges="f" xml:id="x0df9e2fc-ff6a-40bc-81e2-21688e5cba3e"/>
+                      </supplied>
+                    </note>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d21ed95fb-0054-457a-b8d0-c58e5c2f4d79" dur="8" oct="5" pname="e" stem.dir="down" xml:id="xa790102b-9a5a-4a90-ab6e-a99a7e8adb94">
+                      <supplied resp="#bw">
+                        <accid accid.ges="f" xml:id="x47cec012-5453-42b7-b780-1c6cbc66a6ed"/>
+                      </supplied>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="x9b553173-407c-4a04-b79e-f3efd191b785">
+                <layer n="1" xml:id="xcd100c55-b5e7-4394-820a-c7023b880187">
+                  <mSpace xml:id="s434d75c3-fb8b-4b48-b26d-6918b79ac1dd"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d04f623ca-537c-4526-b4e2-41352a801ccf" n="5" xml:id="x08f2bb0c-adea-48c0-bb39-28b628553612">
+              <staff n="1" xml:id="xf2a8e69a-9cce-4070-b8a8-641444e6b167">
+                <layer n="1" xml:id="x9b9b842a-4da9-4e71-945b-1923fdfc45e2">
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#dbe4cd00e-2411-4ca8-b4b1-e922d1145e55" dur="4" oct="6" pname="d" stem.dir="down" xml:id="x546ae892-3e0c-4cc2-9bac-d37ea81fdd53">
+                    <dot corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d7f649965-ca17-468b-bcb3-6e154e9597a2" xml:id="d83dec5df-69a7-48f8-9761-59698b4d28af"/>
+                  </note>
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#ddd032c6d-9498-4c70-90e1-abb7323edcf7" dur="8" oct="6" pname="c" stem.dir="down" xml:id="x07a4b234-d877-4692-82e9-1c71f16c6d4c">
+                    <supplied resp="#bw">
+                      <accid accid="s" xml:id="x0847e3d8-3f64-4090-9a29-9bad9332d65a"/>
+                    </supplied>
+                  </note>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="xdda7afe3-6f59-4908-bc04-fecd6ae0ef3f">
+                <layer n="1" xml:id="xfecba588-e637-4b57-87a0-bf8386065c6e">
+                  <mSpace xml:id="se8779641-04c4-4570-9059-7ab6ec1e2c47"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#dfb5d87a7-0f84-4f04-a257-2b409fec6927" n="6" xml:id="x282ff247-f46d-47fe-bec1-e9aa8bdb4940">
+              <staff n="1" xml:id="x588d667c-39c4-49c2-b570-872b6b67de89">
+                <layer n="1" xml:id="x88905762-aaf0-40a0-9f96-49f29c6c88ec">
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#bbd75d487-fad6-4005-9f6d-ed33c7e1bb3a ../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#baa8e5367-3e44-4ac9-ac22-9b00607d4bac" xml:id="x35fd79bf-cb7b-464d-a965-0c0a737ab8d0">
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d8fccb308-1adb-41f8-a007-807ad48e87c0" dur="16" oct="6" pname="c" stem.dir="down" xml:id="x4c800ae8-eb1b-4bb0-8c08-e671c35fe0f8">
+                      <accid accid="n" corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#defbf83e4-0583-4087-9ab5-5e37928551f0" xml:id="x7f275576-b454-4b71-89bd-9aff7904ad93"/>
+                    </note>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d9d6cd1a5-2637-4ac2-b703-d627521310df" dur="16" oct="5" pname="b" stem.dir="down" xml:id="x9e2f7f96-4a99-4a07-b8ed-32e67c128fe3">
+                      <supplied resp="#bw">
+                        <accid accid.ges="f" xml:id="xd1f8f2a4-3bf2-4c6e-aee2-59e686a493ea"/>
+                      </supplied>
+                    </note>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d9b4439fa-b023-4bbb-8710-50738ad4beb5" dur="16" oct="5" pname="a" stem.dir="down" xml:id="x995b2d4a-68c0-4642-9cd8-8054322706b4"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#df7293630-42a3-4867-b628-96ef4e5ecacd" dur="16" oct="5" pname="g" stem.dir="down" xml:id="x85cead6e-eeb0-4d81-8875-9e6b59efd102"/>
+                  </beam>
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b9634d3c2-b495-4084-a4c6-4c406f93bfac ../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b12ca7f57-717c-450b-9fac-7dc94a396281" xml:id="xd271a147-9b57-4362-beb0-fff8b5f75903">
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d4af8523b-fc97-4b28-8003-34cd5f50eb65" dur="16" oct="5" pname="f" stem.dir="down" xml:id="x8cbf43b4-b2f2-41eb-b9ba-322682d11e4e">
+                      <accid accid="s" corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#ddc8d91b1-83f0-4ddd-8cc0-3a72b2673ada" xml:id="x80356075-559b-4c4b-9c9a-eb0a462560e1"/>
+                    </note>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d2eec345c-b01c-4295-badf-50b9be9fdb6f" dur="16" oct="5" pname="e" stem.dir="down" xml:id="x46daa520-eeba-409d-ad5c-50eb21505249">
+                      <accid accid="f" corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d00cb60ee-de1a-444b-8567-374055df7a9c" xml:id="xf5af2459-1fb6-45c8-9cee-bdaeca124970"/>
+                    </note>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#dc284f2e8-f875-49ee-90a8-0620e69c282b" dur="16" oct="5" pname="d" stem.dir="down" xml:id="x10e3dc53-12eb-451e-a949-635c9e6d9e2a"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d514ea0e1-5e7e-40a7-9dad-5208565ecd5f" dur="16" oct="5" pname="c" stem.dir="down" xml:id="x578c86d4-6bf1-4930-8e46-da0db35a5efb"/>
+                  </beam>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="x290f02c3-c846-438c-ab6c-7a9696269eb6">
+                <layer n="1" xml:id="x4f135ec3-88f6-4fc2-af51-8b54e37758dc">
+                  <mSpace xml:id="s98ddb1e5-cf75-4c8e-bc26-5fb2990975b4"/>
+                </layer>
+              </staff>
+              <dir corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d412913b0-7959-4e11-9396-73a432cf5337" layer="1" place="between" staff="1 2" tstamp="0" xml:id="xf590336a-89c5-43e6-a780-45d068e95720">dur</dir>
+            </measure>
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d3db7952c-f8c6-49f9-85b9-f8e3f5d15812" n="7" xml:id="x9c385097-a720-40de-ab95-a40ac9ddbfd7">
+              <staff n="1" xml:id="x62b69241-bf51-48d0-81fd-6ad39a712e4f">
+                <layer n="1" xml:id="x48e4b88f-d0a0-4699-86fb-8d46a5472684">
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#ba0f42782-3172-4217-b579-6afdb21771a4 ../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b722e9de5-3419-45b4-9978-9b556be0beee" xml:id="x06ef0e3a-541d-49b1-8737-93d73eb72666">
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d89f8105b-2b22-4b0e-9ea9-30ce4e5b369b" dur="16" oct="4" pname="b" stem.dir="down" xml:id="x8f477411-ac80-4c76-baaa-b2ab85df7fd4">
+                      <supplied resp="#bw">
+                        <accid accid.ges="f" xml:id="x0bf47416-9df6-45c2-a1eb-910c99c4ef6a"/>
+                      </supplied>
+                    </note>
+                    <choice>
+                      <orig>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d8053005a-b310-4097-89a7-1a25739770d5" dur="16" oct="4" pname="g" stem.dir="down" xml:id="oee8dc1f6-306e-420e-8b3d-b86bb4405153"/>
+                      </orig>
+                      <reg resp="#bw">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d8053005a-b310-4097-89a7-1a25739770d5" dur="16" oct="4" pname="a" stem.dir="down" xml:id="xa61772d6-7b9f-4172-a215-1f8c3bcdb748"/>
+                      </reg>
+                    </choice>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d251ee05a-db44-4d6e-946e-516693fad0dc" dur="16" oct="4" pname="g" stem.dir="down" xml:id="x2ee92bff-1f51-4f86-b561-43b9b58f2198"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#da900ed0f-c001-49cc-afb7-c62ea50142c9" dur="16" oct="4" pname="f" stem.dir="down" xml:id="x5a5f7fd5-cfdc-41c4-8dc5-a408485de6f0"/>
+                  </beam>
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#b83851834-cb06-4261-afff-5b7854967e60 ../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#bc47d227d-cfc0-4977-8df6-75a425f51a6a" xml:id="x7241c975-1970-4daf-af47-26f5080b0431">
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#df15810a2-5901-446f-bd59-6e787c99572a" dur="16" oct="4" pname="e" stem.dir="down" xml:id="x0a3f4f54-a975-4fd6-8076-af27e2975ce2">
+                      <accid accid="n" corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d7602138e-068c-4f4b-b7cf-40c5445189e4" xml:id="x66f68957-067c-4a8e-b882-b936f8d16f06"/>
+                    </note>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d86a35e63-4ed1-4bc7-9924-16b5313991f5" dur="16" oct="4" pname="d" stem.dir="down" xml:id="xb44ed236-1e4c-4ad8-857d-8bdd49d3d1ab"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#de4fdd3e8-6782-48cd-a53f-4e06ca433d3c" dur="16" oct="4" pname="c" stem.dir="down" xml:id="xa280c0f7-659b-4728-940c-39bcb8806d57"/>
+                    <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d1a7dffa0-3338-474b-90a7-62df2970d93b" dur="16" oct="3" pname="b" stem.dir="down" xml:id="xee9e41d2-e23e-4404-92a3-932724a3b531">
+                      <supplied resp="#bw">
+                        <accid accid.ges="f" xml:id="x3c395227-99ea-419e-a1ba-51472e0714e3"/>
+                      </supplied>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="xf27a00b5-2728-428e-9cb4-ae82f19ff4ed">
+                <layer n="1" xml:id="xd64c24a5-f9cf-4e21-978f-e3f3aeb7bb4b">
+                  <mSpace xml:id="s93cac607-4c4c-439c-a1be-2bf3e386a3f6"/>
+                </layer>
+              </staff>
+            </measure>
+            <measure n="8" xml:id="xaf2f9324-c474-46e6-af99-ab520d848daf">
+              <staff n="1" xml:id="x1241d848-0cbc-4280-aee6-9f0da69419a4">
+                <layer n="1" xml:id="x2a5bc0c8-a8d8-43a6-ae2c-c33ba1f0d24f">
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#df74794b8-4971-4a7e-8e4a-55ea9a65e875" dur="8" oct="3" pname="a" stem.dir="down" xml:id="xc9f73d83-40e7-4ee4-90d6-07f62556986d"/>
+                  <choice>
+                    <orig>
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d001dce06-a146-4a02-881e-79e73b3b659b" dur="8" oct="5" pname="g" stem.dir="down" xml:id="o60f7e26d-fbd3-4370-9c45-9874fdb0662b"/>
+                    </orig>
+                    <reg resp="#bw">
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d001dce06-a146-4a02-881e-79e73b3b659b" dur="8" oct="5" pname="f" stem.dir="down" xml:id="x3d70c090-6485-4ac0-b405-3b1d7f16ee99"/>
+                    </reg>
+                  </choice>
+                  <rest corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d94bcf2a9-ab4b-4a1f-92eb-75b8477c0c51" dur="8" xml:id="xdf30a5d9-c0e3-4e54-8495-405239910bdd"/>
+                  <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz05_dt.xml#d2e1a5b1f-6add-4489-ace4-c93c4c86ab2f" dur="8" oct="5" pname="a" stem.dir="down" xml:id="x0cd7046b-6a99-49ae-8035-1cec109453a3"/>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="xf382e27f-edbd-403f-ab5a-81ea9d61a63a">
+                <layer n="1" xml:id="xe371c36b-68eb-4459-9c26-afdf5653ad07">
+                  <mSpace xml:id="sdf9a1ff8-1bd7-442e-ba5c-15c5134255a0"/>
+                </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
