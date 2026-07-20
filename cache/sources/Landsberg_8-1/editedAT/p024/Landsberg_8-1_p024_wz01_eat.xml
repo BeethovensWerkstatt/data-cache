@@ -144,7 +144,7 @@
           <p xml:id="x12d72b9c-dc46-4261-a1d4-18e25bca3a3b">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -466,7 +466,7 @@
                   <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz01_dt.xml#dcd99e05a-747c-40ea-be9d-ab9e8c7c4271" dur="4" oct="5" pname="d" stem.dir="down" xml:id="xf2b8f2b2-49dc-4a20-b6c3-d69bdf3b19a6"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz01_dt.xml#d8fc6c940-2942-4007-98f6-8896c20de2b0" dur="4" oct="5" pname="c" stem.dir="down" xml:id="o5b7f9363-fd91-4712-b542-00cab3ddb64d"/>
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz01_dt.xml#d8fc6c940-2942-4007-98f6-8896c20de2b0" dur="4" oct="5" pname="c" stem.dir="down" xml:id="o461b5e2a-d1ee-4262-af6b-f46d32df11c3"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz01_dt.xml#d8fc6c940-2942-4007-98f6-8896c20de2b0" dur="4" oct="5" pname="d" stem.dir="down" xml:id="xa0fb4778-0459-47a5-917f-f2ac79534124"/>

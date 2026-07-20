@@ -144,7 +144,7 @@
           <p xml:id="xbdd7f57f-ca4d-4775-a514-769c2b263e69">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -240,7 +240,7 @@
                   </note>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz04_dt.xml#dafb3b711-4bb5-4d34-9e4f-1e7e98bbd9b0" dur="2" oct="4" pname="g" stem.dir="down" xml:id="oa6d93ef3-71c3-4069-9b7c-e58ea051b7c3"/>
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz04_dt.xml#dafb3b711-4bb5-4d34-9e4f-1e7e98bbd9b0" dur="2" oct="4" pname="g" stem.dir="down" xml:id="oddc8dfef-1a40-4902-b0db-4920722c2f18"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz04_dt.xml#dafb3b711-4bb5-4d34-9e4f-1e7e98bbd9b0" dur="2" oct="4" pname="f" stem.dir="down" xml:id="xde625ab2-6b76-4cb2-9d5a-1cca61ef74f2"/>
@@ -464,7 +464,7 @@
                   <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz04_dt.xml#d3065fb61-5c46-46e8-a328-5f05f83c06b7" dur="4" oct="5" pname="c" stem.dir="up" xml:id="x454006f4-5cb8-4e95-ba8a-7f1ac498fd8a"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz04_dt.xml#d1dfb79af-d5ec-451f-9796-e7da050a8ae0" dur="4" oct="4" pname="d" stem.dir="up" xml:id="oedd704da-7565-4fa8-bc5c-fde069ef4f24"/>
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz04_dt.xml#d1dfb79af-d5ec-451f-9796-e7da050a8ae0" dur="4" oct="4" pname="d" stem.dir="up" xml:id="oe6f62f66-71ac-42fd-9e72-e773ea18fa86"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz04_dt.xml#d1dfb79af-d5ec-451f-9796-e7da050a8ae0" dur="4" oct="4" pname="f" stem.dir="up" xml:id="xa413fefa-6b99-4b29-a8d0-3a23620b87f2"/>

@@ -146,7 +146,7 @@
           <p xml:id="x39575e5a-5def-44af-aab4-e2a5c3c86c53">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -236,7 +236,7 @@
                 <layer n="1" xml:id="xffdffce7-f93d-4435-a706-3b26d3fc0a58">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d3d0e9a24-ced9-4df8-b5c1-f331ea4213db" dur="4" oct="3" pname="e" stem.dir="down" xml:id="o1be99793-a2d5-44f7-a075-524996dd1687"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d3d0e9a24-ced9-4df8-b5c1-f331ea4213db" dur="4" oct="3" pname="e" stem.dir="down" xml:id="od2570d7d-a177-4b24-b003-ab32b8d02f1f"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d3d0e9a24-ced9-4df8-b5c1-f331ea4213db" dur="4" oct="1" pname="g" stem.dir="down" xml:id="x821ce605-58ec-4886-982f-f696f81dfa5d"/>
@@ -245,7 +245,7 @@
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d4e2d7c60-b05a-4d2a-b9c7-b5d5fb0e9e58 ../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#da7741489-25d1-4a8a-90fd-6f31a4315b95" xml:id="xd0a2a4d4-6b51-4432-a82f-19e6528a4461">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d77fd3c5f-bd45-4d14-9eb4-9bff0a44599f" dur="16" grace="acc" oct="3" pname="d" stem.dir="up" xml:id="o71f9ea08-eb1a-4a14-9b10-b581db1d75e7">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d77fd3c5f-bd45-4d14-9eb4-9bff0a44599f" dur="16" grace="acc" oct="3" pname="d" stem.dir="up" xml:id="o4a94f444-c4f6-4e77-aa4e-b48797b70904">
                           <accid accid="s" corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d5f89da39-6a54-4e6f-a2fc-5bb77add4df2" xml:id="xca671502-bf6d-4258-88fd-0d210c2053b2"/>
                         </note>
                       </orig>
@@ -257,7 +257,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d260c5cf5-0e01-44d6-8b01-832cb5a8db18" dur="16" grace="acc" oct="3" pname="e" stem.dir="up" xml:id="o395d38b3-f455-4117-bccf-7b9ca230cbbf"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d260c5cf5-0e01-44d6-8b01-832cb5a8db18" dur="16" grace="acc" oct="3" pname="e" stem.dir="up" xml:id="o90d07bf7-e902-4f81-9315-c154e5ec2679"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p020_wz11_dt.xml#d260c5cf5-0e01-44d6-8b01-832cb5a8db18" dur="16" grace="acc" oct="1" pname="g" stem.dir="up" xml:id="x22e03054-cf00-491a-b6f3-dd3bc66ec3fa"/>

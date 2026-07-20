@@ -144,7 +144,7 @@
           <p xml:id="x484e9d47-3436-4820-a19c-299fb2608e0c">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -217,7 +217,7 @@
                   </note>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz02_dt.xml#d289bdd86-88fe-43dd-818e-5c4ad6e6bcbf" dur="4" oct="5" pname="f" stem.dir="down" xml:id="oa5b5649a-77e8-4775-9dfd-ff1d1cbc89f5">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz02_dt.xml#d289bdd86-88fe-43dd-818e-5c4ad6e6bcbf" dur="4" oct="5" pname="f" stem.dir="down" xml:id="o8a361f0e-d2be-49d9-892c-f5c5f01b7c4e">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="xfed04d30-799b-4739-add7-1c522f7072c7"/>
                         </supplied>
@@ -233,7 +233,7 @@
                   </choice>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz02_dt.xml#ded6308a3-2a9a-4c53-94d8-cef98596c9ab" dur="4" oct="5" pname="f" stem.dir="down" xml:id="od17d402d-f544-4391-b548-29409e16af8a">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz02_dt.xml#ded6308a3-2a9a-4c53-94d8-cef98596c9ab" dur="4" oct="5" pname="f" stem.dir="down" xml:id="o7e085501-1e38-4fac-b015-c022a8a93560">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="x63b3bf9d-b08e-493d-a7a0-9900d07a03c7"/>
                         </supplied>

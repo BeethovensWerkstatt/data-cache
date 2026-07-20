@@ -144,7 +144,7 @@
           <p xml:id="xca7d039f-b431-470a-b91a-98cc92994fe4">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -193,7 +193,7 @@
                 <layer n="1" xml:id="x45c418ae-44f2-4027-906f-6d9ba2c6eee1">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p023_wz04_dt.xml#d68d2dd40-17d1-4d33-b730-39127e3ec299" dur="4" oct="5" pname="e" stem.dir="down" xml:id="o96995d44-7c16-4350-8c90-ce21d61787e7">
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p023_wz04_dt.xml#d68d2dd40-17d1-4d33-b730-39127e3ec299" dur="4" oct="5" pname="e" stem.dir="down" xml:id="o8cedae19-a34e-42bc-97cc-922e317efb08">
                         <accid accid="s" corresp="../diplomaticTranscripts/Landsberg_8-1_p023_wz04_dt.xml#df01eb299-a247-4989-b357-0d5f4df0ebd6" xml:id="x47cd9531-8520-4e4a-bfa8-7b2c218c1bb0"/>
                       </note>
                     </orig>

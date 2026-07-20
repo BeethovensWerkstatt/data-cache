@@ -144,7 +144,7 @@
           <p xml:id="x1f6d0ebc-31da-4980-9dd1-518942274933">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -3869,7 +3869,7 @@
                     <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz02_dt.xml#dc835c421-8992-48ab-b314-3c859f07f9c6" dur="32" oct="4" pname="d" stem.dir="down" xml:id="x34a05a21-1c31-4bb4-9e0d-562ed21f79d9"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz02_dt.xml#d629184e1-7a2e-4e1c-8b03-a2942d508800" dur="32" oct="4" pname="f" stem.dir="down" xml:id="ob0b4570c-cd41-4e02-9fed-97e82ff5978c">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz02_dt.xml#d629184e1-7a2e-4e1c-8b03-a2942d508800" dur="32" oct="4" pname="f" stem.dir="down" xml:id="o76addc00-2da8-4e4e-9812-5c5428b8150e">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="x74cef8da-87bc-426c-9020-7f5cab46782e"/>
                           </supplied>
@@ -3940,7 +3940,7 @@
                     <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz02_dt.xml#d3abd1f5e-a8f0-4a4c-b24d-dca0759678de" dur="32" oct="5" pname="a" stem.dir="down" xml:id="x5ee9b3e3-566d-43f6-adb3-dd81c8ba3e2c"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz02_dt.xml#db46eb2db-d60f-4539-8aab-b68f380de277" dur="32" oct="5" pname="a" stem.dir="down" xml:id="o676295af-5f4a-4080-8028-eb9d531f55e3"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz02_dt.xml#db46eb2db-d60f-4539-8aab-b68f380de277" dur="32" oct="5" pname="a" stem.dir="down" xml:id="of8afbdeb-6d27-40ed-835e-e4f0ca5a6920"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p024_wz02_dt.xml#db46eb2db-d60f-4539-8aab-b68f380de277" dur="32" oct="6" pname="c" stem.dir="down" xml:id="x2c3e80e4-be97-43b6-8975-73c3febe5f73"/>

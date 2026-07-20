@@ -144,7 +144,7 @@
           <p xml:id="x35e5909f-d4e3-42c6-915b-c0eb0936665f">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -244,7 +244,7 @@
                     <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p027_wz04_dt.xml#d8104bb68-e008-482f-89be-c3775ed3e1c6" dur="8" oct="3" pname="c" stem.dir="down" xml:id="x0e954d5f-2fe2-47e0-afda-b5e9ed77bcbf"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p027_wz04_dt.xml#de178b6ea-b1e3-4224-8113-c824ab447eff" dur="16" oct="2" pname="g" stem.dir="down" xml:id="od0de69f0-9631-4820-99b7-e605852946f5">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p027_wz04_dt.xml#de178b6ea-b1e3-4224-8113-c824ab447eff" dur="16" oct="2" pname="g" stem.dir="down" xml:id="o05b54ea2-ce0c-4eb3-ac8d-d5975f13c9a4">
                           <accid accid="s" corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p027_wz04_dt.xml#d5bcf4bd2-7d34-467c-83ca-1c16668fb48a" xml:id="xdf9ceb5e-bc9c-4e4b-953e-b1b956803f57"/>
                         </note>
                       </orig>
@@ -256,7 +256,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p027_wz04_dt.xml#d4f26b380-b6c2-4cb7-85f4-be59113be3e5" dur="16" oct="2" pname="a" stem.dir="down" xml:id="o8108b535-ca5b-4140-899b-1bc47ba3fc4b">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p027_wz04_dt.xml#d4f26b380-b6c2-4cb7-85f4-be59113be3e5" dur="16" oct="2" pname="a" stem.dir="down" xml:id="o4b89e452-07e8-4235-9418-746658444283">
                           <supplied resp="#bw">
                             <accid accid.ges="s" xml:id="x5ce1dcf1-d2a6-454d-870b-a243eab4588c"/>
                           </supplied>

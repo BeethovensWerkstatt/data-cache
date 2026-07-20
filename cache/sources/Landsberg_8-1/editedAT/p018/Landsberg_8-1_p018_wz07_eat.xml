@@ -144,7 +144,7 @@
           <p xml:id="x3fc2d696-268c-4f01-aaee-e2f06a94d81c">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -266,7 +266,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#ba610c5a8-2fae-4822-9075-b71a442ec874" xml:id="x3d15f027-9bb4-4eaa-bf76-5fd93519d2e4">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d469ad4b3-6ed3-4c1d-aab1-160fa8a1aefd" dur="16" oct="5" pname="c" stem.dir="down" xml:id="o03b6b5f8-3008-4950-be9f-a680ed8f582e"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d469ad4b3-6ed3-4c1d-aab1-160fa8a1aefd" dur="16" oct="5" pname="c" stem.dir="down" xml:id="ofd0c8890-f38e-448d-ab28-10ba280c913d"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d469ad4b3-6ed3-4c1d-aab1-160fa8a1aefd" dur="16" oct="5" pname="d" stem.dir="down" xml:id="x2f15a44a-4e40-47e7-b44f-412603b97c97"/>
@@ -329,7 +329,7 @@
                     <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d67394046-34e8-4e71-a869-0086f559419e" dur="8" oct="5" pname="g" stem.dir="down" xml:id="x49762cc4-147d-4f60-bce5-d15f63bcef43"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d3fa8280d-7a5c-4724-a192-2b9f4849ba9b" dur="8" oct="4" pname="a" stem.dir="down" xml:id="o3f7e7bf2-91ce-48ee-9611-e9882bfb90dd">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d3fa8280d-7a5c-4724-a192-2b9f4849ba9b" dur="8" oct="4" pname="a" stem.dir="down" xml:id="o4cac61c2-cb4a-4b64-b403-21c0494af611">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="x5efe201a-ca68-4c5c-9a89-445508eaf592"/>
                           </supplied>

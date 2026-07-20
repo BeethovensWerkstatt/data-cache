@@ -144,7 +144,7 @@
           <p xml:id="x8926ce28-0362-4a8e-b3d8-25baa6e19f77">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -224,7 +224,7 @@
                   <beam corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#bd6b55d84-e2c9-4290-bc63-1d9b1b556fe7 ../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#b1176e192-de39-4c5e-89e4-91b214450ff6 ../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#b597f440d-4dfe-4c45-a9ed-3b1822b5c223" xml:id="xb2398f73-6e5b-4f73-a3a1-19b5e9f3dc79">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#d56d59091-07f5-4fc5-b5a9-c8b4b0b57281" dur="16" oct="4" pname="g" stem.dir="up" xml:id="o56985551-dd96-4fa2-ab55-341f14d00791">
+                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#d56d59091-07f5-4fc5-b5a9-c8b4b0b57281" dur="16" oct="4" pname="g" stem.dir="up" xml:id="od4d8cfe2-ff9b-4a34-b31c-9c8111de45c4">
                           <dot corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#d504ee25e-d54e-4533-a978-a8c1cb0b65b2" xml:id="d58d3a95e-aa41-415e-a132-fc4d79733a3b"/>
                         </note>
                       </orig>
@@ -236,7 +236,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#dfc473d04-fbba-4f44-bb34-818ed6a2ac1c" dur="32" oct="4" pname="a" stem.dir="up" xml:id="oaade5e86-a498-46a3-8e2b-b0163379f3b4"/>
+                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#dfc473d04-fbba-4f44-bb34-818ed6a2ac1c" dur="32" oct="4" pname="a" stem.dir="up" xml:id="o87c19da1-dc9d-46ba-9697-5534db3b3479"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#dfc473d04-fbba-4f44-bb34-818ed6a2ac1c" dur="32" oct="4" pname="f" stem.dir="up" xml:id="xafca3bee-7b35-4e74-bcc5-7a806c2670d2"/>
@@ -280,7 +280,7 @@
                     </note>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#d471fc02b-db86-4fd9-aa46-e0e7bd74b7c3" dur="32" oct="4" pname="g" stem.dir="up" xml:id="ocbbd2197-9482-4d1b-8be9-ebdea87452ff"/>
+                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#d471fc02b-db86-4fd9-aa46-e0e7bd74b7c3" dur="32" oct="4" pname="g" stem.dir="up" xml:id="odad31765-62d2-412c-9dde-621ce7a00ea5"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz02_dt.xml#d471fc02b-db86-4fd9-aa46-e0e7bd74b7c3" dur="32" oct="4" pname="f" stem.dir="up" xml:id="x3777d3f4-0302-4525-b14f-ec193a4ca4ad"/>

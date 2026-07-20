@@ -144,7 +144,7 @@
           <p xml:id="x6547998c-2cc8-4aad-869a-c12613fd57b4">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -269,7 +269,7 @@
                     </note>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p034_wz04_dt.xml#db9a9965a-f0d7-4f9d-9e3f-0145718c5ce0" dur="16" oct="5" pname="e" stem.dir="down" xml:id="oade453ad-6799-46f7-8e1e-b5927bb2f8a2">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p034_wz04_dt.xml#db9a9965a-f0d7-4f9d-9e3f-0145718c5ce0" dur="16" oct="5" pname="e" stem.dir="down" xml:id="o5d5a2f18-eddb-4460-bfb3-7c346131cd1f">
                           <dot corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p034_wz04_dt.xml#d178caaf2-7bec-436b-8f90-8075b221a58c" xml:id="da8e6d94e-e987-4962-a0c9-6896e3ea4e75"/>
                         </note>
                       </orig>
@@ -281,7 +281,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p034_wz04_dt.xml#d5a215151-f1b5-4fc5-adb9-4258daf75a15" dur="32" oct="5" pname="e" stem.dir="down" xml:id="o8ef9b773-27b6-41a2-8ba1-15bb82199c2f"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p034_wz04_dt.xml#d5a215151-f1b5-4fc5-adb9-4258daf75a15" dur="32" oct="5" pname="e" stem.dir="down" xml:id="obb60b5e4-d6ff-4223-a7fe-3a65b2d69b3f"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p034_wz04_dt.xml#d5a215151-f1b5-4fc5-adb9-4258daf75a15" dur="32" oct="5" pname="f" stem.dir="down" xml:id="x310cfed7-b03a-4a32-b9cf-d082195c10f5"/>

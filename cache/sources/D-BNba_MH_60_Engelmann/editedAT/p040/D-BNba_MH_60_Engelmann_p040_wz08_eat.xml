@@ -144,7 +144,7 @@
           <p xml:id="x60c421a8-826f-4731-9372-c6298368fd17">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -270,7 +270,7 @@
                 <layer n="1" xml:id="xa079f440-7414-45fb-9a49-57975dcb4af1">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p040_wz08_dt.xml#d6b95a5fc-c940-4d2f-9948-9a25123e5ddc" dur="4" oct="4" pname="e" stem.dir="down" xml:id="of8e7026b-c5d4-4dfc-b92e-98d9426347bf"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p040_wz08_dt.xml#d6b95a5fc-c940-4d2f-9948-9a25123e5ddc" dur="4" oct="4" pname="e" stem.dir="down" xml:id="o4493647e-c650-4e55-befe-c4674fbdc783"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p040_wz08_dt.xml#d6b95a5fc-c940-4d2f-9948-9a25123e5ddc" dur="4" oct="4" pname="f" stem.dir="down" xml:id="xb30e7983-cd80-47f4-b754-0de0a37353b7"/>

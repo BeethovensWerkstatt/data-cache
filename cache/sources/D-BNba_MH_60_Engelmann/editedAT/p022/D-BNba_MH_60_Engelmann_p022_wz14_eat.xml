@@ -144,7 +144,7 @@
           <p xml:id="x4e5e3a61-2283-41cf-919e-575a9055f5ae">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -207,7 +207,7 @@
                       <chord corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p022_wz14_dt.xml#d62dc98b1-b9df-4f97-bcc8-97615752b12e" dur="16" stem.dir="up" xml:id="x9a0ac650-602d-42fb-9bd3-a93645640844">
                         <choice>
                           <orig>
-                            <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p022_wz14_dt.xml#d0249db02-0bef-46d1-bf89-532b5a842ae6" dur="16" oct="5" pname="d" staff="2" xml:id="oc374c67d-154a-4eb3-81af-7c591ff2a4a8"/>
+                            <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p022_wz14_dt.xml#d0249db02-0bef-46d1-bf89-532b5a842ae6" dur="16" oct="5" pname="d" staff="2" xml:id="ofa59f882-951d-4ed0-a027-b5b004ae1265"/>
                           </orig>
                           <reg resp="#bw">
                             <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p022_wz14_dt.xml#d0249db02-0bef-46d1-bf89-532b5a842ae6" dur="16" oct="3" pname="f" staff="2" xml:id="x68cd798a-2490-4c86-91b8-5c9b158e7f46"/>
@@ -215,7 +215,7 @@
                         </choice>
                         <choice>
                           <orig>
-                            <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p022_wz14_dt.xml#d5fa26a34-5745-4401-8f6b-f9cf0ccdbb1a" dur="16" oct="5" pname="f" staff="2" xml:id="o4360ba4b-6d8a-4ed4-a055-27f60af7b553">
+                            <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p022_wz14_dt.xml#d5fa26a34-5745-4401-8f6b-f9cf0ccdbb1a" dur="16" oct="5" pname="f" staff="2" xml:id="obb0d2a34-9fa8-4b10-ad05-430f975b78b3">
                               <accid accid="f" corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p022_wz14_dt.xml#d1dfa63c0-2252-4f6c-a08f-5c98a9a013ab" xml:id="xd757fe47-939f-497c-af89-9fef00555abc"/>
                             </note>
                           </orig>

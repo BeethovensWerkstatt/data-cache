@@ -144,7 +144,7 @@
           <p xml:id="x705c18de-2ad3-4b8b-aa36-66ca8ec76ff8">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -214,7 +214,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#b981c4ebd-8459-4ebf-8afe-f5f85eb2fe6c ../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#bc3e72594-b873-4e9e-a419-0d7359d6f312" xml:id="xd2b67d95-0238-46e5-89c5-f72579952324">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d5bbb8797-616b-4f1f-b0a7-cc5dbb6ff170" dur="16" oct="3" pname="b" stem.dir="up" xml:id="off613d59-ff71-4486-9d8b-4fd0d0465dd0"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d5bbb8797-616b-4f1f-b0a7-cc5dbb6ff170" dur="16" oct="3" pname="b" stem.dir="up" xml:id="o8e140829-6783-4af2-b5b4-b21cc0e51901"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d5bbb8797-616b-4f1f-b0a7-cc5dbb6ff170" dur="16" oct="3" pname="e" stem.dir="up" xml:id="x86b4feed-62c7-49cb-b8e2-9c959f4a2531"/>
@@ -222,7 +222,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#dbe4bcee2-7f44-4615-ba59-8536f2c8bee2" dur="16" oct="3" pname="a" stem.dir="up" xml:id="o66a0ac8d-4b11-4fa5-b29a-a6f025e29072">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#dbe4bcee2-7f44-4615-ba59-8536f2c8bee2" dur="16" oct="3" pname="a" stem.dir="up" xml:id="o6af01fd4-1048-4acc-8c1e-c3db6aa0d9c9">
                           <accid accid="s" corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz05_dt.xml#d9830d341-dcd2-4fdb-a6b2-6bd09ba42516" xml:id="x81123cb7-b629-4a61-899f-9683ad382008"/>
                         </note>
                       </orig>

@@ -144,7 +144,7 @@
           <p xml:id="x9700cd0a-3ec7-4f00-9ba5-f50c06d80bbf">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -333,7 +333,7 @@
                   <note corresp="../diplomaticTranscripts/Landsberg_8-1_p014_wz01_dt.xml#d78732494-4d8d-42f4-8a4a-ecd9dffa529b" dur="4" oct="4" pname="b" stem.dir="down" xml:id="x341734b1-bf06-4edf-ae87-b015bcbddf37"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p014_wz01_dt.xml#dbb83c2aa-e5b1-48e3-b1af-65ed60ebc94a" dur="4" oct="5" pname="c" stem.dir="down" xml:id="oae452fc5-47f3-4e18-bd7d-49b649fecf52">
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p014_wz01_dt.xml#dbb83c2aa-e5b1-48e3-b1af-65ed60ebc94a" dur="4" oct="5" pname="c" stem.dir="down" xml:id="oee436f87-07bf-467b-94e5-e931cbfc9773">
                         <verse n="1" xml:id="x3d834e93-448f-4bef-9358-380d1644b9cd">
                           <syl corresp="../diplomaticTranscripts/Landsberg_8-1_p014_wz01_dt.xml#d46d1696a-4bd2-4517-8ae9-c3615d565c52" place="below" wordpos="t" xml:id="x034c205e-3362-40a4-91a2-5fd4f2b41c31">gnus</syl>
                         </verse>

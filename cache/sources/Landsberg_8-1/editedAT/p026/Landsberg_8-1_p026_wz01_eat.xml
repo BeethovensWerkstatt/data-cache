@@ -144,7 +144,7 @@
           <p xml:id="xacf102b0-2561-48ec-9c87-efb07427646a">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-19" n="2" resp="#bw">
+      <change isodate="2026-07-20" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -1572,7 +1572,7 @@
                     <note corresp="../diplomaticTranscripts/Landsberg_8-1_p026_wz01_dt.xml#d058228af-fa75-4520-831a-4122fb6b1325" dur="16" oct="5" pname="f" stem.dir="down" xml:id="x338b11ce-dd75-4f7f-908e-25e8676551b3"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p026_wz01_dt.xml#d745e76c8-c05d-4b4c-90af-5249c41eb502" dur="16" oct="5" pname="d" stem.dir="down" xml:id="o65d05b86-53a6-420f-ae79-8f5ed5963b73"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p026_wz01_dt.xml#d745e76c8-c05d-4b4c-90af-5249c41eb502" dur="16" oct="5" pname="d" stem.dir="down" xml:id="of09b4b09-c030-4849-8db4-a33fdd562a9c"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p026_wz01_dt.xml#d745e76c8-c05d-4b4c-90af-5249c41eb502" dur="16" oct="5" pname="e" stem.dir="down" xml:id="x7a25bdae-bc56-47b1-acc5-c33d5527534a"/>
@@ -1601,7 +1601,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p026_wz01_dt.xml#b4b8609bc-934d-4d5c-b8b2-04998851eb82" xml:id="xa530f069-51ab-4514-91fb-b5dab9a3672c">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p026_wz01_dt.xml#de12bda09-a1b2-47a5-b4e9-d8d345b738bf" dur="16" oct="4" pname="g" stem.dir="down" xml:id="o13482e1c-912e-4e4a-9d7d-34f5dd8a53eb">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p026_wz01_dt.xml#de12bda09-a1b2-47a5-b4e9-d8d345b738bf" dur="16" oct="4" pname="g" stem.dir="down" xml:id="o52cbc413-ced7-43c8-9ced-e9ced7a01e5d">
                           <accid accid="f" corresp="../diplomaticTranscripts/Landsberg_8-1_p026_wz01_dt.xml#dcc7ddeec-6719-438a-903f-c96bdfa3c696" xml:id="x2f96cb3b-cf75-43aa-894c-ad479b929832"/>
                         </note>
                       </orig>
