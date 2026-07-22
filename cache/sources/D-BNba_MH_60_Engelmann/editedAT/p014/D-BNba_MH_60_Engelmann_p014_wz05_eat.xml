@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x37e64374-d266-4ba0-9f9c-fdffd56ce87b">
           <name xml:id="xc05e1a76-9cda-4fab-9326-0b772c765eda">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="0c0dbccadb13ece32bb264638bb843d6646fcd3e" xml:id="bw_liquifier">
+        <application version="06fb72a3768dd0c40b92c04a33e49ed9551d0b0f" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x27b86d5f-8dfc-4dca-9485-c5920859db2f">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-20" n="2" resp="#bw">
+      <change isodate="2026-07-22" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using

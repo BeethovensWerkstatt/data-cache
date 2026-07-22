@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xaa3ce6ef-faac-4c92-b3b5-8ebbac8b5cc7">
           <name xml:id="x9b5b8aae-21cc-4486-b816-be2466d6e5b0">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="0c0dbccadb13ece32bb264638bb843d6646fcd3e" xml:id="bw_liquifier">
+        <application version="06fb72a3768dd0c40b92c04a33e49ed9551d0b0f" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x8dea2172-b358-4cb7-9de0-42a698e508bb">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-20" n="2" resp="#bw">
+      <change isodate="2026-07-22" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -283,7 +283,7 @@
                     <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz03_dt.xml#d2150abaf-c94d-40a2-9e73-6e2a1eb5a7bd" dur="32" oct="4" pname="b" stem.dir="down" xml:id="x7e3fbca7-d0e6-4500-9bf1-9a2e6f371660"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz03_dt.xml#d81d7c463-ad96-457b-a5d2-e2a059376394" dur="32" oct="4" pname="g" stem.dir="down" xml:id="od370858d-021e-4df2-9065-cf4e677fd7e0">
+                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz03_dt.xml#d81d7c463-ad96-457b-a5d2-e2a059376394" dur="32" oct="4" pname="g" stem.dir="down" xml:id="o09b9abab-ac87-47a5-be57-fa846c6d09ac">
                           <accid accid="s" corresp="../diplomaticTranscripts/F-Pn_Ms_96_p002_wz03_dt.xml#dfe2e4043-a290-4814-a9cd-bca45ced515a" xml:id="x9b25ee00-2adb-4965-9949-f509f684cef1"/>
                         </note>
                       </orig>

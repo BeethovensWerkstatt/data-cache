@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x80e9f566-2089-4f96-97d2-4b1a180bba60">
           <name xml:id="x90d3a8c3-db65-46cb-8480-dba7f68a961a">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="0c0dbccadb13ece32bb264638bb843d6646fcd3e" xml:id="bw_liquifier">
+        <application version="06fb72a3768dd0c40b92c04a33e49ed9551d0b0f" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x355f8dc6-dfc9-4a8e-a714-65494b9374ed">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-20" n="2" resp="#bw">
+      <change isodate="2026-07-22" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -279,7 +279,7 @@
                     <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p003_wz01_dt.xml#dd771009c-06b3-4524-8b19-31c23fc4a6ce" dur="32" oct="5" pname="g" stem.dir="down" xml:id="x94da8810-242e-4ef4-b0a7-bf52826bc368"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p003_wz01_dt.xml#d0ded0817-370b-4041-a04b-f60026a1c852" dur="32" oct="5" pname="g" stem.dir="down" xml:id="o701db4c4-8211-4947-8fde-e472a70e2fda"/>
+                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p003_wz01_dt.xml#d0ded0817-370b-4041-a04b-f60026a1c852" dur="32" oct="5" pname="g" stem.dir="down" xml:id="of0586c94-503e-4fda-b1db-a9bda2717f9f"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p003_wz01_dt.xml#d0ded0817-370b-4041-a04b-f60026a1c852" dur="32" oct="5" pname="f" stem.dir="down" xml:id="x97de083d-abee-404b-9405-2fce06d82a35"/>
@@ -309,7 +309,7 @@
                     <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p003_wz01_dt.xml#d6ca65d6d-904b-4dd5-a362-e149380c8b40" dur="32" oct="5" pname="g" stem.dir="down" xml:id="xfad14053-ec41-475a-9252-688864cb176e"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p003_wz01_dt.xml#d97765a3c-1459-48cf-9a1c-906746b56f00" dur="32" oct="5" pname="g" stem.dir="down" xml:id="odd70b241-d218-4364-96dd-55de41a31336"/>
+                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p003_wz01_dt.xml#d97765a3c-1459-48cf-9a1c-906746b56f00" dur="32" oct="5" pname="g" stem.dir="down" xml:id="o78893645-10d2-4ce0-9321-d84a0d293c9c"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p003_wz01_dt.xml#d97765a3c-1459-48cf-9a1c-906746b56f00" dur="32" oct="5" pname="f" stem.dir="down" xml:id="xa222a0f0-4030-4063-be00-6f19e46a7d5f"/>
