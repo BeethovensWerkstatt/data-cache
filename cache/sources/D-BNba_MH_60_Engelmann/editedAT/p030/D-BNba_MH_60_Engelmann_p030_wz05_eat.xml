@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xf5888539-5bfb-4af6-8a4b-d0441aaad959">
           <name xml:id="xef77cc95-3cd4-4e62-921d-b65f01920258">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="06fb72a3768dd0c40b92c04a33e49ed9551d0b0f" xml:id="bw_liquifier">
+        <application version="7536a782dc40e0dfef7ea8f2da48c3b1b54bf3bc" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x1d8e21b3-7c25-479e-983e-f18c3adce1f3">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-22" n="2" resp="#bw">
+      <change isodate="2026-08-02" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -383,7 +383,7 @@
                   <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz05_dt.xml#d7d772802-8420-49b5-9827-a0495c509b72" dur="4" oct="6" pname="c" stem.dir="up" xml:id="x4d39a205-070b-4cd0-bb59-f8735fd15594"/>
                 </layer>
                 <layer n="2" xml:id="xa60a140a-21dc-4b8a-944d-320123e7f633">
-                  <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz05_dt.xml#b7516b64b-844b-4015-844d-ba5e89a69508" xml:id="x1528cbce-5f0e-4454-9642-7907aa915b71">
+                  <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz05_dt.xml#b7516b64b-844b-4015-844d-ba5e89a69508 ../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz05_dt.xml#df5481ba6-6cf8-4bea-907a-cd7efacade66" xml:id="x1528cbce-5f0e-4454-9642-7907aa915b71">
                     <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz05_dt.xml#da4345102-aec5-4afe-8ebe-90958ed043f3" dur="8" oct="5" pname="g" stem.dir="down" xml:id="x198bc774-afff-4d2b-a02d-caaeac076b79"/>
                     <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz05_dt.xml#da45055b2-05d2-4673-9fd7-177d0132e655" dur="8" oct="5" pname="f" stem.dir="down" xml:id="xc9c3e2ab-3dfb-42ac-830f-77c82318fbdd"/>
                     <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz05_dt.xml#d189ac424-c513-4acb-9e98-f823e33a03ef" dur="8" oct="5" pname="e" stem.dir="down" xml:id="x2c1893c6-59df-45c5-a85a-209b155a596d"/>

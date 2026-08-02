@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x5448c4d2-d751-42c4-a41d-7ef81f8b3a29">
           <name xml:id="x1d1e1dca-c72e-4081-9d07-cb11305e455a">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="06fb72a3768dd0c40b92c04a33e49ed9551d0b0f" xml:id="bw_liquifier">
+        <application version="7536a782dc40e0dfef7ea8f2da48c3b1b54bf3bc" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x21f9d7d8-2daf-41a4-821b-cfe85eb9f1d4">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-07-22" n="2" resp="#bw">
+      <change isodate="2026-08-02" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -206,7 +206,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz03_dt.xml#b873993fe-6b1a-4a26-8f7a-029e6fe4de5c ../diplomaticTranscripts/Landsberg_8-1_p038_wz03_dt.xml#b03e5838c-b733-4dc7-9800-7e60a1c915fd" xml:id="x9b21fe62-59c1-4b0d-807a-520c119b8348">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz03_dt.xml#d4ea040fe-8244-4440-8771-66df45bbd4a1" dur="16" oct="5" pname="e" stem.dir="down" xml:id="oc3380556-78d2-4394-bc17-b4945effe42b"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz03_dt.xml#d4ea040fe-8244-4440-8771-66df45bbd4a1" dur="16" oct="5" pname="e" stem.dir="down" xml:id="obe50dc26-59ab-4e7e-9636-77d516300b05"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p038_wz03_dt.xml#d4ea040fe-8244-4440-8771-66df45bbd4a1" dur="16" oct="5" pname="f" stem.dir="down" xml:id="x6032d0e6-bd6e-48d4-a13f-a944cb9e0711"/>
