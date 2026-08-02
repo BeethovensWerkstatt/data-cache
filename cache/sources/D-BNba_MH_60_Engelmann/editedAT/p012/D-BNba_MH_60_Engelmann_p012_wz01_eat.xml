@@ -144,7 +144,7 @@
           <p xml:id="xade46395-31e2-4e2e-a254-ed7cf77adc18">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-03" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -501,7 +501,7 @@
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz01_dt.xml#bfd1f9c45-5d9a-4722-9f7c-4e841d80de8e" xml:id="x21800e59-6f48-42a4-a2f7-066159b681be">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz01_dt.xml#d0cdc7594-b364-4338-ba2e-f102a8a59c27" dur="8" oct="5" pname="e" stem.dir="up" xml:id="o16ae1c4b-84bb-4516-ae18-f06c71f4798a"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz01_dt.xml#d0cdc7594-b364-4338-ba2e-f102a8a59c27" dur="8" oct="5" pname="e" stem.dir="up" xml:id="o8788f8b5-9494-41eb-960c-562d9a1563d7"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz01_dt.xml#d0cdc7594-b364-4338-ba2e-f102a8a59c27" dur="8" oct="5" pname="d" stem.dir="up" xml:id="x1a6c4747-1914-4d88-ab50-db861cea693c"/>
@@ -509,7 +509,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz01_dt.xml#dbe1c38b8-49f1-4f24-849b-5a9f963b9f29" dur="8" oct="5" pname="e" stem.dir="up" xml:id="ofab9e964-cd18-4596-a5dd-a1c69ab3de6a"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz01_dt.xml#dbe1c38b8-49f1-4f24-849b-5a9f963b9f29" dur="8" oct="5" pname="e" stem.dir="up" xml:id="o6cb1a218-1734-49c7-a913-7d279366c184"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz01_dt.xml#dbe1c38b8-49f1-4f24-849b-5a9f963b9f29" dur="8" oct="5" pname="d" stem.dir="up" xml:id="xe4c679ed-021b-4271-aa41-f586cc55543f"/>

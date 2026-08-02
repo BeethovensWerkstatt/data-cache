@@ -144,7 +144,7 @@
           <p xml:id="x848cd1f4-ca55-4601-a88a-c933e3b9be15">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-03" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -260,7 +260,7 @@
                   <beam corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#b391caebc-dabc-40f5-80c0-9714bfdca6d0" xml:id="x7a3ba966-60af-4581-a900-f63a0fd1cca8">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d74107847-e40c-4ad6-8882-2b30f847303c" dur="8" oct="2" pname="f" stem.dir="down" xml:id="o210c3659-47a6-43a5-b2aa-7d600c548a43"/>
+                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d74107847-e40c-4ad6-8882-2b30f847303c" dur="8" oct="2" pname="f" stem.dir="down" xml:id="ob2cb6ebc-e160-4d53-80c5-91854879b718"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d74107847-e40c-4ad6-8882-2b30f847303c" dur="8" oct="4" pname="d" stem.dir="down" xml:id="x67f3536d-aae5-4f36-b704-e8025011f656"/>
@@ -268,7 +268,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d6ed5b7e0-c3e2-4a40-90f4-baf6db5be82a" dur="8" oct="1" pname="b" stem.dir="down" xml:id="o43569ff3-30f2-47d0-be92-d848d3eaabc8"/>
+                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d6ed5b7e0-c3e2-4a40-90f4-baf6db5be82a" dur="8" oct="1" pname="b" stem.dir="down" xml:id="o26971ed4-1fea-4306-8407-c8e424e17830"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d6ed5b7e0-c3e2-4a40-90f4-baf6db5be82a" dur="8" oct="3" pname="g" stem.dir="down" xml:id="x043d093d-fa5d-47a1-8cf8-8b86de4ade61"/>
@@ -276,7 +276,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d8e8e39c9-a302-4f09-a38e-1bbf05672d4c" dur="8" oct="2" pname="e" stem.dir="down" xml:id="o4fef5bd9-c266-4c08-a018-a313a0a4dc36"/>
+                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d8e8e39c9-a302-4f09-a38e-1bbf05672d4c" dur="8" oct="2" pname="e" stem.dir="down" xml:id="o35339920-1d85-4fd8-ad7f-5d70ec319dcc"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d8e8e39c9-a302-4f09-a38e-1bbf05672d4c" dur="8" oct="4" pname="c" stem.dir="down" xml:id="x65e6cca9-d248-4b7b-8ba9-7a33f2d41e8e"/>
@@ -301,7 +301,7 @@
                 <layer n="1" xml:id="x9705d51a-33b3-41f0-98ef-9843e8c3a1e7">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d3fcf1a85-8b5b-4f88-861e-24d615a25ef6" dur="4" oct="2" pname="a" stem.dir="down" xml:id="o1976ddf0-f0dc-44fe-b992-dbddd679e6ac">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d3fcf1a85-8b5b-4f88-861e-24d615a25ef6" dur="4" oct="2" pname="a" stem.dir="down" xml:id="oacfb72db-8733-419a-a479-da86727f4cd4">
                         <supplied resp="#bw">
                           <accid accid.ges="s" xml:id="x8d707bd9-6452-4a02-89d6-6c9f02dd4db5"/>
                         </supplied>
@@ -317,7 +317,7 @@
                   </choice>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d6c420db3-fe7b-42f0-be46-06ae22a02bd2" dur="8" oct="2" pname="d" stem.dir="down" xml:id="o3789477c-e7eb-46ea-877b-a88c470ef7d9"/>
+                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d6c420db3-fe7b-42f0-be46-06ae22a02bd2" dur="8" oct="2" pname="d" stem.dir="down" xml:id="o6d1cbe08-2b10-4659-8669-6c3a96f5881b"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz01_dt.xml#d6c420db3-fe7b-42f0-be46-06ae22a02bd2" dur="8" oct="3" pname="b" stem.dir="down" xml:id="x71f488ea-4fda-4dd7-87aa-56d8f647f1ed"/>

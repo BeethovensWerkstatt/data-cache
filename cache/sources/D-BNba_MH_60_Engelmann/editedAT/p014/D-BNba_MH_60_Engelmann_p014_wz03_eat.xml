@@ -144,7 +144,7 @@
           <p xml:id="x1d602701-2696-45af-9f94-59af8bb9a8eb">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-03" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -214,7 +214,7 @@
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz03_dt.xml#b2d0c63ca-6bcb-4579-b6d9-986ccc1d4559 ../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz03_dt.xml#b96f8665c-4581-465c-a46b-5dfd057adeee" xml:id="xdec5593d-8000-48eb-98a8-536e0f590bdc">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz03_dt.xml#d807063bb-52ba-4fe5-bf2c-300359446f4d" dur="16" oct="3" pname="c" stem.dir="down" xml:id="o506c79e2-8be7-4e27-9610-86444cbd70ba">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz03_dt.xml#d807063bb-52ba-4fe5-bf2c-300359446f4d" dur="16" oct="3" pname="c" stem.dir="down" xml:id="o8cf85cb4-5926-4163-a4c1-3125fd3d1d3d">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="xecdd991a-7e59-4531-a973-9e6f852c4129"/>
                           </supplied>
@@ -231,7 +231,7 @@
                     <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz03_dt.xml#d9f5cdc70-abb6-4132-bba1-bd676e5e3f33" dur="16" oct="3" pname="d" stem.dir="down" xml:id="x4c28dce5-1264-4f5e-b191-367f3ec43007"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz03_dt.xml#d34410e18-5151-4ca5-ad47-6a4effe887e9" dur="16" oct="2" pname="b" stem.dir="down" xml:id="o1d5f4f57-10e5-45f5-80bf-24ae1ed14b76"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz03_dt.xml#d34410e18-5151-4ca5-ad47-6a4effe887e9" dur="16" oct="2" pname="b" stem.dir="down" xml:id="o3a8dbf45-3cf4-4bbc-b01f-a73b63118428"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz03_dt.xml#d34410e18-5151-4ca5-ad47-6a4effe887e9" dur="16" oct="3" pname="c" stem.dir="down" xml:id="x07184cea-32df-4862-a0cd-ccc844ce815a"/>

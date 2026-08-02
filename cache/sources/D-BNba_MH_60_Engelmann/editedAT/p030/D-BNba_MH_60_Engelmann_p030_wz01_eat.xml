@@ -144,7 +144,7 @@
           <p xml:id="xdfedcac6-b977-4a18-b69a-805b3ebf934d">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-03" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -294,7 +294,7 @@
                   </beam>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz01_dt.xml#d70b3fcb0-a078-4b5d-843c-e5fb9761bfd7" dur="4" oct="5" pname="c" stem.dir="down" xml:id="oed8fd446-4d27-496a-b2ea-3dbf7fee828d"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz01_dt.xml#d70b3fcb0-a078-4b5d-843c-e5fb9761bfd7" dur="4" oct="5" pname="c" stem.dir="down" xml:id="ob4615285-c99e-444f-b7ec-34331cc9d71e"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz01_dt.xml#d70b3fcb0-a078-4b5d-843c-e5fb9761bfd7" dur="4" oct="5" pname="d" stem.dir="down" xml:id="x93903ae4-989a-46f6-83c3-ad49eef86e44"/>
@@ -325,7 +325,7 @@
                 <layer n="1" xml:id="x3c2d627d-c18f-439f-a27d-08000eea8df3">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz01_dt.xml#d3bac43c0-50fe-45c0-9c82-22c809852805" dur="8" oct="4" pname="b" stem.dir="down" xml:id="o009684f0-50cc-4939-ba27-b0281277268f"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz01_dt.xml#d3bac43c0-50fe-45c0-9c82-22c809852805" dur="8" oct="4" pname="b" stem.dir="down" xml:id="o42359305-bfd3-449d-823a-68ff7b7bb8df"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz01_dt.xml#d3bac43c0-50fe-45c0-9c82-22c809852805" dur="8" oct="4" pname="a" stem.dir="down" xml:id="x3f4a795c-f001-46c5-9571-d06def43dfce"/>
@@ -368,7 +368,7 @@
                 <layer n="1" xml:id="xd762389e-4383-4823-bc13-edce06c1f70c">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz01_dt.xml#d6628887a-9b98-4c9f-aaf2-66d37d9a3171" dur="4" oct="2" pname="b" stem.dir="down" xml:id="oa8a7516b-9085-4c00-96a8-8cc6e7c713dc">
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p030_wz01_dt.xml#d6628887a-9b98-4c9f-aaf2-66d37d9a3171" dur="4" oct="2" pname="b" stem.dir="down" xml:id="o21193bde-08f1-4fab-b07d-a19896de0d48">
                         <supplied resp="#bw">
                           <dot xml:id="d07a2336e-d608-476c-9e0c-3baf1c79f137"/>
                         </supplied>

@@ -144,7 +144,7 @@
           <p xml:id="xeb7eb397-e9a1-4ee9-822e-1cd6f9dde704">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-03" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -220,7 +220,7 @@
                   <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p033_wz03_dt.xml#d1faa3f04-681d-4d54-9ee1-de6da073ba2c" dur="4" oct="3" pname="a" stem.dir="down" xml:id="x7ff070be-70b0-456a-a826-66db8f48b045"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p033_wz03_dt.xml#d7f6f94fd-539f-486f-beae-5dc19c522ac1" dur="32" oct="5" pname="c" staff="2" stem.dir="down" xml:id="o686c35f2-1402-408c-89e6-17f2eadef225"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p033_wz03_dt.xml#d7f6f94fd-539f-486f-beae-5dc19c522ac1" dur="32" oct="5" pname="c" staff="2" stem.dir="down" xml:id="o14a2bdc2-5ffd-40de-b307-0f576da803f5"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p033_wz03_dt.xml#d7f6f94fd-539f-486f-beae-5dc19c522ac1" dur="32" oct="3" pname="e" staff="2" stem.dir="down" xml:id="x59be325e-56f1-4241-a7b8-c3389f03e8d2"/>
@@ -228,7 +228,7 @@
                   </choice>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p033_wz03_dt.xml#d16e372ba-68d0-4a7a-9483-d85951561700" dur="4" oct="4" pname="f" staff="2" stem.dir="down" xml:id="o1bdd9a95-e8c2-43e8-ac92-da98810d6a4c"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p033_wz03_dt.xml#d16e372ba-68d0-4a7a-9483-d85951561700" dur="4" oct="4" pname="f" staff="2" stem.dir="down" xml:id="o5f98b49f-c2c4-4e3e-a761-c922f5643b77"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p033_wz03_dt.xml#d16e372ba-68d0-4a7a-9483-d85951561700" dur="4" oct="2" pname="a" staff="2" stem.dir="down" xml:id="xe182e7fa-bf1d-42f3-a9cd-de009d571452"/>

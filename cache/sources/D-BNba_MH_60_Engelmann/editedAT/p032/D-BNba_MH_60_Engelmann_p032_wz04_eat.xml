@@ -144,7 +144,7 @@
           <p xml:id="x98240219-80ea-4c80-9498-99a5681e8867">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-03" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -348,7 +348,7 @@
                     <chord corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#ddb5e3331-3608-436c-8935-7d1224b57738" dur="4" stem.dir="down" stem.mod="1slash" xml:id="x711b824d-fd9b-491a-9202-a84ece5a3f4a">
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d38b28cfa-75d6-4456-a5ca-4c6ca52518b8" dur="4" oct="5" pname="c" xml:id="o7e999ba1-512b-4c7e-9e92-9af9950506ea">
+                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d38b28cfa-75d6-4456-a5ca-4c6ca52518b8" dur="4" oct="5" pname="c" xml:id="o1cb01369-68ec-4950-b455-8fcfc9d1c39b">
                             <supplied resp="#bw">
                               <accid accid.ges="f" xml:id="xfbb429e6-98d4-48c7-aa49-d7d48e23bf6c"/>
                             </supplied>
@@ -364,7 +364,7 @@
                       </choice>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d52cb5be0-5498-4952-9a21-2e82563974c5" dur="4" oct="5" pname="e" xml:id="oa9680b0e-a035-4289-86b3-1589aa9fd7d7"/>
+                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d52cb5be0-5498-4952-9a21-2e82563974c5" dur="4" oct="5" pname="e" xml:id="o03de53de-9825-43db-8c37-b6793f8c66f4"/>
                         </orig>
                         <reg resp="#bw">
                           <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d52cb5be0-5498-4952-9a21-2e82563974c5" dur="4" oct="3" pname="g" xml:id="x8e9a13bd-d7bf-4eaa-902f-0202869e5b5d"/>
@@ -376,7 +376,7 @@
                     <chord corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d6a25077c-bc39-41bc-b7a0-f7864c51acc4" dur="4" stem.dir="down" stem.mod="1slash" xml:id="x672377fb-bcd8-4c8d-8344-539a8d08709b">
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#df6002b2f-63b5-4016-a6ce-39062de2e8c8" dur="4" oct="4" pname="f" xml:id="of74aa3b7-943d-4683-a209-3bb8c83fdf72">
+                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#df6002b2f-63b5-4016-a6ce-39062de2e8c8" dur="4" oct="4" pname="f" xml:id="o58b6b337-885a-468f-a96a-27ed815f2c5b">
                             <supplied resp="#bw">
                               <accid accid.ges="f" xml:id="xf95db059-ff7b-4760-8f8d-4677cf4a0abe"/>
                             </supplied>
@@ -392,7 +392,7 @@
                       </choice>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#de262409d-0a89-43ae-8f72-95bce835b866" dur="4" oct="5" pname="d" xml:id="o6cd50942-6884-4687-8cd5-d3496bb2950c"/>
+                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#de262409d-0a89-43ae-8f72-95bce835b866" dur="4" oct="5" pname="d" xml:id="oda795f07-b388-4dcb-8111-1bd72d47a36e"/>
                         </orig>
                         <reg resp="#bw">
                           <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#de262409d-0a89-43ae-8f72-95bce835b866" dur="4" oct="3" pname="f" xml:id="x67a3c5ef-57a2-4971-8f54-213ca522f845"/>
@@ -426,7 +426,7 @@
                   <chord corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d0dd6ae84-9731-4328-875b-108553702071" dur="4" stem.dir="down" xml:id="x3db17779-ded7-4ebf-9fec-9bd88005339e">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d3f15a39a-62a2-4a72-9b8f-8df492e89aa2" dur="4" oct="4" pname="c" xml:id="o480abd4c-bf02-4251-832d-21e1c7941685">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d3f15a39a-62a2-4a72-9b8f-8df492e89aa2" dur="4" oct="4" pname="c" xml:id="o5bcfa947-6e56-4d91-9ae7-fdf3668d5023">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="x9fd5e3af-65f1-43c0-8688-ce0689f1b1d2"/>
                           </supplied>
@@ -442,7 +442,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d44c351b0-dc48-43f9-9f04-42d7ea273063" dur="4" oct="5" pname="c" xml:id="o4d7837de-fd6f-471e-8a62-30ea67e256fb">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d44c351b0-dc48-43f9-9f04-42d7ea273063" dur="4" oct="5" pname="c" xml:id="o9ad17dfc-aa02-49dd-8d9d-249b8e84e0e7">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="x2788e9ae-49fb-475a-a789-e189561bd643"/>
                           </supplied>
@@ -480,7 +480,7 @@
                 <layer n="1" xml:id="x9e0d0de7-ddf9-49e3-bede-327e4390aee5">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#dde6bc98d-0f32-4113-bfb5-34c0dbb0e1fd" dur="4" oct="4" pname="a" stem.dir="down" xml:id="oeca3b2c6-8fa4-456e-9d5f-f7e5c656a406"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#dde6bc98d-0f32-4113-bfb5-34c0dbb0e1fd" dur="4" oct="4" pname="a" stem.dir="down" xml:id="o26cd5073-8913-4fc8-b36b-02862c09ce65"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#dde6bc98d-0f32-4113-bfb5-34c0dbb0e1fd" dur="4" oct="3" pname="c" stem.dir="down" xml:id="x776f6516-a560-49e8-aef1-a52b13ae5ff9"/>
@@ -488,7 +488,7 @@
                   </choice>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#dad59342a-7506-45d5-bb81-52eb35a97214" dur="4" oct="5" pname="c" stem.dir="down" xml:id="o7f007afe-fd02-4fae-8ab2-bf8ce8ed4003">
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#dad59342a-7506-45d5-bb81-52eb35a97214" dur="4" oct="5" pname="c" stem.dir="down" xml:id="o6719ba85-f3d9-4150-8404-74dbc12ac23f">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="x5ea165ae-7608-4b48-90b9-6c73b6adc612"/>
                         </supplied>
@@ -524,7 +524,7 @@
                 <layer n="1" xml:id="xf7b1911e-6eff-4133-b5b9-7476d6c848ea">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d50dd6d31-64fb-4f72-981f-89402b74fca0" dur="2" oct="4" pname="a" stem.dir="down" xml:id="o05acd15a-3afa-4d08-a3be-90af20bd3fdc"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d50dd6d31-64fb-4f72-981f-89402b74fca0" dur="2" oct="4" pname="a" stem.dir="down" xml:id="oc91ec9ea-0d08-4689-b31a-93afeaf8fb87"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#d50dd6d31-64fb-4f72-981f-89402b74fca0" dur="2" oct="3" pname="c" stem.dir="down" xml:id="x26982399-24cf-439b-b7c3-567e72715f7d"/>
@@ -552,7 +552,7 @@
                 <layer n="1" xml:id="x449f6b0a-b764-4bc6-9fb6-737c990e28e9">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#dd772be4f-db98-4d56-953d-c7511a91a6ac" dur="4" oct="4" pname="a" stem.dir="down" xml:id="oc12be6ae-3c31-45ed-ab23-826db8df3d0f"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#dd772be4f-db98-4d56-953d-c7511a91a6ac" dur="4" oct="4" pname="a" stem.dir="down" xml:id="o3277f0b8-77e3-4ca9-902c-5f6b89032625"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#dd772be4f-db98-4d56-953d-c7511a91a6ac" dur="4" oct="3" pname="c" stem.dir="down" xml:id="x2cafe229-3d53-4988-b65a-8cb96ce26dd2"/>
@@ -560,7 +560,7 @@
                   </choice>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#de67d327f-6e39-424a-8658-d5c8ba55652b" dur="4" oct="5" pname="c" stem.dir="down" xml:id="o7d22e5c8-8c07-4ae2-bf67-191e241fa722">
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz04_dt.xml#de67d327f-6e39-424a-8658-d5c8ba55652b" dur="4" oct="5" pname="c" stem.dir="down" xml:id="o6cbbbb1b-6fcc-48a5-8ca6-244b66f27c8e">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="xa9edf636-5a82-4d10-9575-c47762dc5342"/>
                         </supplied>

@@ -144,7 +144,7 @@
           <p xml:id="x7205994a-c7bf-461e-8092-1b1109f9c708">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-03" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -245,7 +245,7 @@
                   <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#d7d292caf-7e27-42fd-b35e-d1aef2ca0d3f" dur="4" oct="4" pname="a" stem.dir="down" xml:id="x341e41df-aa33-4431-a9d9-540efc33c2c3"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#da7ff27f0-a25e-4304-9473-6ba6eb4ea8c0" dur="4" oct="5" pname="c" stem.dir="down" xml:id="oa33e118b-47e7-484a-86f0-198483191416">
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#da7ff27f0-a25e-4304-9473-6ba6eb4ea8c0" dur="4" oct="5" pname="c" stem.dir="down" xml:id="o4aa63a56-c86f-494f-8a4a-e63dca933676">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="xb6781087-caec-486e-a3d4-5ae1dff6ff47"/>
                         </supplied>
@@ -267,7 +267,7 @@
                 <layer n="1" xml:id="xfcd773be-a94c-4cd9-95cc-3dd968b87108">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#d27667f28-1bb4-437f-bfea-8994007becf6" dur="4" oct="5" pname="d" stem.dir="down" xml:id="o6202030b-0ddf-4b59-b1e2-0a828de9147b"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#d27667f28-1bb4-437f-bfea-8994007becf6" dur="4" oct="5" pname="d" stem.dir="down" xml:id="o0497cd80-1973-41be-b909-d3d2002568c6"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#d27667f28-1bb4-437f-bfea-8994007becf6" dur="4" oct="5" pname="c" stem.dir="down" xml:id="x3d9caaab-dc5d-4bb4-bcfa-8527e24c46c6"/>

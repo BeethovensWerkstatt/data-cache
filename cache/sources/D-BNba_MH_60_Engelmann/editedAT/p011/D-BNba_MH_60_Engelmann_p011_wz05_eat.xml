@@ -144,7 +144,7 @@
           <p xml:id="x870c65af-bf1b-437d-933b-f793dc8369b2">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-03" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -220,7 +220,7 @@
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p011_wz05_dt.xml#b347bd2fc-495b-4280-bfc9-f53191fee992" xml:id="x18ae15c1-a841-43fc-89b4-cd939330a610">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p011_wz05_dt.xml#d770144be-0ece-40fd-993e-1fb0f58b32fd" dur="8" oct="4" pname="b" stem.dir="down" xml:id="o6e4dd96a-7aa6-405f-b27f-4eb757efb6c5">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p011_wz05_dt.xml#d770144be-0ece-40fd-993e-1fb0f58b32fd" dur="8" oct="4" pname="b" stem.dir="down" xml:id="ob16a5f60-aa0a-40d6-b2c0-34d7b0a29a4c">
                           <accid accid="s" corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p011_wz05_dt.xml#d9f53bc98-732d-4749-9504-b0715b3cc4c6" xml:id="xfa579df5-b529-49a9-88d0-b26488773e5c"/>
                         </note>
                       </orig>
