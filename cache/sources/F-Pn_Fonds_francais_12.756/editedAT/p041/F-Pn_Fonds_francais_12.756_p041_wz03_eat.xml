@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xba853941-9354-475e-a93f-2ef3c7cef67f">
           <name xml:id="x2dd92d49-08da-4cb3-ae5f-10e88b8ff877">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="7536a782dc40e0dfef7ea8f2da48c3b1b54bf3bc" xml:id="bw_liquifier">
+        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x825d1a4d-887a-4c66-94f9-499889c10880">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-03" n="2" resp="#bw">
+      <change isodate="2026-08-06" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -230,23 +230,9 @@
             <measure corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d4bb40ec4-b846-4ef9-84a9-547ae856711e" n="2" xml:id="xd02e4e4d-3d0a-4013-9bed-53a2a4956605">
               <staff n="1" xml:id="x98286f86-d059-46cd-b493-b0f3cd032bfd">
                 <layer n="1" xml:id="x0c32ad8b-8fd3-4b31-8875-2cfbccd6d40e">
-                  <choice>
-                    <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d8325d67d-f87b-4c0a-97cf-aec9898c3e5b" dur="4" oct="3" pname="c" stem.dir="down" xml:id="oe91f8282-c35e-4ae5-90cb-8be7181902f8"/>
-                    </orig>
-                    <reg resp="#bw">
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d8325d67d-f87b-4c0a-97cf-aec9898c3e5b" dur="4" oct="4" pname="a" stem.dir="down" xml:id="xf0f149b5-8d78-4b1b-97ee-e4a719716237"/>
-                    </reg>
-                  </choice>
+                  <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d8325d67d-f87b-4c0a-97cf-aec9898c3e5b" dur="4" oct="4" pname="a" stem.dir="down" xml:id="xf0f149b5-8d78-4b1b-97ee-e4a719716237"/>
                   <rest corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#df550de4d-9cd2-4d71-a360-6d0d916c9200" dur="8" xml:id="x26bc358f-689b-495e-b945-645324fdada4"/>
-                  <choice>
-                    <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d52b7c477-a316-4d09-a2aa-61641895e67b" dur="8" oct="2" pname="g" stem.dir="down" xml:id="o5950ef44-2901-44a3-b596-c84817bd6119"/>
-                    </orig>
-                    <reg resp="#bw">
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d52b7c477-a316-4d09-a2aa-61641895e67b" dur="8" oct="4" pname="e" stem.dir="down" xml:id="x90833241-5669-40db-be9b-1e764ba15016"/>
-                    </reg>
-                  </choice>
+                  <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d52b7c477-a316-4d09-a2aa-61641895e67b" dur="8" oct="4" pname="e" stem.dir="down" xml:id="x90833241-5669-40db-be9b-1e764ba15016"/>
                 </layer>
               </staff>
               <staff n="2" xml:id="x44c993db-b0c7-4e67-a6cb-f64d6f78fd29">
@@ -273,14 +259,7 @@
               <staff n="1" xml:id="xa4c66c49-99f6-4be0-a6a5-19d660181e0a">
                 <layer n="1" xml:id="x8c264105-3d76-4df5-b0c3-c673d6a2cd66">
                   <space dur="4" xml:id="x9e2fa657-8202-4db8-a30a-52c8c4f59f9a"/>
-                  <choice>
-                    <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d370da0d7-f4ce-4a2f-9000-b032e767b2aa" dur="4" oct="4" pname="c" stem.dir="down" xml:id="o88e4d7d8-22fc-432f-be75-a9fc1469be1f"/>
-                    </orig>
-                    <reg resp="#bw">
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d370da0d7-f4ce-4a2f-9000-b032e767b2aa" dur="4" oct="5" pname="a" stem.dir="down" xml:id="x15bfef76-193c-412d-9ee4-22adb5ebcd2f"/>
-                    </reg>
-                  </choice>
+                  <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d370da0d7-f4ce-4a2f-9000-b032e767b2aa" dur="4" oct="5" pname="a" stem.dir="down" xml:id="x15bfef76-193c-412d-9ee4-22adb5ebcd2f"/>
                 </layer>
               </staff>
               <staff n="2" xml:id="x6ebd5990-15a1-4814-a54a-15874ee9f314">
@@ -294,22 +273,8 @@
             <measure corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d078b4bf1-e0e5-41c4-853b-20d29cc47368" n="5" xml:id="x03341a38-06ca-4801-9065-0159e86dc553">
               <staff n="1" xml:id="xa37065c4-c854-433c-bcc7-8d58d33a9f15">
                 <layer n="1" xml:id="xc3e76bd1-06fe-42b4-9877-44cc1edcaec5">
-                  <choice>
-                    <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d3d8ec406-1ed6-4134-a6d1-bb8bcca65c13" dur="4" oct="3" pname="g" stem.dir="down" xml:id="o116b1945-877f-4044-8e0e-866361dd3cad"/>
-                    </orig>
-                    <reg resp="#bw">
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d3d8ec406-1ed6-4134-a6d1-bb8bcca65c13" dur="4" oct="5" pname="e" stem.dir="down" xml:id="x6e2645fa-3549-4ace-9aa4-e78d1a8375a8"/>
-                    </reg>
-                  </choice>
-                  <choice>
-                    <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d1b87613b-3ab6-44e1-96b2-acff76eaa624" dur="4" oct="3" pname="c" stem.dir="down" xml:id="o57fa69e7-2fcc-4868-b015-c96c8a022a94"/>
-                    </orig>
-                    <reg resp="#bw">
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d1b87613b-3ab6-44e1-96b2-acff76eaa624" dur="4" oct="4" pname="a" stem.dir="down" xml:id="xf1e8aadd-6c08-4205-9c4f-f342aa0d335e"/>
-                    </reg>
-                  </choice>
+                  <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d3d8ec406-1ed6-4134-a6d1-bb8bcca65c13" dur="4" oct="5" pname="e" stem.dir="down" xml:id="x6e2645fa-3549-4ace-9aa4-e78d1a8375a8"/>
+                  <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d1b87613b-3ab6-44e1-96b2-acff76eaa624" dur="4" oct="4" pname="a" stem.dir="down" xml:id="xf1e8aadd-6c08-4205-9c4f-f342aa0d335e"/>
                 </layer>
               </staff>
               <staff n="2" xml:id="x00d93a4b-d1a7-4954-98e3-283c66df9618">
@@ -321,59 +286,17 @@
             <measure corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d2d6aa893-873e-433c-adae-25fbb0da7661" metcon="false" n="6" xml:id="x644cb45f-e65d-4ede-97ed-00a68962a647">
               <staff n="1" xml:id="x8fe0e2dd-6a88-4e2e-879d-0074e0ee15bb">
                 <layer n="1" xml:id="x3f493db6-f952-44b9-a98b-d4dd51bb5883">
-                  <choice>
-                    <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#dda59c572-af20-4366-ace1-0e9cb26d07d2" dur="4" oct="2" pname="c" stem.dir="down" xml:id="o4337d5b2-a6d9-4fbd-9ad5-46ea5c0a1c00"/>
-                    </orig>
-                    <reg resp="#bw">
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#dda59c572-af20-4366-ace1-0e9cb26d07d2" dur="4" oct="3" pname="a" stem.dir="down" xml:id="xd486406a-6809-4942-82a7-2caa45fb0679"/>
-                    </reg>
-                  </choice>
+                  <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#dda59c572-af20-4366-ace1-0e9cb26d07d2" dur="4" oct="3" pname="a" stem.dir="down" xml:id="xd486406a-6809-4942-82a7-2caa45fb0679"/>
                   <space dur="4" xml:id="x39477a49-046f-4ee0-b693-ef06e70a8603"/>
                   <beam corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d9d326f18-38bc-4168-b8d0-3c94c0175420 ../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d1beb4b1f-f397-4e3e-9c11-96b668624ef9 ../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d6e42a427-8a73-4c0f-8097-634104b5b930" xml:id="xc44a675d-59fd-42f6-8026-0d1e1c81b874">
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d3ca5ef2e-b02a-485a-8b7f-f661d05f91dc" dur="32" oct="2" pname="g" stem.dir="down" xml:id="of529f9a9-c18a-4520-beb3-6d1d2e5fe005"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d3ca5ef2e-b02a-485a-8b7f-f661d05f91dc" dur="32" oct="4" pname="e" stem.dir="down" xml:id="x2a981fef-fa39-4ef4-917f-af58b86ac442"/>
-                      </reg>
-                    </choice>
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d6634b046-d675-4a73-b256-7c6566504f52" dur="32" oct="2" pname="e" stem.dir="down" xml:id="obce258a5-948d-4fc5-92d2-6ec048a82fc4"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d6634b046-d675-4a73-b256-7c6566504f52" dur="32" oct="4" pname="c" stem.dir="down" xml:id="xa4b78f64-f9c4-4763-9514-e81f3d75f544"/>
-                      </reg>
-                    </choice>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d3ca5ef2e-b02a-485a-8b7f-f661d05f91dc" dur="32" oct="4" pname="e" stem.dir="down" xml:id="x2a981fef-fa39-4ef4-917f-af58b86ac442"/>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d6634b046-d675-4a73-b256-7c6566504f52" dur="32" oct="4" pname="c" stem.dir="down" xml:id="xa4b78f64-f9c4-4763-9514-e81f3d75f544"/>
                   </beam>
                   <beam corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d04bad332-7933-443f-be47-58f2ef2b5990 ../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#dbe1f2ba1-1050-405c-b8f7-f2280daefd90 ../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d2360ac32-81e1-4ecf-8623-62638bbb6dc4" xml:id="xbb8e0167-7293-49a2-b904-f9122b621927">
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#dac06feae-269b-4358-8aea-90d2c5a9f2d9" dur="8" oct="2" pname="c" stem.dir="down" xml:id="ofdda2cf0-2ad2-44e4-bbaf-5dfc146eac24"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#dac06feae-269b-4358-8aea-90d2c5a9f2d9" dur="8" oct="3" pname="a" stem.dir="down" xml:id="x5b038a7e-aefa-4b8e-96c0-ad2cfc2f0178"/>
-                      </reg>
-                    </choice>
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d88a34bcd-ce1c-4144-a2b8-0dcc19cde3cd" dur="32" oct="2" pname="g" stem.dir="down" xml:id="o5565de7f-b04f-4a6c-add0-2c6c18dc7dd6"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d88a34bcd-ce1c-4144-a2b8-0dcc19cde3cd" dur="32" oct="4" pname="e" stem.dir="down" xml:id="x29b52050-5618-4a43-81a6-d6b9de3ed36a"/>
-                      </reg>
-                    </choice>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#dac06feae-269b-4358-8aea-90d2c5a9f2d9" dur="8" oct="3" pname="a" stem.dir="down" xml:id="x5b038a7e-aefa-4b8e-96c0-ad2cfc2f0178"/>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d88a34bcd-ce1c-4144-a2b8-0dcc19cde3cd" dur="32" oct="4" pname="e" stem.dir="down" xml:id="x29b52050-5618-4a43-81a6-d6b9de3ed36a"/>
                   </beam>
-                  <choice>
-                    <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d0b5ddbb2-f693-4ab8-be54-8d3297b31e0d" dur="4" oct="2" pname="e" stem.dir="down" xml:id="of98c236e-85d7-4e87-b4ab-bc21a419350d"/>
-                    </orig>
-                    <reg resp="#bw">
-                      <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d0b5ddbb2-f693-4ab8-be54-8d3297b31e0d" dur="4" oct="4" pname="c" stem.dir="down" xml:id="xade17825-b030-4b33-aca7-f5c2b5f35a33"/>
-                    </reg>
-                  </choice>
+                  <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d0b5ddbb2-f693-4ab8-be54-8d3297b31e0d" dur="4" oct="4" pname="c" stem.dir="down" xml:id="xade17825-b030-4b33-aca7-f5c2b5f35a33"/>
                 </layer>
               </staff>
               <staff n="2" xml:id="x7e8db06f-2ce0-43b5-9465-0c0f486ac29c">
@@ -386,56 +309,14 @@
               <staff n="1" xml:id="xc801c59e-cb2a-4c70-ba80-5022d24460f5">
                 <layer n="1" xml:id="x4b2bc169-8f17-441a-bebf-fdb599c0099e">
                   <beam corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#b48bc0387-2c6c-4ffb-8c15-c4b68eb59742 ../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#b5d2045a3-aae1-4862-9cca-16745953174e" xml:id="x3bb1e88d-20cf-4536-ae5c-86dfd3175d91">
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d84bb4679-ce52-4a4e-97a0-5bcc3fd27e1d" dur="8" oct="2" pname="c" stem.dir="down" xml:id="o18860170-0e07-4cf1-ab74-520c3fdb0a27"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d84bb4679-ce52-4a4e-97a0-5bcc3fd27e1d" dur="8" oct="3" pname="a" stem.dir="down" xml:id="x906cf7f0-94e2-461e-8146-642961126c2f"/>
-                      </reg>
-                    </choice>
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d4de1540b-4a99-43d1-839f-969f88892cad" dur="16" oct="2" pname="b" stem.dir="down" xml:id="of357242c-2117-4a80-a7b8-097bdac6e15d"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d4de1540b-4a99-43d1-839f-969f88892cad" dur="16" oct="4" pname="g" stem.dir="down" xml:id="xade9b51e-0b9d-425c-9d2d-82039960f125"/>
-                      </reg>
-                    </choice>
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d80646fbd-5b4b-4014-889f-245cb7de7982" dur="16" oct="2" pname="g" stem.dir="down" xml:id="oc84f83d8-e1ba-496d-9b8c-9865d36fac4f"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d80646fbd-5b4b-4014-889f-245cb7de7982" dur="16" oct="4" pname="e" stem.dir="down" xml:id="x0715f77f-1637-404f-91e7-b9193e20d76c"/>
-                      </reg>
-                    </choice>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d84bb4679-ce52-4a4e-97a0-5bcc3fd27e1d" dur="8" oct="3" pname="a" stem.dir="down" xml:id="x906cf7f0-94e2-461e-8146-642961126c2f"/>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d4de1540b-4a99-43d1-839f-969f88892cad" dur="16" oct="4" pname="g" stem.dir="down" xml:id="xade9b51e-0b9d-425c-9d2d-82039960f125"/>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d80646fbd-5b4b-4014-889f-245cb7de7982" dur="16" oct="4" pname="e" stem.dir="down" xml:id="x0715f77f-1637-404f-91e7-b9193e20d76c"/>
                   </beam>
                   <beam corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#bfde36c7e-25c2-4183-ab52-9b035ea2f1d3 ../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#b9cc73ed1-acdc-43b2-aa8b-c3651fa26718" xml:id="x6dc308a7-7844-4652-a4e1-7e350300e7a9">
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d1502a78f-4924-4bc7-ab32-3f7724d86405" dur="8" oct="2" pname="e" stem.dir="down" xml:id="oa4dd1498-0a0c-4464-aa74-b86d601d58a9"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d1502a78f-4924-4bc7-ab32-3f7724d86405" dur="8" oct="4" pname="c" stem.dir="down" xml:id="x9428d32d-6869-4f3b-bf00-961ed64351bd"/>
-                      </reg>
-                    </choice>
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d2abdefa7-b629-495a-a878-fae243bed277" dur="16" oct="3" pname="c" stem.dir="down" xml:id="o621917fd-5499-4909-ac9d-1e4bd2c68b19"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d2abdefa7-b629-495a-a878-fae243bed277" dur="16" oct="4" pname="a" stem.dir="down" xml:id="x6f3164c2-bf30-413c-aa15-c19e543d8988"/>
-                      </reg>
-                    </choice>
-                    <choice>
-                      <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#ddc4ffbbf-350f-4e8f-b605-6563f34839af" dur="16" oct="3" pname="c" stem.dir="down" xml:id="oaaa1acf2-3583-4ac1-a05a-0cbbe7431e49"/>
-                      </orig>
-                      <reg resp="#bw">
-                        <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#ddc4ffbbf-350f-4e8f-b605-6563f34839af" dur="16" oct="4" pname="a" stem.dir="down" xml:id="x122e076b-b5b2-436c-9c09-fa4361462fdb"/>
-                      </reg>
-                    </choice>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d1502a78f-4924-4bc7-ab32-3f7724d86405" dur="8" oct="4" pname="c" stem.dir="down" xml:id="x9428d32d-6869-4f3b-bf00-961ed64351bd"/>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#d2abdefa7-b629-495a-a878-fae243bed277" dur="16" oct="4" pname="a" stem.dir="down" xml:id="x6f3164c2-bf30-413c-aa15-c19e543d8988"/>
+                    <note corresp="../diplomaticTranscripts/F-Pn_Fonds_francais_12.756_p041_wz03_dt.xml#ddc4ffbbf-350f-4e8f-b605-6563f34839af" dur="16" oct="4" pname="a" stem.dir="down" xml:id="x122e076b-b5b2-436c-9c09-fa4361462fdb"/>
                   </beam>
                 </layer>
               </staff>

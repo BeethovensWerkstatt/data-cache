@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x28c1b5d5-867b-4db8-98c0-606c94b0266c">
           <name xml:id="xf4bf3d24-6df2-4d5a-8d69-b4971fe2a15d">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="7536a782dc40e0dfef7ea8f2da48c3b1b54bf3bc" xml:id="bw_liquifier">
+        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x094dcc3a-61d5-4b98-b02c-2d9f40e5791c">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-06" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -314,7 +314,7 @@
                   <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d256012b4-96fa-44f1-b810-fd2d0208c47d" dur="2" oct="4" pname="d" stem.dir="up" xml:id="x6dad433b-d787-47d4-817b-7e3a2e621e08"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#decdf2f33-4994-4456-99fd-5b24739c2354" dur="2" oct="4" pname="f" stem.dir="up" xml:id="o8f995b28-ae6a-442b-8332-011dd1ac2aa9">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#decdf2f33-4994-4456-99fd-5b24739c2354" dur="2" oct="4" pname="f" stem.dir="up" xml:id="o6d556a7e-1b2c-4576-afeb-a50c3c24aad8">
                         <accid accid="f" corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d2a492607-ae4a-4135-8fc5-56669bf3c4bb" xml:id="x18a017fb-7bf1-4a5f-b074-5abab1d1a473"/>
                       </note>
                     </orig>
@@ -364,7 +364,7 @@
                   </note>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d33b1e421-aaed-4c55-93ba-910ab7ad6fd5" dur="4" oct="3" pname="d" stem.dir="down" xml:id="obb6dff07-4f9a-43bc-b167-bc8d62d0d256">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d33b1e421-aaed-4c55-93ba-910ab7ad6fd5" dur="4" oct="3" pname="d" stem.dir="down" xml:id="oef385780-328a-4c83-aff9-1a126df0b34f">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="x05c04a73-f42a-4d50-a4a8-7b25fe2291b4"/>
                         </supplied>
@@ -380,7 +380,7 @@
                   </choice>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d8f24328e-d486-4731-8898-1217d8a36f5d" dur="4" oct="3" pname="d" stem.dir="down" xml:id="o4870ae1a-f983-4e09-a283-59d9d6cee822">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d8f24328e-d486-4731-8898-1217d8a36f5d" dur="4" oct="3" pname="d" stem.dir="down" xml:id="o37103b49-3efd-49a2-b922-e3a7b98beb40">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="x8e8e434f-6118-4ded-8221-bd79890dee7a"/>
                         </supplied>
@@ -396,7 +396,7 @@
                   </choice>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d3b96a3d6-4c00-4ed9-a303-b640491afaa5" dur="4" oct="3" pname="c" stem.dir="down" xml:id="o23a0cfdf-b75b-41fc-9964-bb55590f6613">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d3b96a3d6-4c00-4ed9-a303-b640491afaa5" dur="4" oct="3" pname="c" stem.dir="down" xml:id="o8204acdc-d2c9-4031-9986-53895e594528">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="xbc361f13-e44f-4e21-b924-aafe53523949"/>
                         </supplied>
@@ -436,7 +436,7 @@
                   </note>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#dee7be7b7-7f44-48dc-bfde-d3d04b47c9df" dur="4" oct="3" pname="d" stem.dir="down" xml:id="o8706427b-7bff-4df6-9d0f-9021fd13161f">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#dee7be7b7-7f44-48dc-bfde-d3d04b47c9df" dur="4" oct="3" pname="d" stem.dir="down" xml:id="o5f858492-6d50-4172-ab50-aa205a221bda">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="x427a1a09-0868-4ae9-932c-52e937375bb2"/>
                         </supplied>
@@ -469,7 +469,7 @@
                   </note>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d46d7a475-50fd-4e2a-9052-ce6d3ce94732" dur="4" oct="3" pname="c" stem.dir="down" xml:id="o14750d47-0dc1-4541-a9d8-36dba1b630f6">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d46d7a475-50fd-4e2a-9052-ce6d3ce94732" dur="4" oct="3" pname="c" stem.dir="down" xml:id="oc3c00b3b-9d19-4a0a-95a0-e2eba1f3eb1a">
                         <supplied resp="#bw">
                           <accid accid="f" xml:id="x178e0b94-2149-4f3c-984d-cfaaa763541a"/>
                         </supplied>
@@ -490,7 +490,7 @@
                   </note>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d221c2118-8f5e-4174-aa94-745ddd2f3b20" dur="4" oct="3" pname="c" stem.dir="down" xml:id="o52c708fd-644a-4c75-8813-ee4f34e9d6b9">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz01_dt.xml#d221c2118-8f5e-4174-aa94-745ddd2f3b20" dur="4" oct="3" pname="c" stem.dir="down" xml:id="o35b38edc-bb12-4aaa-b7ff-b2149b874a4c">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="x997e2220-209e-42d9-87ab-593c3e76785f"/>
                         </supplied>

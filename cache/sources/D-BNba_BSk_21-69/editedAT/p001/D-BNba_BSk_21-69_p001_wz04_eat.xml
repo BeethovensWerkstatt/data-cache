@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xba89a2f4-642e-4eea-9680-24fa986b3c96">
           <name xml:id="xce82c8e5-4bcf-4095-baae-665b62510af7">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="7536a782dc40e0dfef7ea8f2da48c3b1b54bf3bc" xml:id="bw_liquifier">
+        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x88937511-f444-4132-8f5a-8a0548fc72ec">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-06" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -229,7 +229,7 @@
                   <beam corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz04_dt.xml#b14d1eb61-14da-4e22-b14e-adce8012e486 ../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz04_dt.xml#bd4da22f8-b66a-46b1-a3f4-62e1857ff928" xml:id="xe9f4e526-ca60-43e0-ab59-001ab9f923e9">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz04_dt.xml#d8a19b4a9-0c16-4433-b2b7-522100d8c4a4" dur="16" oct="5" pname="d" stem.dir="down" xml:id="o0f061d7c-c4a7-40d6-85ef-3731ee9f35e9"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz04_dt.xml#d8a19b4a9-0c16-4433-b2b7-522100d8c4a4" dur="16" oct="5" pname="d" stem.dir="down" xml:id="o244b7cf8-1e2e-4fe4-989c-94e5b5c64ebc"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz04_dt.xml#d8a19b4a9-0c16-4433-b2b7-522100d8c4a4" dur="16" oct="5" pname="e" stem.dir="down" xml:id="x32f8e070-4455-4e53-8132-6fe71e337532"/>

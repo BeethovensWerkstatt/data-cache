@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x9b0c6382-d7cb-4dba-b421-fd8d23f2aab8">
           <name xml:id="xe2f8a14d-534a-45ea-8496-f1c71ae8d735">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="7536a782dc40e0dfef7ea8f2da48c3b1b54bf3bc" xml:id="bw_liquifier">
+        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x796bbfb2-e853-433b-ac0c-89286e3aeeff">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-02" n="2" resp="#bw">
+      <change isodate="2026-08-06" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -340,7 +340,7 @@
                   <beam corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#b8281b8b2-add7-4fad-8941-e5381d58b6f0" xml:id="xd2970ba3-bb4e-4089-b625-52addfb73783">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#d87a471e5-a673-466d-9827-656fee52a568" dur="8" oct="3" pname="c" stem.dir="down" xml:id="o237e914e-9851-45be-b27d-5c4be102ea54">
+                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#d87a471e5-a673-466d-9827-656fee52a568" dur="8" oct="3" pname="c" stem.dir="down" xml:id="o948274b5-beb5-4f08-8a95-992ff3cb8d43">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="xae051c45-fe85-47ff-840d-11f7dfc63c70"/>
                           </supplied>
@@ -376,7 +376,7 @@
                     <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#d2814affb-6573-476c-8e1e-eed1576347cf" dur="16" oct="4" pname="a" stem.dir="down" xml:id="xfea9fb5a-83e9-40a8-9da0-d4a0d5ce928d"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#da4c6c505-b024-4488-a472-12311a617220" dur="16" oct="5" pname="e" stem.dir="down" xml:id="o8715dff4-ed7e-447a-9b03-02fbe18653cf"/>
+                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#da4c6c505-b024-4488-a472-12311a617220" dur="16" oct="5" pname="e" stem.dir="down" xml:id="o016958ed-3d02-4067-afe0-b0fd4bde12fe"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#da4c6c505-b024-4488-a472-12311a617220" dur="16" oct="5" pname="d" stem.dir="down" xml:id="x248780b8-a177-4c42-86e2-d188e80388c7"/>
@@ -384,7 +384,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#d1d53370a-4281-4e45-9a0b-26519b2bd13c" dur="16" oct="5" pname="e" stem.dir="down" xml:id="oa910f694-0b8d-4725-a246-ee2588fbe1f8"/>
+                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#d1d53370a-4281-4e45-9a0b-26519b2bd13c" dur="16" oct="5" pname="e" stem.dir="down" xml:id="o026ba69c-3690-440c-954f-8a65da6702c1"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz01_dt.xml#d1d53370a-4281-4e45-9a0b-26519b2bd13c" dur="16" oct="5" pname="f" stem.dir="down" xml:id="xc0d0d159-d87b-4cae-813e-d2942f38dc7f"/>
