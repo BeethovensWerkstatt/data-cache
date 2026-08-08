@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x84625b74-985b-436d-b638-06b07e75713f">
           <name xml:id="x4eb1df47-fde8-464f-8185-ace7232b17bb">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
+        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x884d2cd7-9f50-4708-8541-cfd9e861eff6">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-06" n="2" resp="#bw">
+      <change isodate="2026-08-08" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -347,7 +347,7 @@
                   <bTrem corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p019_wz07_dt.xml#d03072493-6178-4446-ada1-b04704e1f302" dur="16" unitdur="32" xml:id="b8c5cc2ed-20e2-4a9d-88cf-f2b4d6035175">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p019_wz07_dt.xml#d11481018-a93a-46da-9a5d-01306792f6ee" dur="16" oct="4" pname="g" stem.dir="down" stem.mod="1slash" xml:id="ofdf98f09-c0f4-479e-a414-460e5de4ed04"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p019_wz07_dt.xml#d11481018-a93a-46da-9a5d-01306792f6ee" dur="16" oct="4" pname="g" stem.dir="down" stem.mod="1slash" xml:id="o8891c935-3514-4247-b19d-77cdade474e7"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p019_wz07_dt.xml#d11481018-a93a-46da-9a5d-01306792f6ee" dur="16" oct="4" pname="f" stem.dir="down" stem.mod="1slash" xml:id="xcbac8193-28d8-46af-9cd8-5d9150aa6fa4"/>

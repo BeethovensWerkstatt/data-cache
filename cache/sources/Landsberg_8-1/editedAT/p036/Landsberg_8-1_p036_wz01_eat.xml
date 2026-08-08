@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="xfc3be3fa-d840-4731-8103-d306a4c1733c">
           <name xml:id="xc80ce2ce-4666-4bfd-a80a-9ebad5bfcea2">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
+        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x1b722d3e-ff01-4896-a265-2b0729538e01">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-06" n="2" resp="#bw">
+      <change isodate="2026-08-08" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -312,7 +312,7 @@
                     </note>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz01_dt.xml#da4bc95be-d435-4d1e-8bb0-6498b19afa5e" dur="16" oct="5" pname="d" stem.dir="down" xml:id="oedd0d457-8a25-4108-ae09-85d46b886d05">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz01_dt.xml#da4bc95be-d435-4d1e-8bb0-6498b19afa5e" dur="16" oct="5" pname="d" stem.dir="down" xml:id="ob95eb278-78c6-48a7-9a6f-efb57ead44ea">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="x99de4a02-ccf3-42d0-bc58-30d56af4f597"/>
                           </supplied>
@@ -330,7 +330,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz01_dt.xml#dc1553727-c509-4344-b821-e214ba1c2ed7" dur="32" oct="5" pname="c" stem.dir="down" xml:id="o89401ab2-71be-4e41-ac00-e020c84d21aa">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz01_dt.xml#dc1553727-c509-4344-b821-e214ba1c2ed7" dur="32" oct="5" pname="c" stem.dir="down" xml:id="oc266dd26-4efa-4d0b-8c11-ee3a9e471caf">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="x02da6be1-5adc-47a1-8590-7d51c8226ab3"/>
                           </supplied>

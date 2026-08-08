@@ -36,7 +36,7 @@
           <name xml:id="n4yv2u41">mei-friend</name>
           <p xml:id="pxztrpl2">First edit by mei-friend 1.0.14, 23 May 2024.</p>
         </application>
-        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
+        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -148,7 +148,7 @@
           <p xml:id="xff9774c7-996f-4ef7-b068-52744f44bcda">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-06" n="2" resp="#bw">
+      <change isodate="2026-08-08" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -258,7 +258,7 @@
                     <note corresp="../diplomaticTranscripts/Landsberg_8-1_p033_wz02_dt.xml#dc416322a-62a8-407f-9c66-33ec084a801d" dur="8" oct="5" pname="g" stem.dir="down" xml:id="x6841b430-9771-4d72-8e92-f7db687e785c"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p033_wz02_dt.xml#d1fee1fde-ca44-4db9-8eab-90314d22c874" dur="8" oct="4" pname="a" stem.dir="down" xml:id="of956a6f1-b28d-459e-998f-05c741e8b36d"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p033_wz02_dt.xml#d1fee1fde-ca44-4db9-8eab-90314d22c874" dur="8" oct="4" pname="a" stem.dir="down" xml:id="o9541fe9d-0a53-43ab-95f5-36bac4686011"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p033_wz02_dt.xml#d1fee1fde-ca44-4db9-8eab-90314d22c874" dur="8" oct="4" pname="g" stem.dir="down" xml:id="x43d3a063-1e6f-471f-a1cd-b26e4ec69863"/>

@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x4ff33a88-60fa-42d1-b38f-2de897499a2a">
           <name xml:id="x4314eaf7-ee8a-4032-999a-6fc018fd3021">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
+        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="xb4573fbf-3a16-4efc-bd4f-522c9c170e0d">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-06" n="2" resp="#bw">
+      <change isodate="2026-08-08" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -332,7 +332,7 @@
                   </note>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p019_wz05_dt.xml#dde4b9abd-893d-4b1a-824e-5663f6d6e262" dur="4" oct="2" pname="a" stem.dir="up" xml:id="o3148d9fd-48e2-465c-9ae1-8918b53715c3">
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p019_wz05_dt.xml#dde4b9abd-893d-4b1a-824e-5663f6d6e262" dur="4" oct="2" pname="a" stem.dir="up" xml:id="ob3ef1113-6cb9-4f26-b794-54cb2cfb998d">
                         <accid accid="s" corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p019_wz05_dt.xml#d8207a4ad-fa0e-4e1b-a1c7-cd9e0a7e1eed" xml:id="x94e78864-ed8f-4fb2-b1a4-9f0f2fddd28d"/>
                       </note>
                     </orig>

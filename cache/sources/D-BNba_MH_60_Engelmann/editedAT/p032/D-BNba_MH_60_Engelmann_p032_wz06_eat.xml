@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xa894a04f-ef75-4016-85c5-315150a37c9f">
           <name xml:id="x345ac9bc-ea89-41da-9859-679010a47509">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="6f042534c9d53b7af59d38bde14ca61dc670c9f5" xml:id="bw_liquifier">
+        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="xfe972fb6-f3dc-427a-b1b7-9da1aab157b9">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-06" n="2" resp="#bw">
+      <change isodate="2026-08-08" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -222,7 +222,7 @@
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz06_dt.xml#bc0977283-ec16-47a3-9f53-dbd394cfc518 ../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz06_dt.xml#b3db29d8c-64e9-44ac-bdd2-b6fd2028ab99" xml:id="x84dbe0fa-a494-461e-80b1-c2b7797bc89c">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz06_dt.xml#dc22f93b7-40f7-44f7-b275-6bbdd375b092" dur="16" oct="4" pname="b" stem.dir="down" xml:id="o370905a7-7b12-4a56-a0f9-89988d1eaee8"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz06_dt.xml#dc22f93b7-40f7-44f7-b275-6bbdd375b092" dur="16" oct="4" pname="b" stem.dir="down" xml:id="o60bcac20-ecec-4a3c-a26a-74a5746bc7ca"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p032_wz06_dt.xml#dc22f93b7-40f7-44f7-b275-6bbdd375b092" dur="16" oct="5" pname="d" stem.dir="down" xml:id="x43597d47-28a9-4a78-b3b2-fb603d00ac5d"/>
