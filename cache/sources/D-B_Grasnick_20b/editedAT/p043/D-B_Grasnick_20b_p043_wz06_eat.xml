@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x3430abf0-0a87-432c-9f13-f80c5b0e0813">
           <name xml:id="x985031cf-3c99-4bbf-abdd-a185e22be457">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -266,7 +266,7 @@
                       </note>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#dfbb0e5c0-719c-4550-a266-b83123cc5264" dur="16" oct="4" pname="d" stem.dir="down" xml:id="oaf0f29b4-8abd-4bbf-8966-3e84bb6533f8"/>
+                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#dfbb0e5c0-719c-4550-a266-b83123cc5264" dur="16" oct="4" pname="d" stem.dir="down" xml:id="of43e4dda-15df-42ec-8cd6-20aced6eab74"/>
                         </orig>
                         <reg resp="#bw">
                           <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#dfbb0e5c0-719c-4550-a266-b83123cc5264" dur="16" oct="4" pname="e" stem.dir="down" xml:id="xae789d24-a323-4557-9439-359a7725a906"/>
@@ -279,7 +279,7 @@
                       </note>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#da92e4525-415c-48ae-88e2-aef425fde449" dur="16" oct="4" pname="d" stem.dir="down" xml:id="ofdfb8c50-c88b-460c-b1fa-74d716ce760a"/>
+                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#da92e4525-415c-48ae-88e2-aef425fde449" dur="16" oct="4" pname="d" stem.dir="down" xml:id="o16f53555-b468-4c84-a5f8-de80b1b28747"/>
                         </orig>
                         <reg resp="#bw">
                           <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#da92e4525-415c-48ae-88e2-aef425fde449" dur="16" oct="4" pname="e" stem.dir="down" xml:id="xb50f909f-02e4-4bcc-a934-1b23417b29a0"/>
@@ -292,7 +292,7 @@
                       </note>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#d8e0d1e2f-acd2-4cd5-825e-6437827d8a82" dur="16" oct="4" pname="d" stem.dir="down" xml:id="o7ab9dfc5-00c6-41f1-9116-0ac5912fdbd6"/>
+                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#d8e0d1e2f-acd2-4cd5-825e-6437827d8a82" dur="16" oct="4" pname="d" stem.dir="down" xml:id="of3ad6232-5d9e-4d9f-9e06-9becc3eb1977"/>
                         </orig>
                         <reg resp="#bw">
                           <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#d8e0d1e2f-acd2-4cd5-825e-6437827d8a82" dur="16" oct="4" pname="e" stem.dir="down" xml:id="x1936caf8-3515-4243-a549-3f92ade810b8"/>
@@ -318,7 +318,7 @@
                       <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#d40d314ed-2670-480d-b545-1a9d46b56a52" dur="16" oct="5" pname="e" stem.dir="down" xml:id="x53f16605-9a5c-441c-b1aa-8884b539a01d"/>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#d2193402f-d9b3-467b-9786-426b55d7e79a" dur="16" oct="4" pname="b" stem.dir="down" xml:id="o32493c90-37d1-49d7-a1bb-bf36523d9aed">
+                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#d2193402f-d9b3-467b-9786-426b55d7e79a" dur="16" oct="4" pname="b" stem.dir="down" xml:id="ob12ec876-97db-465e-bddb-e672b0f31112">
                             <supplied resp="#bw">
                               <accid accid.ges="s" xml:id="x4b9a787d-29e4-4039-a693-8d362875b6f4"/>
                             </supplied>
@@ -356,7 +356,7 @@
                     </note>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#db12e807f-f899-416a-b9f7-716cc959cc0e" dur="32" oct="5" pname="d" stem.dir="down" xml:id="o4ec33d2d-b9ca-4913-a118-0b2144c9a938"/>
+                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#db12e807f-f899-416a-b9f7-716cc959cc0e" dur="32" oct="5" pname="d" stem.dir="down" xml:id="o88b4393b-3dee-4f71-89d4-aa7db70a9915"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#db12e807f-f899-416a-b9f7-716cc959cc0e" dur="32" oct="5" pname="f" stem.dir="down" xml:id="x9a21260c-f614-4ccd-add7-13ae4bf099a4"/>
@@ -380,7 +380,7 @@
                   <beam corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#bc47ec82d-bb40-4d6c-8343-94f282fc3d9d ../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#baf32f110-2657-4c03-94c2-f79312a78c05 ../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#be282e8bd-6b03-444f-992c-03bb4df9448b" xml:id="x30a08166-edc5-4dc1-aa15-c0cdfb077d9f">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#d3e607f2f-074b-420b-b982-b4a8b6340e61" dur="8" oct="4" pname="e" stem.dir="down" xml:id="of1d85b63-72a0-4c36-8f18-fff1b2a40efb">
+                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#d3e607f2f-074b-420b-b982-b4a8b6340e61" dur="8" oct="4" pname="e" stem.dir="down" xml:id="o61581ea4-a13d-4b11-9288-1cddd8279e70">
                           <dot corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#da7d9732a-70cd-4616-9707-d7c917ed7fdf" xml:id="d5aa4ccf7-73ef-4ea0-b809-5d7176069dd8"/>
                         </note>
                       </orig>
@@ -471,7 +471,7 @@
                     </note>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#db810719e-e641-4e83-b716-01c97d81fca8" dur="8" oct="5" pname="c" stem.dir="down" xml:id="oc92d057a-e88e-4147-a2fc-7ca8219dd60c"/>
+                        <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#db810719e-e641-4e83-b716-01c97d81fca8" dur="8" oct="5" pname="c" stem.dir="down" xml:id="o71f970e3-23b6-4e53-b950-6c37dd96ec21"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz06_dt.xml#db810719e-e641-4e83-b716-01c97d81fca8" dur="8" oct="5" pname="d" stem.dir="down" xml:id="x01cb6c3a-8c51-4ca3-b94d-16ad6b40df57"/>

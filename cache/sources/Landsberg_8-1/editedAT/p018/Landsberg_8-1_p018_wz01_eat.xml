@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xa475a546-b12b-412b-b2a3-12fb0c4a80f5">
           <name xml:id="xb9bf594c-baa7-4fbd-b124-5db32ea0c503">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -354,7 +354,7 @@
                   <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz01_dt.xml#d7987cca8-b68b-4dd2-b471-21c041e9adc0" dur="2" oct="5" pname="d" stem.dir="down" xml:id="xaa47d568-03a3-4030-9ca9-986d56b245c0"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz01_dt.xml#d51366d86-57d7-437e-9610-f344002635bc" dur="4" oct="5" pname="d" stem.dir="down" xml:id="o4168dafc-e85b-4680-a38d-91efb8e6635f">
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz01_dt.xml#d51366d86-57d7-437e-9610-f344002635bc" dur="4" oct="5" pname="d" stem.dir="down" xml:id="o7ef0eaa0-952a-4a75-be33-aeda41e9192f">
                         <accid accid="s" corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz01_dt.xml#de30f6b05-cef0-4475-8e46-90414082bb88" xml:id="xb23d0a2d-2a69-4887-a7dc-36f16aea1615"/>
                       </note>
                     </orig>

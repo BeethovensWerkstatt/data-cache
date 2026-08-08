@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="x3c0a5271-bd11-47ff-8664-8f8cd67743f0">
           <name xml:id="x2540b644-5963-4006-855f-36708c16207e">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -220,7 +220,7 @@
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p011_wz05_dt.xml#b347bd2fc-495b-4280-bfc9-f53191fee992" xml:id="x18ae15c1-a841-43fc-89b4-cd939330a610">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p011_wz05_dt.xml#d770144be-0ece-40fd-993e-1fb0f58b32fd" dur="8" oct="4" pname="b" stem.dir="down" xml:id="o31931ffd-1c84-482b-b24a-f5d603a4ca5b">
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p011_wz05_dt.xml#d770144be-0ece-40fd-993e-1fb0f58b32fd" dur="8" oct="4" pname="b" stem.dir="down" xml:id="od37f3ab6-448a-4588-90ac-cf7ae688e599">
                           <accid accid="s" corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p011_wz05_dt.xml#d9f53bc98-732d-4749-9504-b0715b3cc4c6" xml:id="xfa579df5-b529-49a9-88d0-b26488773e5c"/>
                         </note>
                       </orig>

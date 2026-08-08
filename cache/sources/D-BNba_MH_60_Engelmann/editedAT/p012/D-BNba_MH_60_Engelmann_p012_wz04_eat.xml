@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="x9a97491f-92c3-4ffb-8772-73c375668392">
           <name xml:id="x9a2081db-8df5-46d7-b1bf-b56a511e7425">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -212,7 +212,7 @@
                       </note>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d04f2c286-4c13-497e-be44-c87d21ccba42" dur="16" oct="4" pname="a" stem.dir="down" xml:id="od5f21d07-6235-45e5-a943-0c7757dc177d">
+                          <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d04f2c286-4c13-497e-be44-c87d21ccba42" dur="16" oct="4" pname="a" stem.dir="down" xml:id="oe8fc981d-4920-497b-a203-1a5e4ae29875">
                             <supplied resp="#bw">
                               <accid accid.ges="f" xml:id="x3913d661-8b78-4386-9e30-c272b042ccb5"/>
                             </supplied>
@@ -232,7 +232,7 @@
                     <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d1b73b070-432d-4806-abd8-921eacb23568" dur="32" oct="4" pname="a" stem.dir="down" xml:id="xd2749024-b8d7-46ed-81e6-be99d5e824fe"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#db8e45b7c-79c0-4907-af44-b354637187be" dur="32" oct="4" pname="f" stem.dir="down" xml:id="o1200769f-8990-43ba-9850-34d9af80bad7"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#db8e45b7c-79c0-4907-af44-b354637187be" dur="32" oct="4" pname="f" stem.dir="down" xml:id="o3f77fe03-169a-48e7-9aa6-963e8f742ec1"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#db8e45b7c-79c0-4907-af44-b354637187be" dur="32" oct="4" pname="g" stem.dir="down" xml:id="xa138c0af-3978-4008-988d-a9c75e0ddb19"/>
@@ -240,7 +240,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d62fd3400-3110-4e09-a9e0-4490b58c66d9" dur="32" oct="4" pname="e" stem.dir="down" xml:id="o5eb4e111-19cb-42b6-ba20-05fb06dc73aa"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d62fd3400-3110-4e09-a9e0-4490b58c66d9" dur="32" oct="4" pname="e" stem.dir="down" xml:id="o11a6158c-1dd8-434d-b095-1986b1b9508a"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d62fd3400-3110-4e09-a9e0-4490b58c66d9" dur="32" oct="4" pname="f" stem.dir="down" xml:id="x085f7639-5575-4700-82f4-a1aec0f60c32"/>
@@ -248,7 +248,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d745c6cc8-0a0a-4055-bde7-0d799458c1d3" dur="32" oct="4" pname="d" stem.dir="down" xml:id="od59b09b4-e238-477c-84c5-c077c79978a8"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d745c6cc8-0a0a-4055-bde7-0d799458c1d3" dur="32" oct="4" pname="d" stem.dir="down" xml:id="o44d57552-7ea1-4700-ad79-508e767808e9"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz04_dt.xml#d745c6cc8-0a0a-4055-bde7-0d799458c1d3" dur="32" oct="4" pname="e" stem.dir="down" xml:id="x6d5a1c98-3fe4-4442-8d2a-2c27c19ec76b"/>

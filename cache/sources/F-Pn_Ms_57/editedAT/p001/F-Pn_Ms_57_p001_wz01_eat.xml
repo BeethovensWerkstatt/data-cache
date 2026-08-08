@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="x8b79b350-aa35-4225-8d39-eebea7fbc927">
           <name xml:id="x2b2ed310-a9af-41da-b396-3a4c48bb68fd">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -208,7 +208,7 @@
                   <beam corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#b01ea48e3-4d3b-4c73-b41c-84be9d84422d ../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#bc97c6d58-f005-4f52-bfd1-eb8d6b20251b ../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#bdfb6d729-2732-481f-9c10-0b0890fd91a1" xml:id="xc02287bc-9968-460b-a745-0c25701cb6aa">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#d99757675-e683-4c49-a208-d8255387e80e" dur="16" oct="4" pname="a" stem.dir="down" xml:id="oa901c44e-b914-4259-861f-eb13ee834944">
+                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#d99757675-e683-4c49-a208-d8255387e80e" dur="16" oct="4" pname="a" stem.dir="down" xml:id="o46b3c548-5b3c-4c70-990c-e6befb526b9e">
                           <dot corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#d40c32e59-ae79-42f7-be28-75cc3819a8d3" xml:id="df13695f3-dd70-4c04-8d96-f10d2518ba03"/>
                         </note>
                       </orig>
@@ -220,7 +220,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#db4665bb6-d7a1-4d2f-afee-53e7ba3422ee" dur="32" oct="4" pname="a" stem.dir="down" xml:id="o06949822-14ac-4049-84b9-9fddb80b809d"/>
+                        <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#db4665bb6-d7a1-4d2f-afee-53e7ba3422ee" dur="32" oct="4" pname="a" stem.dir="down" xml:id="oc8cbd41d-feef-4e73-950b-a678bf371559"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/F-Pn_Ms_57_p001_wz01_dt.xml#db4665bb6-d7a1-4d2f-afee-53e7ba3422ee" dur="32" oct="4" pname="g" stem.dir="down" xml:id="x265f1e92-34c0-43cd-8061-fb7b02e5907e"/>

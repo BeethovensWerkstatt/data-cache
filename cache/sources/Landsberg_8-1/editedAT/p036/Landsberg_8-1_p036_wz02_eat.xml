@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="xdd19e806-a977-452b-8207-6770ef9fd8f7">
           <name xml:id="xb20f7529-053d-4cc6-8648-d591aca90da0">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -362,7 +362,7 @@
                 <layer n="1" xml:id="x1c745541-c401-4d02-9c82-b045feeeddce">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#dd31a1b7e-30e9-411d-ba27-ad0fa4064912" dur="4" oct="4" pname="c" stem.dir="down" xml:id="o148af4b0-6b93-435b-940b-d1152519de6e">
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#dd31a1b7e-30e9-411d-ba27-ad0fa4064912" dur="4" oct="4" pname="c" stem.dir="down" xml:id="o827626d7-ac01-4d36-9cfb-0a6ddde3269a">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="x96c70b41-4cd3-4e07-ba8f-69706a675cf2"/>
                         </supplied>
@@ -1107,7 +1107,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#b6d2fa70b-cfbc-47ba-9d9c-da5fbf161de2 ../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#b8de2b6a9-f10d-4ad4-8f7b-4208efdbcc5f" xml:id="xf3f50298-9894-4e18-9566-312aa84bbf7a">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d09ea3682-872f-4957-9010-f61ed52326db" dur="16" oct="5" pname="e" stem.dir="down" xml:id="o0a5a46c1-6657-4635-bac2-aa4aae252093"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d09ea3682-872f-4957-9010-f61ed52326db" dur="16" oct="5" pname="e" stem.dir="down" xml:id="o845928d2-3d63-40f6-9b07-1d60c0dd9e9f"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d09ea3682-872f-4957-9010-f61ed52326db" dur="16" oct="5" pname="c" stem.dir="down" xml:id="x55597c55-def8-46c0-a497-559a64d54909"/>
@@ -1115,7 +1115,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d3a9c9079-1a90-46d4-8168-f9c5fb7da018" dur="16" oct="5" pname="f" stem.dir="down" xml:id="ob955f358-0bcc-4999-9c87-9f9ae9ee3ba3">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d3a9c9079-1a90-46d4-8168-f9c5fb7da018" dur="16" oct="5" pname="f" stem.dir="down" xml:id="o2e1f6453-db89-440e-9a57-0ac05cd1de6b">
                           <supplied resp="#bw">
                             <accid accid="f" xml:id="x1f8ea122-d282-4cb0-8374-95bb495310ea"/>
                           </supplied>
@@ -1131,7 +1131,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d332ce53e-b3b5-4c21-af13-27beb5902c47" dur="16" oct="5" pname="e" stem.dir="down" xml:id="ob8fea390-c1e1-4699-b1b1-91c4f5a45b8f"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d332ce53e-b3b5-4c21-af13-27beb5902c47" dur="16" oct="5" pname="e" stem.dir="down" xml:id="o2afa0fe9-09c8-4316-8511-0d28afecf91d"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d332ce53e-b3b5-4c21-af13-27beb5902c47" dur="16" oct="5" pname="d" stem.dir="down" xml:id="x980539ae-fcb8-4f1e-be94-2ea3c39579da"/>
@@ -1262,7 +1262,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#baf5ce8e4-a680-4e9a-9c93-737f8b88b1c0 ../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#b016aa002-481b-4a09-b155-512f0a927a1d ../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#b84280039-1347-4cdb-b2b9-2caee2ed105b" xml:id="x78c35e2a-c062-4bfa-b746-db37bdb0c2f4">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d603580a1-76f8-4b2a-878e-4c42f4609e42" dur="8" oct="4" pname="f" stem.dir="down" xml:id="o286e433c-e074-4270-9eb4-d1a4306d1a92"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d603580a1-76f8-4b2a-878e-4c42f4609e42" dur="8" oct="4" pname="f" stem.dir="down" xml:id="od8d20b67-5895-4435-ae2c-ca4ee52e83c9"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d603580a1-76f8-4b2a-878e-4c42f4609e42" dur="8" oct="4" pname="d" stem.dir="down" xml:id="xae694131-1a15-431e-ae5f-37cc4443f0b7"/>
@@ -1283,7 +1283,7 @@
                 <layer n="1" xml:id="x21738af4-ff1d-45a9-ba41-32659877fdd1">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d306afdea-4dc9-4eb3-aa10-6656adf06e0d" dur="4" oct="4" pname="a" stem.dir="up" xml:id="o12a797cf-2075-4df6-935a-ddd961412782"/>
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d306afdea-4dc9-4eb3-aa10-6656adf06e0d" dur="4" oct="4" pname="a" stem.dir="up" xml:id="of195864c-d3c9-40be-809e-5cde8bb1bd4f"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/Landsberg_8-1_p036_wz02_dt.xml#d306afdea-4dc9-4eb3-aa10-6656adf06e0d" dur="4" oct="4" pname="g" stem.dir="up" xml:id="x656c728e-100c-4111-bb38-8486b9e7509e"/>

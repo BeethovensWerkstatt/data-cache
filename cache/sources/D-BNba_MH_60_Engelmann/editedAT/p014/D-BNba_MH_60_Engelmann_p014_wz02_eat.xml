@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xfdabcd0b-3ce9-4c97-b0c6-17f8b12bb6a8">
           <name xml:id="x981b776b-9d3b-4252-9991-b835cc62b4d7">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -245,7 +245,7 @@
                   <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#d7d292caf-7e27-42fd-b35e-d1aef2ca0d3f" dur="4" oct="4" pname="a" stem.dir="down" xml:id="x341e41df-aa33-4431-a9d9-540efc33c2c3"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#da7ff27f0-a25e-4304-9473-6ba6eb4ea8c0" dur="4" oct="5" pname="c" stem.dir="down" xml:id="off5f6f9d-a0a9-4150-87a5-0c5d0ee89e7b">
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#da7ff27f0-a25e-4304-9473-6ba6eb4ea8c0" dur="4" oct="5" pname="c" stem.dir="down" xml:id="oee4bcbc5-6704-4180-82a2-43b31cd64e0f">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="xb6781087-caec-486e-a3d4-5ae1dff6ff47"/>
                         </supplied>
@@ -267,7 +267,7 @@
                 <layer n="1" xml:id="xfcd773be-a94c-4cd9-95cc-3dd968b87108">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#d27667f28-1bb4-437f-bfea-8994007becf6" dur="4" oct="5" pname="d" stem.dir="down" xml:id="o3ff6326f-9a70-48aa-b187-abebef212d00"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#d27667f28-1bb4-437f-bfea-8994007becf6" dur="4" oct="5" pname="d" stem.dir="down" xml:id="oe40a8c79-7798-4938-8dbf-513327830375"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p014_wz02_dt.xml#d27667f28-1bb4-437f-bfea-8994007becf6" dur="4" oct="5" pname="c" stem.dir="down" xml:id="x3d9caaab-dc5d-4bb4-bcfa-8527e24c46c6"/>

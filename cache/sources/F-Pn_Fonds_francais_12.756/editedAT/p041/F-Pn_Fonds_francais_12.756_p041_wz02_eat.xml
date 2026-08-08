@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xf47d6b41-57a7-4178-a8db-4953d8df010e">
           <name xml:id="xcc18af4b-2279-4a6e-bfed-c573375c3a29">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>

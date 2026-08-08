@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xfd88f95b-b4bb-4d04-bce9-75d16c89d8ad">
           <name xml:id="xdb67c93b-bf0d-4d3e-9380-a11f5270759f">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -219,7 +219,7 @@
                       <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz12_dt.xml#d34c77e2e-ed50-48ad-9e2b-48c689a63631" dur="8" oct="4" pname="c" stem.dir="down" xml:id="xb311b685-ff37-452b-a84f-98d994f3f9c1"/>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz12_dt.xml#daec67183-baf6-46a0-b9c2-3a25916f768e" dur="8" oct="3" pname="a" stem.dir="down" xml:id="oa288153e-6e64-491b-8402-d530c9aaacf0"/>
+                          <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz12_dt.xml#daec67183-baf6-46a0-b9c2-3a25916f768e" dur="8" oct="3" pname="a" stem.dir="down" xml:id="o12f24a54-08ea-4788-8c78-b24e6433ffed"/>
                         </orig>
                         <reg resp="#bw">
                           <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz12_dt.xml#daec67183-baf6-46a0-b9c2-3a25916f768e" dur="8" oct="3" pname="g" stem.dir="down" xml:id="xbda44f62-9e08-4b11-8c9b-8234c9606a4e"/>
@@ -314,7 +314,7 @@
                   </beam>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz12_dt.xml#d1ded91cf-a67c-4015-9a19-2dfb7cfc192f" dur="4" oct="3" pname="b" stem.dir="down" xml:id="o201244c0-610b-4757-8bde-3cc2aa656ace"/>
+                      <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz12_dt.xml#d1ded91cf-a67c-4015-9a19-2dfb7cfc192f" dur="4" oct="3" pname="b" stem.dir="down" xml:id="ocd2188ce-af2e-4497-8009-9fc739ba9d68"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/Landsberg_8-1_p017_wz12_dt.xml#d1ded91cf-a67c-4015-9a19-2dfb7cfc192f" dur="4" oct="4" pname="c" stem.dir="down" xml:id="x80d14a28-9604-4d90-afa3-3cbfc961f349"/>

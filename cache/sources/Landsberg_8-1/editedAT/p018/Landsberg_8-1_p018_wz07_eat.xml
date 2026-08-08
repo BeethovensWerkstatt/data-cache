@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="x6d8ac484-3202-4759-a522-4a3988f8b9cf">
           <name xml:id="x5b627342-6708-4363-aca9-7d3d2ed33fb3">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="2cce618734a2d697490c2eb665f2e7964194b4fd" xml:id="bw_liquifier">
+        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -266,7 +266,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#ba610c5a8-2fae-4822-9075-b71a442ec874" xml:id="x3d15f027-9bb4-4eaa-bf76-5fd93519d2e4">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d469ad4b3-6ed3-4c1d-aab1-160fa8a1aefd" dur="16" oct="5" pname="c" stem.dir="down" xml:id="oc34c5b11-4df4-4dc4-ae16-7656900a9efd"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d469ad4b3-6ed3-4c1d-aab1-160fa8a1aefd" dur="16" oct="5" pname="c" stem.dir="down" xml:id="o3fac1255-698a-41ba-a39c-5870b1697339"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d469ad4b3-6ed3-4c1d-aab1-160fa8a1aefd" dur="16" oct="5" pname="d" stem.dir="down" xml:id="x2f15a44a-4e40-47e7-b44f-412603b97c97"/>
@@ -329,7 +329,7 @@
                     <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d67394046-34e8-4e71-a869-0086f559419e" dur="8" oct="5" pname="g" stem.dir="down" xml:id="x49762cc4-147d-4f60-bce5-d15f63bcef43"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d3fa8280d-7a5c-4724-a192-2b9f4849ba9b" dur="8" oct="4" pname="a" stem.dir="down" xml:id="o2edf77bf-e34a-4b40-a710-72d2f2d95d07">
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p018_wz07_dt.xml#d3fa8280d-7a5c-4724-a192-2b9f4849ba9b" dur="8" oct="4" pname="a" stem.dir="down" xml:id="o117fa719-3f77-4ba7-8355-2b34a6b2ada5">
                           <supplied resp="#bw">
                             <accid accid.ges="f" xml:id="x5efe201a-ca68-4c5c-9a89-445508eaf592"/>
                           </supplied>
