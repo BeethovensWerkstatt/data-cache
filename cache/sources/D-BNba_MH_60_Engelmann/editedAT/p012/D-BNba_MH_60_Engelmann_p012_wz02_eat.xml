@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="x44608ec7-4446-4c86-a25c-6c6799a9300f">
           <name xml:id="x350de977-63d5-488f-b786-b9b233534fbe">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
+        <application version="3dc229089dee599b21bde7705547f3cfa687985b" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x4d40b8e8-fb2b-4777-b26f-48e3644af633">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-08" n="2" resp="#bw">
+      <change isodate="2026-08-10" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -251,7 +251,7 @@
                 -olini e viola
               </dir>
             </measure>
-            <measure corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#d71e2972f-45b4-4d92-bc19-24816b98f19c" n="2" xml:id="x7a17633c-b358-4277-a22a-b288b724880a">
+            <measure n="2" xml:id="x7a17633c-b358-4277-a22a-b288b724880a">
               <staff n="1" xml:id="xabf873da-1da1-402a-94c2-deaacd14ad17">
                 <layer n="1" xml:id="xcc731955-d30a-433b-9504-56096d0d0b19">
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#bae456cd4-0a94-46ea-b69d-96d066a4c4ad ../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#b6b8ec0b3-52f4-4289-9a54-5a02accdc9f1" xml:id="x5dc8f1bb-2518-4ffd-8609-cf847d7c76de">
@@ -287,7 +287,7 @@
               </staff>
             </measure>
             <sb corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#s93c57686-3656-408e-9881-8d721c9c0b93" xml:id="se4f49834-8aa4-446e-a1c9-ee1a758b0551"/>
-            <measure corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#d60a9a031-8e21-47c5-aa75-bc2d28b9f262" n="3" xml:id="x8f84d4da-63b0-496e-89d5-9cb69465531b">
+            <measure corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#d60a9a031-8e21-47c5-aa75-bc2d28b9f262 ../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#dd5bf8967-0b0c-49bc-b4d4-36f8576a25e9" n="3" xml:id="x8f84d4da-63b0-496e-89d5-9cb69465531b">
               <staff n="1" xml:id="xcbb5a9ab-1f95-4f14-9912-0aa32de232cd">
                 <layer n="1" xml:id="x45618e65-3291-4006-ae0a-9280d814b54c">
                   <beam corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#bc780641f-411c-4b55-a935-f1b37d90fe68 ../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#b3a378805-ac25-4088-b3c6-4c73639c333d ../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p012_wz02_dt.xml#dd6be40ea-71d7-4845-b9f4-9d64736bcb63" xml:id="xdfdfaeb6-d57b-4406-8f95-c6948b6331a1">
