@@ -36,7 +36,7 @@
           <name xml:id="ni9yjgl2">mei-friend</name>
           <p xml:id="pct426i1">First edit by mei-friend 1.0.13, 22 April 2024.</p>
         </application>
-        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
+        <application version="26e0bb7398c67a77953dc1143d44cfd49ea4bc56" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -148,7 +148,7 @@
           <p xml:id="x26bdeda3-8ea5-4d50-84d2-776139cd490f">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-08" n="2" resp="#bw">
+      <change isodate="2026-08-10" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using

@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xe7cf469c-6f3f-432a-84eb-1d685f8167e0">
           <name xml:id="x8ca278a9-aa06-4198-903e-50841556c767">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
+        <application version="26e0bb7398c67a77953dc1143d44cfd49ea4bc56" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x484e9d47-3436-4820-a19c-299fb2608e0c">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-08" n="2" resp="#bw">
+      <change isodate="2026-08-10" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -217,7 +217,7 @@
                   </note>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz02_dt.xml#d289bdd86-88fe-43dd-818e-5c4ad6e6bcbf" dur="4" oct="5" pname="f" stem.dir="down" xml:id="o06960c2e-4bc6-4254-a737-cb020e4eba8b">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz02_dt.xml#d289bdd86-88fe-43dd-818e-5c4ad6e6bcbf" dur="4" oct="5" pname="f" stem.dir="down" xml:id="oabddec2f-be9e-429f-b644-fc4ba6dc72d6">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="xfed04d30-799b-4739-add7-1c522f7072c7"/>
                         </supplied>
@@ -233,7 +233,7 @@
                   </choice>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz02_dt.xml#ded6308a3-2a9a-4c53-94d8-cef98596c9ab" dur="4" oct="5" pname="f" stem.dir="down" xml:id="o852469a0-685c-4fd1-9949-4ed3271bf3b0">
+                      <note corresp="../diplomaticTranscripts/F-Pn_Ms_96_p001_wz02_dt.xml#ded6308a3-2a9a-4c53-94d8-cef98596c9ab" dur="4" oct="5" pname="f" stem.dir="down" xml:id="o8a47620b-837b-413b-9e07-054d5b624bf6">
                         <supplied resp="#bw">
                           <accid accid.ges="f" xml:id="x63b3bf9d-b08e-493d-a7a0-9900d07a03c7"/>
                         </supplied>

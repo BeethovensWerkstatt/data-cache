@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x6bf45a5f-4adf-4fd5-be47-3a1f4ecbd4ae">
           <name xml:id="x406fa248-d3a6-4af3-b666-d1d1d495b252">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
+        <application version="26e0bb7398c67a77953dc1143d44cfd49ea4bc56" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x1253d760-1ce8-454f-a1c9-7958b2dfc3c8">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-08" n="2" resp="#bw">
+      <change isodate="2026-08-10" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -269,7 +269,7 @@
                       <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz07_dt.xml#dcff86423-1174-40dc-aeea-7022b4171d57" dur="16" oct="4" pname="a" stem.dir="down" xml:id="xee292077-799d-4b43-a0ea-60a6adc62623"/>
                       <choice>
                         <orig>
-                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz07_dt.xml#da15793a4-cf75-4733-80bc-7231a111c8af" dur="16" oct="5" pname="f" stem.dir="down" xml:id="o21cd2168-3504-422c-bd50-04eb77737a9e"/>
+                          <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz07_dt.xml#da15793a4-cf75-4733-80bc-7231a111c8af" dur="16" oct="5" pname="f" stem.dir="down" xml:id="o0af3721e-b538-4553-99e8-847dda51d017"/>
                         </orig>
                         <reg resp="#bw">
                           <note corresp="../diplomaticTranscripts/D-B_Grasnick_20b_p043_wz07_dt.xml#da15793a4-cf75-4733-80bc-7231a111c8af" dur="16" oct="5" pname="e" stem.dir="down" xml:id="xab8ecce9-0be0-466c-96a9-a112bcecf9e5"/>

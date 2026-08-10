@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x53a66bd0-0cfc-4833-b0a6-8ddb25a10a6c">
           <name xml:id="xfbf2dbbf-3684-4396-89aa-20e026ffbe91">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
+        <application version="26e0bb7398c67a77953dc1143d44cfd49ea4bc56" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x8c4378df-5f48-4ded-a8d2-d4d176d65285">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-08" n="2" resp="#bw">
+      <change isodate="2026-08-10" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -276,7 +276,7 @@
                     <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d9815183c-2fa8-4dc2-83b8-02b8fc0220e1" dur="16" oct="5" pname="g" stem.dir="down" xml:id="x51ef5801-80a4-4c26-b374-0756439ccd15"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d98bdcef3-d93e-4f93-8bbe-635570e733a3" dur="16" oct="5" pname="e" stem.dir="down" xml:id="oed626e3b-e6d3-4be7-9301-cece93167d3d"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d98bdcef3-d93e-4f93-8bbe-635570e733a3" dur="16" oct="5" pname="e" stem.dir="down" xml:id="o8fe7515f-b3d2-4052-a0ac-da35e0012ade"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d98bdcef3-d93e-4f93-8bbe-635570e733a3" dur="16" oct="5" pname="f" stem.dir="down" xml:id="x3299831f-1131-4cae-a66b-0018ac8882f5"/>
@@ -284,7 +284,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d202851ff-4357-41fb-a3bf-824d27380f83" dur="16" oct="5" pname="d" stem.dir="down" xml:id="o4522705e-c2f0-4569-987c-af938feedf1f"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d202851ff-4357-41fb-a3bf-824d27380f83" dur="16" oct="5" pname="d" stem.dir="down" xml:id="o970d9c2f-b06b-4564-9bd2-e1ede328c3a6"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d202851ff-4357-41fb-a3bf-824d27380f83" dur="16" oct="5" pname="e" stem.dir="down" xml:id="x78430aea-7f1a-455d-b7d7-4ceb357e7753"/>
@@ -292,7 +292,7 @@
                     </choice>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d8b726d7e-d377-40b7-b293-7cbd8329a2c7" dur="16" oct="5" pname="c" stem.dir="down" xml:id="oa59a2e1e-194f-4592-884a-2832f300a672"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d8b726d7e-d377-40b7-b293-7cbd8329a2c7" dur="16" oct="5" pname="c" stem.dir="down" xml:id="o39c7a493-9fab-40ad-a01f-1a7cc63e0e48"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p036_wz10_dt.xml#d8b726d7e-d377-40b7-b293-7cbd8329a2c7" dur="16" oct="5" pname="d" stem.dir="down" xml:id="x9975112f-bc93-4a01-afb0-fdba6a73bfc5"/>

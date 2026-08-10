@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x9d58ca43-2f7d-43bc-9e4f-f193672b5bf1">
           <name xml:id="xc71fc4aa-16c8-47c7-9ebe-9df7ad550c4b">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="f54125bda05381989b6b45128e27098b72cf3728" xml:id="bw_liquifier">
+        <application version="26e0bb7398c67a77953dc1143d44cfd49ea4bc56" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -383,7 +383,7 @@
                 </layer>
               </staff>
             </measure>
-            <measure n="9" xml:id="xd995b51c-371d-4a08-97e2-3ecc53e19913">
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#dc928da25-23e6-4893-be4c-31611f33d793" n="9" xml:id="xd995b51c-371d-4a08-97e2-3ecc53e19913">
               <staff n="1" xml:id="x6817b049-dd76-4f9a-b87e-bf3ae073e037">
                 <layer n="1" xml:id="x55bed48a-672e-4020-8157-087792cdd126">
                   <mSpace xml:id="se8153306-88ef-432b-b171-8248431ffe1a"/>
@@ -403,7 +403,7 @@
               <tie corresp="../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#d18027447-be3e-4acf-a672-31cfbcef9378" curvedir="above" endid="#x224d905f-037a-467a-9807-eb6cbda0e9b5" startid="#x4a8d7751-b393-47f9-9c8a-0dd7e245f8e4" xml:id="xb26be3ce-7dcb-48be-96ef-1ce7bb334dc8"/>
             </measure>
             <sb corresp="../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#sd829bd7d-1e87-4b9e-9645-b63c8c9222b3" xml:id="s5875d43b-8190-403d-83e5-85889276cb7e"/>
-            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#dcdc277d7-148f-48fa-bacc-7377169d0fbd" n="10" xml:id="x2396b08d-96dc-4aaf-8bef-eab3e7a949e2">
+            <measure n="10" xml:id="x2396b08d-96dc-4aaf-8bef-eab3e7a949e2">
               <staff n="1" xml:id="x85a14d4c-b700-48a5-aefe-9140c0ccf999">
                 <layer n="1" xml:id="xaaa8f0f4-76f8-49d0-b7d7-640658f9aa73">
                   <mSpace xml:id="s32ec514a-d69f-4018-8ca8-00f968f793ee"/>
@@ -725,7 +725,7 @@
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#bd02f8f68-efa3-4f78-9509-fedc36fdddae ../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#b8ff9945d-61fc-47e4-8b14-c52446851a8d" xml:id="x4fa24c60-adb7-49bf-b332-200ffd8a93f0">
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#d249f74fb-8434-40a6-be69-7bd1f2ef0621" dur="16" oct="4" pname="b" stem.dir="down" xml:id="o6b57311d-f79c-40f3-b619-f61638a7c4c9"/>
+                        <note corresp="../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#d249f74fb-8434-40a6-be69-7bd1f2ef0621" dur="16" oct="4" pname="b" stem.dir="down" xml:id="o6fa8316c-a4d2-4c94-ba46-0d9e2d61254a"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/Landsberg_8-1_p030_wz01_dt.xml#d249f74fb-8434-40a6-be69-7bd1f2ef0621" dur="16" oct="5" pname="c" stem.dir="down" xml:id="x13d3b141-d5eb-47b7-9442-d19fef238585"/>
