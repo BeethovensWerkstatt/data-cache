@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="x79b4f3f5-12a3-4d4c-a257-bc4de9f3cc19">
           <name xml:id="xa04d0f53-8c5e-4855-870a-5b5ecf6adb68">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="137d712d89d475d41a035e3f1e9dfb5a110f360a" xml:id="bw_liquifier">
+        <application version="f40fa62a4b53e394974980202c8e5c9d902cb83d" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="xa5decdc4-b959-4948-99aa-066a99b191d7">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-08" n="2" resp="#bw">
+      <change isodate="2026-08-10" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -498,7 +498,7 @@
               </staff>
               <tie corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#dd07d7131-98d3-46f7-bba8-a3176667162a" curvedir="above" endid="#xf1d1ce6b-0c77-4690-8d68-4701bc2a881c" startid="#xffed1f74-42db-4737-b721-15ce22183053" xml:id="x723f5cbb-d410-4443-ae08-5f8d12263888"/>
             </measure>
-            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#dc90c7927-45e8-45be-8ec4-07ddda0f68b6 ../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#dab12b41c-4920-4af6-9e68-039d2c1b9bfc" n="10" xml:id="xc64ddf9f-c593-4f2b-a2a1-f80601c0c90f">
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#dc90c7927-45e8-45be-8ec4-07ddda0f68b6" n="10" xml:id="xc64ddf9f-c593-4f2b-a2a1-f80601c0c90f">
               <staff n="1" xml:id="x5833c6a1-bd2e-474a-988a-fab198afd573">
                 <layer n="1" xml:id="xfeb57fba-ca54-4d6e-aba1-a28c6f5998ec">
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#b984be355-9808-4375-abd8-650264af4eca" xml:id="xe2bd829b-928f-478a-8b1c-002b4e6d5d8b">
@@ -519,7 +519,7 @@
               <tie corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#dfed667e8-21da-46c4-950e-a9bf9a0d7fd8" curvedir="above" endid="#x8868d771-3e7d-43f4-8696-29452702e096" startid="#x2aaa3e1d-0cdc-4276-8299-29a48e3cfbe9" xml:id="x002ccf4b-d849-4cae-9fff-a804f19decb2"/>
             </measure>
             <sb corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#sb28301ff-a9b9-4282-9625-67a59d4a3a1a" xml:id="scb8f6d54-d1ad-453f-a1f3-85997c590898"/>
-            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#d4a1074a7-c381-4033-8329-3e6005391cff" n="11" xml:id="x263530ea-15fa-4676-9627-37804c07647e">
+            <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#d4a1074a7-c381-4033-8329-3e6005391cff ../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#d777e0b51-2ff2-425c-8392-dd4d8f8d97dc" n="11" xml:id="x263530ea-15fa-4676-9627-37804c07647e">
               <staff n="1" xml:id="xcccbfd73-1b49-4e3f-af38-0bbd43326d77">
                 <layer n="1" xml:id="x8e4860a2-7ae0-420d-a9a7-dd8d6c3fa87c">
                   <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p037_wz01_dt.xml#b32247054-feab-421e-b992-71a7c8c02894" xml:id="x082dd0ef-b213-4ccb-9e02-58fb83283d4a">
