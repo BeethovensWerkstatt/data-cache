@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="x9a540ee0-c837-4657-b668-e13d2599b6c6">
           <name xml:id="xd4879ffa-d6c5-4325-9da5-b500d2379c62">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="2f65ffebef4af109cd832a374b30ee1cc71452de" xml:id="bw_liquifier">
+        <application version="81a73c820a0f2e0720bc083becf1309821355a8f" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -225,7 +225,7 @@
                 <layer n="1" xml:id="xcc840db0-95ba-4739-a22a-ca37539b200b">
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d9e42fd55-1a25-4aa9-85da-a731d9c61866" dur="2" oct="6" pname="f" stem.dir="up" xml:id="oe817b18c-91a2-4c0f-b07f-6847e6a2a81d"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d9e42fd55-1a25-4aa9-85da-a731d9c61866" dur="2" oct="6" pname="f" stem.dir="up" xml:id="o908fa9f3-07e6-4e8b-816e-7560d73213c0"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d9e42fd55-1a25-4aa9-85da-a731d9c61866" dur="2" oct="6" pname="a" stem.dir="up" xml:id="xac7edb48-fc95-436b-8082-3f46730bf3e4"/>
@@ -300,7 +300,7 @@
                     <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d4f8d1064-0ea7-4fbd-92da-166546939983" dur="8" oct="5" pname="g" stem.dir="down" xml:id="x9665b820-1e27-45a5-9f02-c96716f8fb62"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d6216eae1-8709-46e4-8474-4fa4531f57e1" dur="8" oct="5" pname="d" stem.dir="down" xml:id="o104e1f4f-ff4f-46be-bd3a-79c384ebef07"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d6216eae1-8709-46e4-8474-4fa4531f57e1" dur="8" oct="5" pname="d" stem.dir="down" xml:id="oa42845c9-8389-40d3-914b-6ffdbd2356f8"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d6216eae1-8709-46e4-8474-4fa4531f57e1" dur="8" oct="5" pname="e" stem.dir="down" xml:id="xe9d44502-450b-4f97-bd30-333c34135515"/>
@@ -325,6 +325,19 @@
                   <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d5eb6761c-9d7a-4bf8-8d7f-c335e4915235" dur="4" oct="5" pname="f" stem.dir="down" xml:id="xefcea3e9-27d7-4b5f-a22c-dd6b8eca5c34"/>
                   <space dur="4" xml:id="x7e3722dc-e7f2-4ad0-8c65-c2ca8749a025"/>
                 </layer>
+                <layer n="2" xml:id="xf6b9affa-12cc-4084-ae0e-2fd87752570d">
+                  <beam corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d3c37dfa5-fe18-46f8-a058-dc64414fd07f ../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#dace86ca3-b4c4-4a48-9770-67f849012538 ../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d230786d0-af35-493f-9e80-a462f09bfb9b" xml:id="x76c33e8f-349c-4ad1-96a0-c86f07be82a5">
+                    <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#dc29fd09d-89bb-4815-9fee-eb07f4b70ef5" dur="8" oct="4" pname="d" stem.dir="down" xml:id="x5849a9bb-635f-42f4-8bba-04bb9ccf6f55"/>
+                    <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d760ed550-0612-4fc3-9e91-386d42247746" dur="16" oct="4" pname="d" stem.dir="down" xml:id="xab3911fa-b5f4-4175-9ce5-5a5d78507b8b">
+                      <dot corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#dd44390d7-347a-4358-bb5e-6e847c24bd13" xml:id="d864c49f8-12de-46ef-826e-ccb530b2d067"/>
+                    </note>
+                    <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d2729c3ba-c63b-4f5c-bf0d-4f811bb19d9e" dur="32" oct="4" pname="d" stem.dir="down" xml:id="xf5a2d02d-2c94-4c15-b724-60e7ab53e0b6"/>
+                  </beam>
+                  <beam corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d38566abb-65f7-459c-bf97-491fbfb4d075" xml:id="x7aeb60a3-ece8-4b4c-aec9-1f3eec4d75fb">
+                    <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d4e24ee7a-19de-4147-95e4-41773b100251" dur="8" oct="4" pname="d" stem.dir="down" xml:id="xbf2fea0b-1213-422b-b116-30299da1493d"/>
+                    <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d6877c00e-4555-494f-a628-9b01a3968f99" dur="8" oct="4" pname="d" stem.dir="down" xml:id="xd41e2c69-6784-4646-8218-5a523539a36a"/>
+                  </beam>
+                </layer>
               </staff>
             </measure>
             <measure n="11" xml:id="xb9fd2a91-d00c-4a1a-ba26-4497f67dcefd">
@@ -344,6 +357,23 @@
                     </supplied>
                   </note>
                   <space dur="4" xml:id="x1cc1073a-8cb5-4ae4-a149-47d5c61538af"/>
+                </layer>
+                <layer n="2" xml:id="xe6deef8c-520b-4be9-ace8-2088150d7ba4">
+                  <supplied resp="#bw">
+                    <beam xml:id="x28e5d6c6-dd54-439b-ab05-2e2d93062ced">
+                      <note dur="8" oct="4" pname="d" stem.dir="down" xml:id="xedb02423-ed56-475a-aaef-37875b7e4d7c">
+                        <dot xml:id="x48391c50-4f0b-4f85-90fd-ce2fce47aecf"/>
+                        <dot xml:id="xdf460b31-48b5-43c1-afdb-0a076362031a"/>
+                      </note>
+                      <note dur="32" oct="4" pname="d" stem.dir="down" xml:id="xed70ea2d-f26f-4595-90e5-5da1b42bebf6"/>
+                    </beam>
+                  </supplied>
+                  <supplied resp="#bw">
+                    <beam xml:id="xa4e35495-121a-4eaa-83c7-cf5ca1f54426">
+                      <note dur="8" oct="4" pname="d" stem.dir="down" xml:id="x8f7b99fb-da74-4013-b8a0-28673a38f0d5"/>
+                      <note dur="8" oct="4" pname="d" stem.dir="down" xml:id="xe1b8c257-1ce2-4a46-bd31-82b04b74aade"/>
+                    </beam>
+                  </supplied>
                 </layer>
               </staff>
             </measure>
@@ -370,7 +400,7 @@
                     <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d5026df4c-3e8c-401b-a5bf-63b8221ea86c" dur="8" oct="5" pname="f" stem.dir="down" xml:id="xa04c532e-951b-431b-b3c6-109491567076"/>
                     <choice>
                       <orig>
-                        <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d3d19cbed-15c5-4b3a-9045-111a7650cd06" dur="8" oct="5" pname="d" stem.dir="down" xml:id="oc14e7217-3683-4086-a6eb-7493abbb86e1"/>
+                        <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d3d19cbed-15c5-4b3a-9045-111a7650cd06" dur="8" oct="5" pname="d" stem.dir="down" xml:id="oaec813a1-681f-4a00-ba72-f8b81b10d4f5"/>
                       </orig>
                       <reg resp="#bw">
                         <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d3d19cbed-15c5-4b3a-9045-111a7650cd06" dur="8" oct="5" pname="e" stem.dir="down" xml:id="x720d22c4-d663-44d5-8ce4-88dec3b2aeb1"/>
@@ -404,7 +434,7 @@
                   <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d5d40555d-22c5-4a15-9427-93501e53bf89" dur="4" oct="5" pname="g" stem.dir="down" xml:id="xc32f2960-add8-475e-a1c8-7b00f4411eae"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d58c11508-24fd-412d-89ec-26cfc7f17383" dur="4" oct="5" pname="d" stem.dir="down" xml:id="o2de65aca-b415-4808-bd47-1e2eda4de4cf"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d58c11508-24fd-412d-89ec-26cfc7f17383" dur="4" oct="5" pname="d" stem.dir="down" xml:id="o6b4df166-d923-453c-9a8a-7de9ab8fae43"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d58c11508-24fd-412d-89ec-26cfc7f17383" dur="4" oct="5" pname="e" stem.dir="down" xml:id="x77c965d9-3a33-4cf1-bbec-62084396e379"/>
@@ -415,24 +445,7 @@
             </measure>
             <measure corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d12d83013-82ad-47a8-93f2-6a5d23cd7948" n="17" xml:id="x3c0491e5-d50c-4ce1-9d27-7e39562e63cc">
               <staff n="1" xml:id="x4a7accfe-e686-4b9c-ac92-c4e5c1bf8097">
-                <layer n="1" xml:id="xf6b9affa-12cc-4084-ae0e-2fd87752570d">
-                  <supplied resp="#bw">
-                    <beam xml:id="x76c33e8f-349c-4ad1-96a0-c86f07be82a5">
-                      <note dur="8" oct="5" pname="a" stem.dir="down" xml:id="x5849a9bb-635f-42f4-8bba-04bb9ccf6f55"/>
-                      <note dur="16" oct="5" pname="a" stem.dir="down" xml:id="xab3911fa-b5f4-4175-9ce5-5a5d78507b8b">
-                        <dot xml:id="d864c49f8-12de-46ef-826e-ccb530b2d067"/>
-                      </note>
-                      <note dur="32" oct="5" pname="a" stem.dir="down" xml:id="xf5a2d02d-2c94-4c15-b724-60e7ab53e0b6"/>
-                    </beam>
-                  </supplied>
-                  <supplied resp="#bw">
-                    <beam xml:id="x7aeb60a3-ece8-4b4c-aec9-1f3eec4d75fb">
-                      <note dur="8" oct="5" pname="a" stem.dir="down" xml:id="xbf2fea0b-1213-422b-b116-30299da1493d"/>
-                      <note dur="8" oct="5" pname="a" stem.dir="down" xml:id="xd41e2c69-6784-4646-8218-5a523539a36a"/>
-                    </beam>
-                  </supplied>
-                </layer>
-                <layer n="2" xml:id="x58c39df6-69c5-4994-8327-09b99da2ea68">
+                <layer n="1" xml:id="x58c39df6-69c5-4994-8327-09b99da2ea68">
                   <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d2b62181e-f6f1-4f62-8cc1-7c43309635b4" dur="8" oct="5" pname="f" stem.dir="down" xml:id="xfc10cf91-093d-46d9-94cc-bb77ce81e9c6"/>
                   <rest corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#d3e42f41f-1b74-428c-bc01-ba4eb94a5739" dur="4" xml:id="x0c73f6a4-c440-43f7-86b4-d03a6ecbd381">
                     <dot corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#ddb3ca54d-1c3f-4705-8c28-8adaf44d7eab" xml:id="ddd03fb9c-ebc9-4594-9ece-47a167ae3744"/>
@@ -447,7 +460,7 @@
                   <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#db8aec0de-34bf-4bb5-86cd-18aabd68f2f0" dur="4" oct="5" pname="a" stem.dir="down" xml:id="xddf6f5ae-3cb2-427b-85ba-2425af281d66"/>
                   <choice>
                     <orig>
-                      <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#db8d24df8-db48-4349-bb91-c24514595688" dur="4" oct="5" pname="e" stem.dir="down" xml:id="o012339ef-0cef-4e18-8e87-f3941666c0eb"/>
+                      <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#db8d24df8-db48-4349-bb91-c24514595688" dur="4" oct="5" pname="e" stem.dir="down" xml:id="of4a1af2c-c286-4ca9-a49c-4c896fac9b0f"/>
                     </orig>
                     <reg resp="#bw">
                       <note corresp="../diplomaticTranscripts/D-BNba_BSk_21-69_p001_wz05_dt.xml#db8d24df8-db48-4349-bb91-c24514595688" dur="4" oct="5" pname="f" stem.dir="down" xml:id="x44e3d371-b1ef-4925-b6b8-44495c8ea36d"/>
