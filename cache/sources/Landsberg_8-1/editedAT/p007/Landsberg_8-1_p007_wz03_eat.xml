@@ -32,7 +32,7 @@
         <application type="plugin" version="4.0.0" xml:id="x09fadbcd-a598-4e2e-9cf5-800ff50dcd3b">
           <name xml:id="x5aa27fac-34ed-489d-bc25-a79cf3f24449">Sibelius to MEI 4 Exporter (4.0.0)</name>
         </application>
-        <application version="26e0bb7398c67a77953dc1143d44cfd49ea4bc56" xml:id="bw_liquifier">
+        <application version="47b5a36cdd6d7068f0eb022413c0aaec3c7541c8" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -144,7 +144,7 @@
           <p xml:id="x7b9f7c5b-bdf8-447c-ab85-44f5b18577c0">Imported file into data structure using XSLT.</p>
         </changeDesc>
       </change>
-      <change isodate="2026-08-10" n="2" resp="#bw">
+      <change isodate="2026-08-25" n="2" resp="#bw">
         <changeDesc>
           <p>
             File auto-generated using
@@ -1240,8 +1240,12 @@
               </staff>
               <!-- ToDo! Unklare Lesart: wie die Oktavierungsangaben zu deuten sind. unclear um das <dir>
                                 ?-->
-              <dir corresp="../diplomaticTranscripts/Landsberg_8-1_p007_wz03_dt.xml#de4b76afd-79a0-4256-86dc-ff6972ae1638" layer="1" place="below" staff="1" tstamp="1" xml:id="x0904c10e-34f4-43a1-9c03-ca1ed6f096c2">8</dir>
-              <dir corresp="../diplomaticTranscripts/Landsberg_8-1_p007_wz03_dt.xml#d8c701e1b-a8cd-4670-ad89-527b26e4eb10" layer="1" place="below" staff="1" tstamp="1" xml:id="x84e225ba-ad4a-4fd4-b585-177204b5eda3">8 violoncello</dir>
+              <supplied resp="#bw">
+                <dir layer="1" place="below" staff="1" tstamp="1" xml:id="x0904c10e-34f4-43a1-9c03-ca1ed6f096c2">8</dir>
+              </supplied>
+              <supplied resp="#bw">
+                <dir layer="1" place="below" staff="1" tstamp="1" xml:id="x84e225ba-ad4a-4fd4-b585-177204b5eda3">8 violoncello</dir>
+              </supplied>
             </measure>
             <measure corresp="../diplomaticTranscripts/Landsberg_8-1_p007_wz03_dt.xml#d9728e9cc-1766-447f-b54d-2c2ce9fa0112" n="49" xml:id="xe20968f2-0c17-4dbe-95a5-2e4d0c52cd5b">
               <staff n="1" xml:id="xc31922b3-4138-4515-b53d-e6f1ee61203d">
@@ -1278,8 +1282,12 @@
               </staff>
               <!-- ToDo! Unklare Lesart: wie die Oktavierungsangaben zu deuten sind. unclear um das <dir>
                                     ??-->
-              <dir corresp="../diplomaticTranscripts/Landsberg_8-1_p007_wz03_dt.xml#dc6f199e6-e439-4595-afbe-bdcf43e780ee" layer="1" place="above" staff="1" tstamp="1" xml:id="x7ef825fb-5cca-4071-a488-b7126ab7d94b">8</dir>
-              <dir corresp="../diplomaticTranscripts/Landsberg_8-1_p007_wz03_dt.xml#dd3aa392f-c04a-4da7-a60d-f9d0456e129b" layer="1" place="above" staff="1" tstamp="1" xml:id="xd6d8db61-d515-4d19-8837-73fd68d63143">8</dir>
+              <supplied resp="#bw">
+                <dir layer="1" place="above" staff="1" tstamp="1" xml:id="x7ef825fb-5cca-4071-a488-b7126ab7d94b">8</dir>
+              </supplied>
+              <supplied resp="#bw">
+                <dir layer="1" place="above" staff="1" tstamp="1" xml:id="xd6d8db61-d515-4d19-8837-73fd68d63143">8</dir>
+              </supplied>
             </measure>
             <measure n="51" xml:id="x077cd0f5-893c-423a-9b27-fed5fae18c84">
               <staff n="1" xml:id="x0a140d9f-c3a6-4f70-a0b1-feea28d7e32f">
