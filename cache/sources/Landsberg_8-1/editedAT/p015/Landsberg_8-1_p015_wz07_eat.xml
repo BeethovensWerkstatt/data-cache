@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xd61d33e2-7216-4857-aab2-d4a93fd9879b">
           <name xml:id="x81ef614c-033f-4a32-940b-ebb30311149d">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="78301aaa4a79cf8abde25077bd721c147ea14371" xml:id="bw_liquifier">
+        <application version="edbcef1ad93b0468abca12f1369bfb69d9722732" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -234,7 +234,7 @@
               </staff>
               <staff n="2" xml:id="xf10c50bd-16f0-4bbb-9801-7d8d5d575877">
                 <layer n="1" xml:id="x366496dd-5c7d-49ce-86cc-9cb3fe39533e">
-                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p015_wz07_dt.xml#b8d7a0a08-eb14-425e-9b09-e6a77eedcf81 ../diplomaticTranscripts/Landsberg_8-1_p015_wz07_dt.xml#bc1b674ea-84a9-4bde-87c9-f239dab63dcd ../diplomaticTranscripts/Landsberg_8-1_p015_wz07_dt.xml#ba6b76544-7d3f-43ed-8143-5693d0c4c21e" xml:id="xe3647bf3-1f6f-4478-b969-7ae2cf314687">
+                  <beam corresp="../diplomaticTranscripts/Landsberg_8-1_p015_wz07_dt.xml#bc1b674ea-84a9-4bde-87c9-f239dab63dcd" xml:id="xe3647bf3-1f6f-4478-b969-7ae2cf314687">
                     <chord corresp="../diplomaticTranscripts/Landsberg_8-1_p015_wz07_dt.xml#d21d7acc4-6212-4dac-95b4-081f28fc1327" dur="8" stem.dir="down" xml:id="x15fb7faf-fe78-4bfc-b6af-d65e0b0f5687">
                       <note corresp="../diplomaticTranscripts/Landsberg_8-1_p015_wz07_dt.xml#d09ea2ac4-a45a-4614-bfe6-f7ce417a0931" dur="8" oct="3" pname="a" xml:id="xacc671b3-4867-46ad-bfdc-c4cd90a1f26f"/>
                       <note corresp="../diplomaticTranscripts/Landsberg_8-1_p015_wz07_dt.xml#dec7fd8b5-b3e0-4284-b336-60a4b332a087" dur="8" oct="4" pname="e" staff="1" xml:id="x875e5a4e-3607-47a3-b971-c07066baa22f"/>
