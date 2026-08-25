@@ -32,7 +32,7 @@
         <application type="plugin" version="4.1.0" xml:id="xb689cc40-00bd-48f0-a0f4-1af6dbf86733">
           <name xml:id="x3782a2ce-5d73-4392-8173-09d3614b8702">Sibelius to MEI 4 Exporter (4.1.0)</name>
         </application>
-        <application version="6f738edcc7a88d6d0eeca573b3a50f8699e4c092" xml:id="bw_liquifier">
+        <application version="386e0e3930bf44839e3c660d075a3cb86b005c4e" xml:id="bw_liquifier">
           <name>Liquifier</name>
           <ptr target="https://github.com/BeethovensWerkstatt/liquifier/"/>
         </application>
@@ -247,9 +247,7 @@
                   <space dur="4" xml:id="xcfe1ff39-a2ad-463f-a20c-cef61e18137b"/>
                 </layer>
               </staff>
-              <supplied resp="#bw">
-                <octave dis="8" dis.place="below" endid="#xa7bd1303-8b9e-4d62-92fc-e3b47eb9ae02" layer="1" staff="2" startid="#x9e1ef7d1-7ad0-4f77-a359-8490bdf293d5" xml:id="ofa1074b9-efeb-4ce5-ac8a-b9842cd4767b"/>
-              </supplied>
+              <octave corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p040_wz07_dt.xml#d543844c6-09e6-462d-8234-7953ed497d8e" dis="8" dis.place="below" endid="#xa7bd1303-8b9e-4d62-92fc-e3b47eb9ae02" layer="1" staff="2" startid="#x9e1ef7d1-7ad0-4f77-a359-8490bdf293d5" xml:id="ofa1074b9-efeb-4ce5-ac8a-b9842cd4767b"/>
             </measure>
             <measure corresp="../diplomaticTranscripts/D-BNba_MH_60_Engelmann_p040_wz07_dt.xml#ddd94a9ce-9ecf-480c-9194-4f399533dadb" n="3" xml:id="xf4bd9360-ffc4-47ed-8f97-c1b309bd4ef2">
               <staff n="1" xml:id="x62e500c0-2935-425f-8671-53e761460382">
